@@ -1,0 +1,33 @@
+Project Proposal: Domain Specialist vs. Zero-Shot Generalist in Clinical NER: Evaluating Lexical Robustness
+1. Topic and Larger Context
+What is the topic and current state?
+This project focuses on clinical Named Entity Recognition (NER), specifically the automatic extraction of Disease and Chemical entities from medical texts. Currently, the standard approach in NLP is to use specialized, domain-trained Transformer models, such as BioBERT, which use subword tokenization to handle complex medical vocabulary. However, modern Large Language Models (LLMs) are disrupting this standard. LLMs offer vast, general-purpose knowledge without needing specific fine-tuning (zero-shot prompting), but they are known to "hallucinate" incorrect information. Previous work often compares these models broadly, but rarely investigates how they handle the linguistic shift from simple layman's terms to highly technical medical jargon.
+
+2. The Novelty
+What is the new part of your project?
+While many papers compare F1-scores between different models, our project introduces a novel stratified evaluation based on lexical complexity. Instead of testing models on a single, mixed dataset, we will write a script to divide our medical test set into "Layman" (common English terms like "fever") and "Scientific" (Latin-rooted terminology like "erythema") subsets. This allows us to map the exact threshold where a specialized model's tokenization breaks down compared to an LLM's zero-shot guessing.
+
+3. Research Questions
+What is the research question?
+
+Primary: How does the performance of a fine-tuned domain specialist (BioBERT) compare to a zero-shot generalist LLM when clinical text transitions from layman English to complex scientific Latin terminology?
+
+Secondary: Do the errors made by BioBERT (subword tokenization failures) systematically differ from the errors made by zero-shot LLMs (entity hallucinations)?
+
+4. Methodology and Doability
+This project is highly doable within the timeframe by utilizing pre-existing datasets and Hugging Face libraries. The step-by-step plan is as follows:
+
+Step 1: General Domain Baseline (Course Requirement): To establish a starting benchmark, we will first fine-tune a standard BERT model on the Universal NER (EWT) dataset, formatting predictions via the required .iob2 standard.
+
+Step 2: Medical Domain Fine-Tuning: For the primary experiment, we will utilize the benchmark BC5CDR corpus. We will fine-tune a BioBERT model (dmis-lab/biobert-base-cased-v1.2) on the training split, using the development (dev) set to tune hyperparameters and prevent overfitting.
+
+Step 3: Zero-Shot LLM Prompting: We will use the Gemini API to perform strict zero-shot entity extraction on the identical BC5CDR test data, constraining its output to JSON format for a direct 1-to-1 comparison against BioBERT.
+
+5. Analysis Plan
+To thoroughly interpret our results, we will conduct the following analyses:
+
+Quantitative Analysis: We will generate confusion matrices and calculate F1-scores to track performance across the different "Layman" and "Scientific" test subsets.
+
+Qualitative Analysis: We will manually inspect false positives to categorize model-specific errors (e.g., categorizing when BioBERT truncates a Latin suffix incorrectly vs. when the LLM hallucinates a non-existent chemical).
+
+Ablation Study: We will compare the performance of our fine-tuned BioBERT against our general-domain baseline BERT. This will quantify exactly how much the "medical pre-training" actually contributes when faced with complex Latin words.
