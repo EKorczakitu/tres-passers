@@ -1,0 +1,28 @@
+======================================================
+How to Run the Baseline NER Model
+======================================================
+
+1. Requirements and Environment
+To run this code, you will need Python installed along with the following libraries. You can install them using pip:
+
+pip install torch transformers datasets evaluate seqeval tqdm
+
+2. Folder Structure
+Ensure that the following files are all located in the exact same folder:
+- baseline_model.py (or your Jupyter Notebook file)
+- en_ewt-ud-train.iob2
+- en_ewt-ud-dev.iob2
+- en_ewt-ud-test.iob2
+
+3. Execution
+- If you are using a Python script: Open your terminal, navigate to the folder containing the files, and run:
+  python baseline_model.py
+  
+- If you are using a Jupyter Notebook: Open the notebook and run all cells from top to bottom.
+
+4. Expected Output
+When the script runs, it will:
+- Read the IOB2 data files.
+- Train the BERT-base-cased model for 3 epochs (progress bars will show in the terminal).
+- Evaluate the model on the dev set and print the Validation Metrics (Precision, Recall, F1, Accuracy).
+- Generate a new file named 'test_predictions.iob2' in the same folder. This file contains the final predictions in the requested 3-column format.
