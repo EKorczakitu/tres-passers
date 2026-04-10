@@ -1,0 +1,11 @@
+{
+  "doc_id": "12345",
+  "gemini_response": {
+    "diseases": [
+      "hepatotoxicity"
+    ],
+    "chemicals": [
+      "acetaminophen"
+    ]
+  }
+}
