@@ -1,0 +1,5194 @@
+[
+  {
+    "doc_id": "64",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "CYP"
+      ]
+    }
+  },
+  {
+    "doc_id": "67",
+    "gemini_response": {
+      "diseases": [
+        "Spontaneous pain"
+      ],
+      "chemicals": [
+        "CYP"
+      ]
+    }
+  },
+  {
+    "doc_id": "77",
+    "gemini_response": {
+      "diseases": [
+        "edema",
+        "vasodilation",
+        "infiltration of inflammatory cells"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "88",
+    "gemini_response": {
+      "diseases": [
+        "R / R MM"
+      ],
+      "chemicals": [
+        "dex",
+        "bort"
+      ]
+    }
+  },
+  {
+    "doc_id": "90",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "bort",
+        "dex"
+      ]
+    }
+  },
+  {
+    "doc_id": "91",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "bort",
+        "dex"
+      ]
+    }
+  },
+  {
+    "doc_id": "99",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "bort",
+        "dex"
+      ]
+    }
+  },
+  {
+    "doc_id": "100",
+    "gemini_response": {
+      "diseases": [
+        "MM"
+      ],
+      "chemicals": [
+        "Bort",
+        "dex"
+      ]
+    }
+  },
+  {
+    "doc_id": "103",
+    "gemini_response": {
+      "diseases": [
+        "anxiety"
+      ],
+      "chemicals": [
+        "Acetylcholinesterase"
+      ]
+    }
+  },
+  {
+    "doc_id": "104",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "AChE",
+        "BPA"
+      ]
+    }
+  },
+  {
+    "doc_id": "105",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "BPA"
+      ]
+    }
+  },
+  {
+    "doc_id": "108",
+    "gemini_response": {
+      "diseases": [
+        "anxiety"
+      ],
+      "chemicals": [
+        "BPA"
+      ]
+    }
+  },
+  {
+    "doc_id": "109",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "AChE",
+        "BPA"
+      ]
+    }
+  },
+  {
+    "doc_id": "110",
+    "gemini_response": {
+      "diseases": [
+        "anxiety"
+      ],
+      "chemicals": [
+        "BPA",
+        "AChE"
+      ]
+    }
+  },
+  {
+    "doc_id": "111",
+    "gemini_response": {
+      "diseases": [
+        "anxiety"
+      ],
+      "chemicals": [
+        "PBE"
+      ]
+    }
+  },
+  {
+    "doc_id": "127",
+    "gemini_response": {
+      "diseases": [
+        "CR"
+      ],
+      "chemicals": [
+        "RD"
+      ]
+    }
+  },
+  {
+    "doc_id": "130",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "RD"
+      ]
+    }
+  },
+  {
+    "doc_id": "191",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "TDF"
+      ]
+    }
+  },
+  {
+    "doc_id": "198",
+    "gemini_response": {
+      "diseases": [
+        "confusion"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "212",
+    "gemini_response": {
+      "diseases": [
+        "depressive phenotype"
+      ],
+      "chemicals": [
+        "METH"
+      ]
+    }
+  },
+  {
+    "doc_id": "213",
+    "gemini_response": {
+      "diseases": [
+        "depressive-like behaviour"
+      ],
+      "chemicals": [
+        "METH"
+      ]
+    }
+  },
+  {
+    "doc_id": "214",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "METH"
+      ]
+    }
+  },
+  {
+    "doc_id": "215",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "METH"
+      ]
+    }
+  },
+  {
+    "doc_id": "217",
+    "gemini_response": {
+      "diseases": [
+        "depression"
+      ],
+      "chemicals": [
+        "glial fibrillary acidic protein"
+      ]
+    }
+  },
+  {
+    "doc_id": "218",
+    "gemini_response": {
+      "diseases": [
+        "depressive"
+      ],
+      "chemicals": [
+        "METH"
+      ]
+    }
+  },
+  {
+    "doc_id": "255",
+    "gemini_response": {
+      "diseases": [
+        "coronary arteries",
+        "reduced left ventricular ejection fraction",
+        "wall motion abnormalities",
+        "TS"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "263",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "5HT",
+        "ecstasy"
+      ]
+    }
+  },
+  {
+    "doc_id": "265",
+    "gemini_response": {
+      "diseases": [
+        "CAN",
+        "PD"
+      ],
+      "chemicals": [
+        "MDMA"
+      ]
+    }
+  },
+  {
+    "doc_id": "267",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "ecstasy"
+      ]
+    }
+  },
+  {
+    "doc_id": "268",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "ecstasy"
+      ]
+    }
+  },
+  {
+    "doc_id": "302",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "305",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "307",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "GEM",
+        "P"
+      ]
+    }
+  },
+  {
+    "doc_id": "308",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "GEM"
+      ]
+    }
+  },
+  {
+    "doc_id": "311",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "GEM",
+        "P"
+      ]
+    }
+  },
+  {
+    "doc_id": "312",
+    "gemini_response": {
+      "diseases": [
+        "relapsed or refractory HL"
+      ],
+      "chemicals": [
+        "GEM",
+        "P"
+      ]
+    }
+  },
+  {
+    "doc_id": "313",
+    "gemini_response": {
+      "diseases": [
+        "psychological distress"
+      ],
+      "chemicals": [
+        "ecstasy"
+      ]
+    }
+  },
+  {
+    "doc_id": "318",
+    "gemini_response": {
+      "diseases": [
+        "anxiety",
+        "depression"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "320",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "ecstasy"
+      ]
+    }
+  },
+  {
+    "doc_id": "322",
+    "gemini_response": {
+      "diseases": [
+        "anxiety",
+        "depression"
+      ],
+      "chemicals": [
+        "ecstasy"
+      ]
+    }
+  },
+  {
+    "doc_id": "340",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "342",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "Cr"
+      ]
+    }
+  },
+  {
+    "doc_id": "352",
+    "gemini_response": {
+      "diseases": [
+        "cancer"
+      ],
+      "chemicals": [
+        "chemotherapy"
+      ]
+    }
+  },
+  {
+    "doc_id": "361",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "sodium"
+      ]
+    }
+  },
+  {
+    "doc_id": "368",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "DOX"
+      ]
+    }
+  },
+  {
+    "doc_id": "385",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "DOX"
+      ]
+    }
+  },
+  {
+    "doc_id": "386",
+    "gemini_response": {
+      "diseases": [
+        "acute toxicity",
+        "chronic toxicity"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "388",
+    "gemini_response": {
+      "diseases": [
+        "seizures"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "390",
+    "gemini_response": {
+      "diseases": [
+        "seizures"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "395",
+    "gemini_response": {
+      "diseases": [
+        "seizures"
+      ],
+      "chemicals": [
+        "TAC"
+      ]
+    }
+  },
+  {
+    "doc_id": "399",
+    "gemini_response": {
+      "diseases": [
+        "seizures"
+      ],
+      "chemicals": [
+        "TAC"
+      ]
+    }
+  },
+  {
+    "doc_id": "400",
+    "gemini_response": {
+      "diseases": [
+        "seizures"
+      ],
+      "chemicals": [
+        "TAC",
+        "Tbil"
+      ]
+    }
+  },
+  {
+    "doc_id": "407",
+    "gemini_response": {
+      "diseases": [
+        "memory loss"
+      ],
+      "chemicals": [
+        "saline"
+      ]
+    }
+  },
+  {
+    "doc_id": "432",
+    "gemini_response": {
+      "diseases": [
+        "Memory deficit"
+      ],
+      "chemicals": [
+        "STZ"
+      ]
+    }
+  },
+  {
+    "doc_id": "435",
+    "gemini_response": {
+      "diseases": [
+        "apoptotic cell death"
+      ],
+      "chemicals": [
+        "Caspase - 3",
+        "STZ"
+      ]
+    }
+  },
+  {
+    "doc_id": "440",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "STZ"
+      ]
+    }
+  },
+  {
+    "doc_id": "442",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "Ca ( 2 +)"
+      ]
+    }
+  },
+  {
+    "doc_id": "457",
+    "gemini_response": {
+      "diseases": [
+        "ARF"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "471",
+    "gemini_response": {
+      "diseases": [
+        "attention problems"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "479",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "586",
+    "gemini_response": {
+      "diseases": [
+        "antihypertensive"
+      ],
+      "chemicals": [
+        "Lactoferrin",
+        "iron"
+      ]
+    }
+  },
+  {
+    "doc_id": "588",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "Dex",
+        "saline"
+      ]
+    }
+  },
+  {
+    "doc_id": "590",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "LF",
+        "Dex"
+      ]
+    }
+  },
+  {
+    "doc_id": "601",
+    "gemini_response": {
+      "diseases": [
+        "seizures"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "603",
+    "gemini_response": {
+      "diseases": [
+        "postoperative seizures"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "607",
+    "gemini_response": {
+      "diseases": [
+        "seizure"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "619",
+    "gemini_response": {
+      "diseases": [
+        "postoperative seizures"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "623",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "ecstasy"
+      ]
+    }
+  },
+  {
+    "doc_id": "626",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "ecstasy"
+      ]
+    }
+  },
+  {
+    "doc_id": "636",
+    "gemini_response": {
+      "diseases": [
+        "pain"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "655",
+    "gemini_response": {
+      "diseases": [
+        "APL",
+        "acute promyelocytic leukemia"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "658",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "CCNU",
+        "CTX",
+        "antibiotics"
+      ]
+    }
+  },
+  {
+    "doc_id": "667",
+    "gemini_response": {
+      "diseases": [
+        "tumor"
+      ],
+      "chemicals": [
+        "CCNU",
+        "CTX"
+      ]
+    }
+  },
+  {
+    "doc_id": "697",
+    "gemini_response": {
+      "diseases": [
+        "cancer",
+        "cardiac morbidity"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "700",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "DOX"
+      ]
+    }
+  },
+  {
+    "doc_id": "821",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "K (+)",
+        "Ca (2 +)"
+      ]
+    }
+  },
+  {
+    "doc_id": "825",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "IKr blockers",
+        "IKs blockers",
+        "Ca (2+) channel blockers"
+      ]
+    }
+  },
+  {
+    "doc_id": "829",
+    "gemini_response": {
+      "diseases": [
+        "developmental toxicity"
+      ],
+      "chemicals": [
+        "N-phenylimide herbicides"
+      ]
+    }
+  },
+  {
+    "doc_id": "831",
+    "gemini_response": {
+      "diseases": [
+        "developmental toxicity"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "875",
+    "gemini_response": {
+      "diseases": [
+        "heart failure"
+      ],
+      "chemicals": [
+        "DOX"
+      ]
+    }
+  },
+  {
+    "doc_id": "878",
+    "gemini_response": {
+      "diseases": [
+        "cardiomyocyte apoptosis"
+      ],
+      "chemicals": [
+        "p53",
+        "DOX"
+      ]
+    }
+  },
+  {
+    "doc_id": "879",
+    "gemini_response": {
+      "diseases": [
+        "cardiomyocyte apoptosis"
+      ],
+      "chemicals": [
+        "DOX"
+      ]
+    }
+  },
+  {
+    "doc_id": "880",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "p53",
+        "DOX"
+      ]
+    }
+  },
+  {
+    "doc_id": "881",
+    "gemini_response": {
+      "diseases": [
+        "cardiomyocyte apoptosis"
+      ],
+      "chemicals": [
+        "STAT3",
+        "Ku70",
+        "Ku80",
+        "DOX"
+      ]
+    }
+  },
+  {
+    "doc_id": "882",
+    "gemini_response": {
+      "diseases": [
+        "myocardial stress"
+      ],
+      "chemicals": [
+        "p53",
+        "STAT3",
+        "DOX"
+      ]
+    }
+  },
+  {
+    "doc_id": "918",
+    "gemini_response": {
+      "diseases": [
+        "breast cancer"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "936",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "STZ"
+      ]
+    }
+  },
+  {
+    "doc_id": "938",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "Testosterone"
+      ]
+    }
+  },
+  {
+    "doc_id": "942",
+    "gemini_response": {
+      "diseases": [
+        "STZ"
+      ],
+      "chemicals": [
+        "STZ"
+      ]
+    }
+  },
+  {
+    "doc_id": "943",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "STZ"
+      ]
+    }
+  },
+  {
+    "doc_id": "944",
+    "gemini_response": {
+      "diseases": [
+        "castrated",
+        "STZ - treated"
+      ],
+      "chemicals": [
+        "Testosterone",
+        "STZ"
+      ]
+    }
+  },
+  {
+    "doc_id": "950",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "GFC"
+      ]
+    }
+  },
+  {
+    "doc_id": "952",
+    "gemini_response": {
+      "diseases": [
+        "seizure"
+      ],
+      "chemicals": [
+        "GFC"
+      ]
+    }
+  },
+  {
+    "doc_id": "959",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "GABA",
+        "GFC75",
+        "P400"
+      ]
+    }
+  },
+  {
+    "doc_id": "976",
+    "gemini_response": {
+      "diseases": [
+        "AKI"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "978",
+    "gemini_response": {
+      "diseases": [
+        "AKI"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "979",
+    "gemini_response": {
+      "diseases": [
+        "AKI"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "980",
+    "gemini_response": {
+      "diseases": [
+        "soft tissue infections"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "982",
+    "gemini_response": {
+      "diseases": [
+        "AKI"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "1031",
+    "gemini_response": {
+      "diseases": [
+        "Intraocular inflammation"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "1072",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "lithium"
+      ]
+    }
+  },
+  {
+    "doc_id": "1076",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "lithium"
+      ]
+    }
+  },
+  {
+    "doc_id": "1078",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "lithium"
+      ]
+    }
+  },
+  {
+    "doc_id": "1079",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "sodium",
+        "potassium",
+        "calcium",
+        "lithium"
+      ]
+    }
+  },
+  {
+    "doc_id": "1105",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "BTC",
+        "BChE"
+      ]
+    }
+  },
+  {
+    "doc_id": "1108",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "1118",
+    "gemini_response": {
+      "diseases": [
+        "anemia"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "1121",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "betaine"
+      ]
+    }
+  },
+  {
+    "doc_id": "1126",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "betaine",
+        "Bcl-2",
+        "Bax"
+      ]
+    }
+  },
+  {
+    "doc_id": "1141",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "1150",
+    "gemini_response": {
+      "diseases": [
+        "Tubular proteinuria"
+      ],
+      "chemicals": [
+        "maleate"
+      ]
+    }
+  },
+  {
+    "doc_id": "1154",
+    "gemini_response": {
+      "diseases": [
+        "cell damage"
+      ],
+      "chemicals": [
+        "Maleate",
+        "reactive oxygen species",
+        "ROS"
+      ]
+    }
+  },
+  {
+    "doc_id": "1159",
+    "gemini_response": {
+      "diseases": [
+        "oxidative stress"
+      ],
+      "chemicals": [
+        "oxygen"
+      ]
+    }
+  },
+  {
+    "doc_id": "1181",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "Ozone",
+        "PM2.5"
+      ]
+    }
+  },
+  {
+    "doc_id": "1208",
+    "gemini_response": {
+      "diseases": [
+        "CML",
+        "Philadelphia chromosome"
+      ],
+      "chemicals": [
+        "Ionizing radiation"
+      ]
+    }
+  },
+  {
+    "doc_id": "1223",
+    "gemini_response": {
+      "diseases": [
+        "liver cancer"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "1232",
+    "gemini_response": {
+      "diseases": [
+        "cancer"
+      ],
+      "chemicals": [
+        "iAs"
+      ]
+    }
+  },
+  {
+    "doc_id": "1233",
+    "gemini_response": {
+      "diseases": [
+        "cancer"
+      ],
+      "chemicals": [
+        "iAs"
+      ]
+    }
+  },
+  {
+    "doc_id": "1234",
+    "gemini_response": {
+      "diseases": [
+        "cancer"
+      ],
+      "chemicals": [
+        "iAs"
+      ]
+    }
+  },
+  {
+    "doc_id": "1235",
+    "gemini_response": {
+      "diseases": [
+        "cancer"
+      ],
+      "chemicals": [
+        "iAs"
+      ]
+    }
+  },
+  {
+    "doc_id": "1239",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "P11"
+      ]
+    }
+  },
+  {
+    "doc_id": "1248",
+    "gemini_response": {
+      "diseases": [
+        "degenerative changes",
+        "deficiency"
+      ],
+      "chemicals": [
+        "vitamin E"
+      ]
+    }
+  },
+  {
+    "doc_id": "1276",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "K"
+      ]
+    }
+  },
+  {
+    "doc_id": "1277",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "Glu"
+      ]
+    }
+  },
+  {
+    "doc_id": "1280",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "Glu"
+      ]
+    }
+  },
+  {
+    "doc_id": "1293",
+    "gemini_response": {
+      "diseases": [
+        "heart failure"
+      ],
+      "chemicals": [
+        "vasoactive intestinal polypeptide"
+      ]
+    }
+  },
+  {
+    "doc_id": "1295",
+    "gemini_response": {
+      "diseases": [
+        "heart failure"
+      ],
+      "chemicals": [
+        "VIP"
+      ]
+    }
+  },
+  {
+    "doc_id": "1323",
+    "gemini_response": {
+      "diseases": [
+        "bleeding"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "1335",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "1336",
+    "gemini_response": {
+      "diseases": [
+        "blood loss"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "1345",
+    "gemini_response": {
+      "diseases": [
+        "chest pain"
+      ],
+      "chemicals": [
+        "cocaine",
+        "tropinin I"
+      ]
+    }
+  },
+  {
+    "doc_id": "1346",
+    "gemini_response": {
+      "diseases": [
+        "cocaine toxicity"
+      ],
+      "chemicals": [
+        "cocaine"
+      ]
+    }
+  },
+  {
+    "doc_id": "1366",
+    "gemini_response": {
+      "diseases": [
+        "AL"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "1370",
+    "gemini_response": {
+      "diseases": [
+        "ARI"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "1378",
+    "gemini_response": {
+      "diseases": [
+        "ARI"
+      ],
+      "chemicals": [
+        "PBSCT"
+      ]
+    }
+  },
+  {
+    "doc_id": "1379",
+    "gemini_response": {
+      "diseases": [
+        "treatment mortality",
+        "AL"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "1382",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "cocaine"
+      ]
+    }
+  },
+  {
+    "doc_id": "1383",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "cocaine"
+      ]
+    }
+  },
+  {
+    "doc_id": "1398",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "1400",
+    "gemini_response": {
+      "diseases": [
+        "infections"
+      ],
+      "chemicals": [
+        "antibiotic"
+      ]
+    }
+  },
+  {
+    "doc_id": "1403",
+    "gemini_response": {
+      "diseases": [
+        "Drug abuse"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "1404",
+    "gemini_response": {
+      "diseases": [
+        "infections"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "1405",
+    "gemini_response": {
+      "diseases": [
+        "substance abuse"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "1437",
+    "gemini_response": {
+      "diseases": [
+        "ICH",
+        "MB"
+      ],
+      "chemicals": [
+        "antithrombotic"
+      ]
+    }
+  },
+  {
+    "doc_id": "1438",
+    "gemini_response": {
+      "diseases": [
+        "ICH",
+        "IS",
+        "TIA",
+        "MB"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "1457",
+    "gemini_response": {
+      "diseases": [
+        "ICH"
+      ],
+      "chemicals": [
+        "MB",
+        "antiplatelet"
+      ]
+    }
+  },
+  {
+    "doc_id": "1461",
+    "gemini_response": {
+      "diseases": [
+        "IS",
+        "TIA"
+      ],
+      "chemicals": [
+        "antiplatelet"
+      ]
+    }
+  },
+  {
+    "doc_id": "1466",
+    "gemini_response": {
+      "diseases": [
+        "ICH"
+      ],
+      "chemicals": [
+        "antithrombotic"
+      ]
+    }
+  },
+  {
+    "doc_id": "1507",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "NA"
+      ]
+    }
+  },
+  {
+    "doc_id": "1534",
+    "gemini_response": {
+      "diseases": [
+        "cancer"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "1536",
+    "gemini_response": {
+      "diseases": [
+        "infections"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "1549",
+    "gemini_response": {
+      "diseases": [
+        "occlusion",
+        "SAH",
+        "recurrent SAH"
+      ],
+      "chemicals": [
+        "EACA"
+      ]
+    }
+  },
+  {
+    "doc_id": "1736",
+    "gemini_response": {
+      "diseases": [
+        "Spasm",
+        "coronary dissection",
+        "atheromatous etiology"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "1743",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "CBZ"
+      ]
+    }
+  },
+  {
+    "doc_id": "1761",
+    "gemini_response": {
+      "diseases": [
+        "Heart failure"
+      ],
+      "chemicals": [
+        "digitalise"
+      ]
+    }
+  },
+  {
+    "doc_id": "1764",
+    "gemini_response": {
+      "diseases": [
+        "heart failure"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "1782",
+    "gemini_response": {
+      "diseases": [
+        "AIDS"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "1830",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "glial fibrillary acidic protein",
+        "GFAP",
+        "S-100 protein"
+      ]
+    }
+  },
+  {
+    "doc_id": "1832",
+    "gemini_response": {
+      "diseases": [
+        "seizures"
+      ],
+      "chemicals": [
+        "GFAP"
+      ]
+    }
+  },
+  {
+    "doc_id": "1848",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "DOX"
+      ]
+    }
+  },
+  {
+    "doc_id": "1849",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "DOX",
+        "HPMA copolymer"
+      ]
+    }
+  },
+  {
+    "doc_id": "1851",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "DOX",
+        "HPMA copolymer"
+      ]
+    }
+  },
+  {
+    "doc_id": "1853",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "HPMA copolymer",
+        "DOX"
+      ]
+    }
+  },
+  {
+    "doc_id": "1854",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "DOX",
+        "HPMA"
+      ]
+    }
+  },
+  {
+    "doc_id": "1859",
+    "gemini_response": {
+      "diseases": [
+        "pain"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "1872",
+    "gemini_response": {
+      "diseases": [
+        "paranoid reactions"
+      ],
+      "chemicals": [
+        "Antidepressants"
+      ]
+    }
+  },
+  {
+    "doc_id": "1882",
+    "gemini_response": {
+      "diseases": [
+        "anti-allergic"
+      ],
+      "chemicals": [
+        "DEC"
+      ]
+    }
+  },
+  {
+    "doc_id": "1921",
+    "gemini_response": {
+      "diseases": [
+        "pulmonary tuberculosis"
+      ],
+      "chemicals": [
+        "antituberculosis drugs"
+      ]
+    }
+  },
+  {
+    "doc_id": "1965",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "calcium"
+      ]
+    }
+  },
+  {
+    "doc_id": "1996",
+    "gemini_response": {
+      "diseases": [
+        "infection",
+        "burn"
+      ],
+      "chemicals": [
+        "antimicrobial agents"
+      ]
+    }
+  },
+  {
+    "doc_id": "1998",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "CHP"
+      ]
+    }
+  },
+  {
+    "doc_id": "1999",
+    "gemini_response": {
+      "diseases": [
+        "burn"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "2000",
+    "gemini_response": {
+      "diseases": [
+        "burn"
+      ],
+      "chemicals": [
+        "CHP"
+      ]
+    }
+  },
+  {
+    "doc_id": "2003",
+    "gemini_response": {
+      "diseases": [
+        "pain"
+      ],
+      "chemicals": [
+        "CHP"
+      ]
+    }
+  },
+  {
+    "doc_id": "2008",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "CHP"
+      ]
+    }
+  },
+  {
+    "doc_id": "2033",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "histamine"
+      ]
+    }
+  },
+  {
+    "doc_id": "2038",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "histamine"
+      ]
+    }
+  },
+  {
+    "doc_id": "2050",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "GABA"
+      ]
+    }
+  },
+  {
+    "doc_id": "2083",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "silver"
+      ]
+    }
+  },
+  {
+    "doc_id": "2109",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "E"
+      ]
+    }
+  },
+  {
+    "doc_id": "2111",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "I"
+      ]
+    }
+  },
+  {
+    "doc_id": "2118",
+    "gemini_response": {
+      "diseases": [
+        "bleeding"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "2158",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "adrenaline"
+      ]
+    }
+  },
+  {
+    "doc_id": "2165",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "adrenaline"
+      ]
+    }
+  },
+  {
+    "doc_id": "2220",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "2228",
+    "gemini_response": {
+      "diseases": [
+        "edema",
+        "degeneration"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "2252",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "glucose",
+        "insulin"
+      ]
+    }
+  },
+  {
+    "doc_id": "2272",
+    "gemini_response": {
+      "diseases": [
+        "tumor",
+        "peritumor edema"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "2299",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "AMNS",
+        "PS",
+        "saline"
+      ]
+    }
+  },
+  {
+    "doc_id": "2308",
+    "gemini_response": {
+      "diseases": [
+        "seizures"
+      ],
+      "chemicals": [
+        "Fetal serum"
+      ]
+    }
+  },
+  {
+    "doc_id": "2344",
+    "gemini_response": {
+      "diseases": [
+        "Oral thrush",
+        "hoarseness"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "2362",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "2372",
+    "gemini_response": {
+      "diseases": [
+        "seizure"
+      ],
+      "chemicals": [
+        "MSG"
+      ]
+    }
+  },
+  {
+    "doc_id": "2385",
+    "gemini_response": {
+      "diseases": [
+        "brain damage"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "2395",
+    "gemini_response": {
+      "diseases": [
+        "ST depression"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "2405",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "MP"
+      ]
+    }
+  },
+  {
+    "doc_id": "2406",
+    "gemini_response": {
+      "diseases": [
+        "heart disease"
+      ],
+      "chemicals": [
+        "MP"
+      ]
+    }
+  },
+  {
+    "doc_id": "2421",
+    "gemini_response": {
+      "diseases": [
+        "seizures",
+        "abnormal EEG"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "2475",
+    "gemini_response": {
+      "diseases": [
+        "myocardial pathophysiologic and metabolic changes"
+      ],
+      "chemicals": [
+        "barium"
+      ]
+    }
+  },
+  {
+    "doc_id": "2476",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "barium"
+      ]
+    }
+  },
+  {
+    "doc_id": "2477",
+    "gemini_response": {
+      "diseases": [
+        "myocardial energy metabolism disturbances"
+      ],
+      "chemicals": [
+        "barium"
+      ]
+    }
+  },
+  {
+    "doc_id": "2478",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "barium"
+      ]
+    }
+  },
+  {
+    "doc_id": "2480",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "barium"
+      ]
+    }
+  },
+  {
+    "doc_id": "2486",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "PPA"
+      ]
+    }
+  },
+  {
+    "doc_id": "2500",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "PAN",
+        "saline"
+      ]
+    }
+  },
+  {
+    "doc_id": "2504",
+    "gemini_response": {
+      "diseases": [
+        "PAN"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "2505",
+    "gemini_response": {
+      "diseases": [
+        "PAN"
+      ],
+      "chemicals": [
+        "CC"
+      ]
+    }
+  },
+  {
+    "doc_id": "2509",
+    "gemini_response": {
+      "diseases": [
+        "lesions",
+        "dysfunction"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "2516",
+    "gemini_response": {
+      "diseases": [
+        "seizure"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "2524",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "APAP",
+        "acetylated metabolites"
+      ]
+    }
+  },
+  {
+    "doc_id": "2581",
+    "gemini_response": {
+      "diseases": [
+        "breast cancer"
+      ],
+      "chemicals": [
+        "Hormones"
+      ]
+    }
+  },
+  {
+    "doc_id": "2592",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "estrogen"
+      ]
+    }
+  },
+  {
+    "doc_id": "2594",
+    "gemini_response": {
+      "diseases": [
+        "infection"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "2597",
+    "gemini_response": {
+      "diseases": [
+        "infections"
+      ],
+      "chemicals": [
+        "Aza"
+      ]
+    }
+  },
+  {
+    "doc_id": "2598",
+    "gemini_response": {
+      "diseases": [
+        "nonviral infections"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "2647",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "2665",
+    "gemini_response": {
+      "diseases": [
+        "tumor"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "2669",
+    "gemini_response": {
+      "diseases": [
+        "Tumor"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "2671",
+    "gemini_response": {
+      "diseases": [
+        "tumor"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "2684",
+    "gemini_response": {
+      "diseases": [
+        "tumor"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "2712",
+    "gemini_response": {
+      "diseases": [
+        "Myocardial"
+      ],
+      "chemicals": [
+        "O2"
+      ]
+    }
+  },
+  {
+    "doc_id": "2756",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "potassium"
+      ]
+    }
+  },
+  {
+    "doc_id": "2759",
+    "gemini_response": {
+      "diseases": [
+        "bleeding"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "2774",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "SNP",
+        "ATP"
+      ]
+    }
+  },
+  {
+    "doc_id": "2776",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "ATP",
+        "SNP"
+      ]
+    }
+  },
+  {
+    "doc_id": "2783",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "oxygen"
+      ]
+    }
+  },
+  {
+    "doc_id": "2785",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "ATP"
+      ]
+    }
+  },
+  {
+    "doc_id": "2792",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "oxygen"
+      ]
+    }
+  },
+  {
+    "doc_id": "2796",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "SNP"
+      ]
+    }
+  },
+  {
+    "doc_id": "2797",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "ATP",
+        "SNP"
+      ]
+    }
+  },
+  {
+    "doc_id": "2820",
+    "gemini_response": {
+      "diseases": [
+        "arterial spasm"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "2844",
+    "gemini_response": {
+      "diseases": [
+        "Venous pain",
+        "redness",
+        "pain",
+        "swelling"
+      ],
+      "chemicals": [
+        "anaesthesia"
+      ]
+    }
+  },
+  {
+    "doc_id": "2845",
+    "gemini_response": {
+      "diseases": [
+        "respiratory upset"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "2898",
+    "gemini_response": {
+      "diseases": [
+        "cardiac arrest"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "2904",
+    "gemini_response": {
+      "diseases": [
+        "nausea",
+        "vomiting",
+        "retching"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "2907",
+    "gemini_response": {
+      "diseases": [
+        "nausea",
+        "vomiting"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "2951",
+    "gemini_response": {
+      "diseases": [
+        "seizures"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "2953",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "cocaine"
+      ]
+    }
+  },
+  {
+    "doc_id": "2954",
+    "gemini_response": {
+      "diseases": [
+        "seizures",
+        "death"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "2960",
+    "gemini_response": {
+      "diseases": [
+        "seizures"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "2962",
+    "gemini_response": {
+      "diseases": [
+        "seizures",
+        "death"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "2964",
+    "gemini_response": {
+      "diseases": [
+        "seizures",
+        "death"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "2989",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "AVP",
+        "ANP"
+      ]
+    }
+  },
+  {
+    "doc_id": "2991",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "CCB",
+        "vehicle",
+        "AVP",
+        "ANP"
+      ]
+    }
+  },
+  {
+    "doc_id": "2992",
+    "gemini_response": {
+      "diseases": [
+        "SHR"
+      ],
+      "chemicals": [
+        "AVP"
+      ]
+    }
+  },
+  {
+    "doc_id": "2993",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "ANP",
+        "AVP"
+      ]
+    }
+  },
+  {
+    "doc_id": "2995",
+    "gemini_response": {
+      "diseases": [
+        "MAP elevation"
+      ],
+      "chemicals": [
+        "ANP",
+        "AVP",
+        "CCB",
+        "Phe"
+      ]
+    }
+  },
+  {
+    "doc_id": "2996",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "AVP"
+      ]
+    }
+  },
+  {
+    "doc_id": "3010",
+    "gemini_response": {
+      "diseases": [
+        "rejection",
+        "infection"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "3014",
+    "gemini_response": {
+      "diseases": [
+        "infections"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "3029",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "3080",
+    "gemini_response": {
+      "diseases": [
+        "VT",
+        "ectopies"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "3108",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "DES"
+      ]
+    }
+  },
+  {
+    "doc_id": "3113",
+    "gemini_response": {
+      "diseases": [
+        "pituitary growth"
+      ],
+      "chemicals": [
+        "DES"
+      ]
+    }
+  },
+  {
+    "doc_id": "3126",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "CYP"
+      ]
+    }
+  },
+  {
+    "doc_id": "3128",
+    "gemini_response": {
+      "diseases": [
+        "chronic CYP treatment"
+      ],
+      "chemicals": [
+        "CYP"
+      ]
+    }
+  },
+  {
+    "doc_id": "3129",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "CYP",
+        "NOS"
+      ]
+    }
+  },
+  {
+    "doc_id": "3131",
+    "gemini_response": {
+      "diseases": [
+        "bladder weight"
+      ],
+      "chemicals": [
+        "CYP",
+        "NOS"
+      ]
+    }
+  },
+  {
+    "doc_id": "3134",
+    "gemini_response": {
+      "diseases": [
+        "CYP"
+      ],
+      "chemicals": [
+        "Fluorogold",
+        "NOS"
+      ]
+    }
+  },
+  {
+    "doc_id": "3183",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "CO2"
+      ]
+    }
+  },
+  {
+    "doc_id": "3192",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "CO2"
+      ]
+    }
+  },
+  {
+    "doc_id": "3193",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "hCRH",
+        "CO2"
+      ]
+    }
+  },
+  {
+    "doc_id": "3195",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "hCRH",
+        "TRH",
+        "CO2"
+      ]
+    }
+  },
+  {
+    "doc_id": "3196",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "CO2"
+      ]
+    }
+  },
+  {
+    "doc_id": "3213",
+    "gemini_response": {
+      "diseases": [
+        "VTE"
+      ],
+      "chemicals": [
+        "OC"
+      ]
+    }
+  },
+  {
+    "doc_id": "3217",
+    "gemini_response": {
+      "diseases": [
+        "VTE"
+      ],
+      "chemicals": [
+        "OC"
+      ]
+    }
+  },
+  {
+    "doc_id": "3218",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "OCs"
+      ]
+    }
+  },
+  {
+    "doc_id": "3219",
+    "gemini_response": {
+      "diseases": [
+        "concurrent disease"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "3222",
+    "gemini_response": {
+      "diseases": [
+        "VTE"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "3223",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "OC"
+      ]
+    }
+  },
+  {
+    "doc_id": "3224",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "second-generation OCs"
+      ]
+    }
+  },
+  {
+    "doc_id": "3226",
+    "gemini_response": {
+      "diseases": [
+        "VTE"
+      ],
+      "chemicals": [
+        "OCs"
+      ]
+    }
+  },
+  {
+    "doc_id": "3229",
+    "gemini_response": {
+      "diseases": [
+        "VTE"
+      ],
+      "chemicals": [
+        "OCs"
+      ]
+    }
+  },
+  {
+    "doc_id": "3231",
+    "gemini_response": {
+      "diseases": [
+        "VTE"
+      ],
+      "chemicals": [
+        "OCs"
+      ]
+    }
+  },
+  {
+    "doc_id": "3238",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "OCs"
+      ]
+    }
+  },
+  {
+    "doc_id": "3250",
+    "gemini_response": {
+      "diseases": [
+        "Brain damage"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "3261",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "3264",
+    "gemini_response": {
+      "diseases": [
+        "metastatic breast cancer"
+      ],
+      "chemicals": [
+        "TFL"
+      ]
+    }
+  },
+  {
+    "doc_id": "3307",
+    "gemini_response": {
+      "diseases": [
+        "APL"
+      ],
+      "chemicals": [
+        "ATRA"
+      ]
+    }
+  },
+  {
+    "doc_id": "3309",
+    "gemini_response": {
+      "diseases": [
+        "APL"
+      ],
+      "chemicals": [
+        "ATRA"
+      ]
+    }
+  },
+  {
+    "doc_id": "3311",
+    "gemini_response": {
+      "diseases": [
+        "mania"
+      ],
+      "chemicals": [
+        "stimulant"
+      ]
+    }
+  },
+  {
+    "doc_id": "3317",
+    "gemini_response": {
+      "diseases": [
+        "pain"
+      ],
+      "chemicals": [
+        "NSAIDs"
+      ]
+    }
+  },
+  {
+    "doc_id": "3318",
+    "gemini_response": {
+      "diseases": [
+        "pain"
+      ],
+      "chemicals": [
+        "NSAIDs"
+      ]
+    }
+  },
+  {
+    "doc_id": "3320",
+    "gemini_response": {
+      "diseases": [
+        "pain"
+      ],
+      "chemicals": [
+        "CO2"
+      ]
+    }
+  },
+  {
+    "doc_id": "3321",
+    "gemini_response": {
+      "diseases": [
+        "pain"
+      ],
+      "chemicals": [
+        "CO2"
+      ]
+    }
+  },
+  {
+    "doc_id": "3322",
+    "gemini_response": {
+      "diseases": [
+        "pain"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "3326",
+    "gemini_response": {
+      "diseases": [
+        "pain"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "3345",
+    "gemini_response": {
+      "diseases": [
+        "left ventricular systolic dysfunction",
+        "left ventricular diastolic dysfunction"
+      ],
+      "chemicals": [
+        "cocaine"
+      ]
+    }
+  },
+  {
+    "doc_id": "3347",
+    "gemini_response": {
+      "diseases": [
+        "LV systolic and diastolic function"
+      ],
+      "chemicals": [
+        "cocaine"
+      ]
+    }
+  },
+  {
+    "doc_id": "3349",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "cocaine"
+      ]
+    }
+  },
+  {
+    "doc_id": "3351",
+    "gemini_response": {
+      "diseases": [
+        "cocaine intoxication"
+      ],
+      "chemicals": [
+        "cocaine"
+      ]
+    }
+  },
+  {
+    "doc_id": "3352",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "Cocaine"
+      ]
+    }
+  },
+  {
+    "doc_id": "3383",
+    "gemini_response": {
+      "diseases": [
+        "bleeding"
+      ],
+      "chemicals": [
+        "anticoagulants"
+      ]
+    }
+  },
+  {
+    "doc_id": "3394",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "BS",
+        "EE"
+      ]
+    }
+  },
+  {
+    "doc_id": "3398",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "3399",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "BS",
+        "EE"
+      ]
+    }
+  },
+  {
+    "doc_id": "3400",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "CYP7A",
+        "EE",
+        "CYP27"
+      ]
+    }
+  },
+  {
+    "doc_id": "3401",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "CYP7A",
+        "EE",
+        "CYP27"
+      ]
+    }
+  },
+  {
+    "doc_id": "3404",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "BS",
+        "EE"
+      ]
+    }
+  },
+  {
+    "doc_id": "3423",
+    "gemini_response": {
+      "diseases": [
+        "late reactions"
+      ],
+      "chemicals": [
+        "radiographic contrast media"
+      ]
+    }
+  },
+  {
+    "doc_id": "3424",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "radiographic and contrast materials"
+      ]
+    }
+  },
+  {
+    "doc_id": "3425",
+    "gemini_response": {
+      "diseases": [
+        "delayed reactions"
+      ],
+      "chemicals": [
+        "ionic PRC",
+        "non ionic PRC"
+      ]
+    }
+  },
+  {
+    "doc_id": "3427",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "PRC"
+      ]
+    }
+  },
+  {
+    "doc_id": "3431",
+    "gemini_response": {
+      "diseases": [
+        "decompensated liver disease"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "3514",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "NO"
+      ]
+    }
+  },
+  {
+    "doc_id": "3523",
+    "gemini_response": {
+      "diseases": [
+        "ST depression"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "3654",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "vitamin A"
+      ]
+    }
+  },
+  {
+    "doc_id": "3660",
+    "gemini_response": {
+      "diseases": [
+        "headache"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "3673",
+    "gemini_response": {
+      "diseases": [
+        "CHF"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "3685",
+    "gemini_response": {
+      "diseases": [
+        "diabetes"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "3692",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "cocaine"
+      ]
+    }
+  },
+  {
+    "doc_id": "3693",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "ethanol",
+        "cocaine"
+      ]
+    }
+  },
+  {
+    "doc_id": "3695",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "cocaine"
+      ]
+    }
+  },
+  {
+    "doc_id": "3699",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "Cocaine",
+        "ethanol"
+      ]
+    }
+  },
+  {
+    "doc_id": "3700",
+    "gemini_response": {
+      "diseases": [
+        "cardiac toxicity",
+        "dysrhythmogenic"
+      ],
+      "chemicals": [
+        "Co"
+      ]
+    }
+  },
+  {
+    "doc_id": "3713",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "PTU"
+      ]
+    }
+  },
+  {
+    "doc_id": "3718",
+    "gemini_response": {
+      "diseases": [
+        "MPO-ANCA"
+      ],
+      "chemicals": [
+        "PTU"
+      ]
+    }
+  },
+  {
+    "doc_id": "3723",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "PTU"
+      ]
+    }
+  },
+  {
+    "doc_id": "3725",
+    "gemini_response": {
+      "diseases": [
+        "heart disease"
+      ],
+      "chemicals": [
+        "cocaine"
+      ]
+    }
+  },
+  {
+    "doc_id": "3726",
+    "gemini_response": {
+      "diseases": [
+        "heart disease"
+      ],
+      "chemicals": [
+        "cocaine"
+      ]
+    }
+  },
+  {
+    "doc_id": "3751",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "cocaine"
+      ]
+    }
+  },
+  {
+    "doc_id": "3752",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "cocaine"
+      ]
+    }
+  },
+  {
+    "doc_id": "3781",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "PDN"
+      ]
+    }
+  },
+  {
+    "doc_id": "3782",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "PDN"
+      ]
+    }
+  },
+  {
+    "doc_id": "3783",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "PDN"
+      ]
+    }
+  },
+  {
+    "doc_id": "3787",
+    "gemini_response": {
+      "diseases": [
+        "PDN"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "3796",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "PDN"
+      ]
+    }
+  },
+  {
+    "doc_id": "3801",
+    "gemini_response": {
+      "diseases": [
+        "anxiety"
+      ],
+      "chemicals": [
+        "PDN"
+      ]
+    }
+  },
+  {
+    "doc_id": "3802",
+    "gemini_response": {
+      "diseases": [
+        "PDN"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "3806",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "3813",
+    "gemini_response": {
+      "diseases": [
+        "manic episodes",
+        "mania"
+      ],
+      "chemicals": [
+        "antibiotic"
+      ]
+    }
+  },
+  {
+    "doc_id": "3814",
+    "gemini_response": {
+      "diseases": [
+        "mania"
+      ],
+      "chemicals": [
+        "antimicrobial"
+      ]
+    }
+  },
+  {
+    "doc_id": "3823",
+    "gemini_response": {
+      "diseases": [
+        "mania"
+      ],
+      "chemicals": [
+        "antimicrobials"
+      ]
+    }
+  },
+  {
+    "doc_id": "3825",
+    "gemini_response": {
+      "diseases": [
+        "mania",
+        "manic episode",
+        "affective disorders"
+      ],
+      "chemicals": [
+        "antimicrobial",
+        "antibiotics"
+      ]
+    }
+  },
+  {
+    "doc_id": "3834",
+    "gemini_response": {
+      "diseases": [
+        "menstrual cramps"
+      ],
+      "chemicals": [
+        "DCF",
+        "GTN"
+      ]
+    }
+  },
+  {
+    "doc_id": "3836",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "DCF"
+      ]
+    }
+  },
+  {
+    "doc_id": "3837",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "GTN"
+      ]
+    }
+  },
+  {
+    "doc_id": "3839",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "3840",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "GTN"
+      ]
+    }
+  },
+  {
+    "doc_id": "3842",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "DCF"
+      ]
+    }
+  },
+  {
+    "doc_id": "3848",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "GTN"
+      ]
+    }
+  },
+  {
+    "doc_id": "3854",
+    "gemini_response": {
+      "diseases": [
+        "Headache"
+      ],
+      "chemicals": [
+        "GTN",
+        "DCF"
+      ]
+    }
+  },
+  {
+    "doc_id": "3855",
+    "gemini_response": {
+      "diseases": [
+        "headache"
+      ],
+      "chemicals": [
+        "GTN"
+      ]
+    }
+  },
+  {
+    "doc_id": "3863",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "PAN"
+      ]
+    }
+  },
+  {
+    "doc_id": "3868",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "3899",
+    "gemini_response": {
+      "diseases": [
+        "toxicity",
+        "bladder pathology"
+      ],
+      "chemicals": [
+        "CY"
+      ]
+    }
+  },
+  {
+    "doc_id": "3907",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "MMC"
+      ]
+    }
+  },
+  {
+    "doc_id": "3909",
+    "gemini_response": {
+      "diseases": [
+        "AGC"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "3929",
+    "gemini_response": {
+      "diseases": [
+        "vomitus"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "3961",
+    "gemini_response": {
+      "diseases": [
+        "chest pain"
+      ],
+      "chemicals": [
+        "troponin I",
+        "cocaine"
+      ]
+    }
+  },
+  {
+    "doc_id": "3964",
+    "gemini_response": {
+      "diseases": [
+        "MI"
+      ],
+      "chemicals": [
+        "troponin",
+        "cocaine"
+      ]
+    }
+  },
+  {
+    "doc_id": "3965",
+    "gemini_response": {
+      "diseases": [
+        "MI"
+      ],
+      "chemicals": [
+        "cocaine"
+      ]
+    }
+  },
+  {
+    "doc_id": "3968",
+    "gemini_response": {
+      "diseases": [
+        "MI"
+      ],
+      "chemicals": [
+        "cTnI",
+        "CK-MB"
+      ]
+    }
+  },
+  {
+    "doc_id": "3969",
+    "gemini_response": {
+      "diseases": [
+        "cardiac death",
+        "significant disease",
+        "MI"
+      ],
+      "chemicals": [
+        "CK-MB",
+        "cTnI"
+      ]
+    }
+  },
+  {
+    "doc_id": "3970",
+    "gemini_response": {
+      "diseases": [
+        "MI"
+      ],
+      "chemicals": [
+        "cTnI",
+        "CK-MB"
+      ]
+    }
+  },
+  {
+    "doc_id": "3985",
+    "gemini_response": {
+      "diseases": [
+        "NMS",
+        "intestinal bleeding"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "3986",
+    "gemini_response": {
+      "diseases": [
+        "NMS",
+        "CRF",
+        "intestinal bleeding"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "3991",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "TTC"
+      ]
+    }
+  },
+  {
+    "doc_id": "3992",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "adrenaline"
+      ]
+    }
+  },
+  {
+    "doc_id": "3993",
+    "gemini_response": {
+      "diseases": [
+        "seizure"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "4065",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "prostate-specific antigen",
+        "PSA",
+        "urea",
+        "electrolytes",
+        "bFGF",
+        "VEGF"
+      ]
+    }
+  },
+  {
+    "doc_id": "4092",
+    "gemini_response": {
+      "diseases": [
+        "MC"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "4151",
+    "gemini_response": {
+      "diseases": [
+        "tumor"
+      ],
+      "chemicals": [
+        "anesthesia"
+      ]
+    }
+  },
+  {
+    "doc_id": "4169",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "anticholinergic drugs",
+        "anticholinergics",
+        "aluminum chloride",
+        "botulinum toxin"
+      ]
+    }
+  },
+  {
+    "doc_id": "4181",
+    "gemini_response": {
+      "diseases": [
+        "pain"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "4186",
+    "gemini_response": {
+      "diseases": [
+        "Pain"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "4197",
+    "gemini_response": {
+      "diseases": [
+        "cancer"
+      ],
+      "chemicals": [
+        "VNR"
+      ]
+    }
+  },
+  {
+    "doc_id": "4199",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "VNR"
+      ]
+    }
+  },
+  {
+    "doc_id": "4200",
+    "gemini_response": {
+      "diseases": [
+        "cardiac events"
+      ],
+      "chemicals": [
+        "VNR"
+      ]
+    }
+  },
+  {
+    "doc_id": "4203",
+    "gemini_response": {
+      "diseases": [
+        "cardiac events"
+      ],
+      "chemicals": [
+        "VNR"
+      ]
+    }
+  },
+  {
+    "doc_id": "4208",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "VNR"
+      ]
+    }
+  },
+  {
+    "doc_id": "4244",
+    "gemini_response": {
+      "diseases": [
+        "gray-matter deficits"
+      ],
+      "chemicals": [
+        "MA"
+      ]
+    }
+  },
+  {
+    "doc_id": "4246",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "MA"
+      ]
+    }
+  },
+  {
+    "doc_id": "4254",
+    "gemini_response": {
+      "diseases": [
+        "cell death"
+      ],
+      "chemicals": [
+        "MA"
+      ]
+    }
+  },
+  {
+    "doc_id": "4256",
+    "gemini_response": {
+      "diseases": [
+        "brain injury"
+      ],
+      "chemicals": [
+        "MA"
+      ]
+    }
+  },
+  {
+    "doc_id": "4261",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "fatty acid"
+      ]
+    }
+  },
+  {
+    "doc_id": "4310",
+    "gemini_response": {
+      "diseases": [
+        "anemia"
+      ],
+      "chemicals": [
+        "hemoglobin"
+      ]
+    }
+  },
+  {
+    "doc_id": "4312",
+    "gemini_response": {
+      "diseases": [
+        "anemia"
+      ],
+      "chemicals": [
+        "hemoglobin"
+      ]
+    }
+  },
+  {
+    "doc_id": "4317",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "ADR"
+      ]
+    }
+  },
+  {
+    "doc_id": "4321",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "3NT"
+      ]
+    }
+  },
+  {
+    "doc_id": "4324",
+    "gemini_response": {
+      "diseases": [
+        "mitochondrial injury"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "4360",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "barium"
+      ]
+    }
+  },
+  {
+    "doc_id": "4386",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "glucose"
+      ]
+    }
+  },
+  {
+    "doc_id": "4388",
+    "gemini_response": {
+      "diseases": [
+        "insulin resistance"
+      ],
+      "chemicals": [
+        "glucose",
+        "insulin"
+      ]
+    }
+  },
+  {
+    "doc_id": "4398",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "insulin"
+      ]
+    }
+  },
+  {
+    "doc_id": "4401",
+    "gemini_response": {
+      "diseases": [
+        "insulin resistance"
+      ],
+      "chemicals": [
+        "insulin"
+      ]
+    }
+  },
+  {
+    "doc_id": "4404",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "glucose"
+      ]
+    }
+  },
+  {
+    "doc_id": "4449",
+    "gemini_response": {
+      "diseases": [
+        "skin reactions"
+      ],
+      "chemicals": [
+        "P",
+        "N"
+      ]
+    }
+  },
+  {
+    "doc_id": "4451",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "CE"
+      ]
+    }
+  },
+  {
+    "doc_id": "4456",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "4459",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "CE",
+        "P",
+        "N"
+      ]
+    }
+  },
+  {
+    "doc_id": "4490",
+    "gemini_response": {
+      "diseases": [
+        "self-poisoning"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "4499",
+    "gemini_response": {
+      "diseases": [
+        "Pilo"
+      ],
+      "chemicals": [
+        "CHX"
+      ]
+    }
+  },
+  {
+    "doc_id": "4500",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "Pilo",
+        "CHX"
+      ]
+    }
+  },
+  {
+    "doc_id": "4502",
+    "gemini_response": {
+      "diseases": [
+        "Pilo"
+      ],
+      "chemicals": [
+        "GAP43",
+        "CHX"
+      ]
+    }
+  },
+  {
+    "doc_id": "4503",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "GAP43",
+        "CHX",
+        "Pilo"
+      ]
+    }
+  },
+  {
+    "doc_id": "4504",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "Pilo"
+      ]
+    }
+  },
+  {
+    "doc_id": "4505",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "CHX",
+        "Pilo"
+      ]
+    }
+  },
+  {
+    "doc_id": "4506",
+    "gemini_response": {
+      "diseases": [
+        "Pilo"
+      ],
+      "chemicals": [
+        "GAP43"
+      ]
+    }
+  },
+  {
+    "doc_id": "4510",
+    "gemini_response": {
+      "diseases": [
+        "anxiety"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "4512",
+    "gemini_response": {
+      "diseases": [
+        "anxiety"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "4521",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "Nicotine"
+      ]
+    }
+  },
+  {
+    "doc_id": "4524",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "Nicotine"
+      ]
+    }
+  },
+  {
+    "doc_id": "4549",
+    "gemini_response": {
+      "diseases": [
+        "chronic disease"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "4576",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "VCM"
+      ]
+    }
+  },
+  {
+    "doc_id": "4610",
+    "gemini_response": {
+      "diseases": [
+        "cardiac symptoms"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "4616",
+    "gemini_response": {
+      "diseases": [
+        "cardiac damage"
+      ],
+      "chemicals": [
+        "DOX",
+        "free radicals"
+      ]
+    }
+  },
+  {
+    "doc_id": "4617",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "Reactive oxygen species"
+      ]
+    }
+  },
+  {
+    "doc_id": "4621",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "saline",
+        "DOX"
+      ]
+    }
+  },
+  {
+    "doc_id": "4629",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "DOX"
+      ]
+    }
+  },
+  {
+    "doc_id": "4658",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "Iso"
+      ]
+    }
+  },
+  {
+    "doc_id": "4710",
+    "gemini_response": {
+      "diseases": [
+        "EPS"
+      ],
+      "chemicals": [
+        "DRD2"
+      ]
+    }
+  },
+  {
+    "doc_id": "4713",
+    "gemini_response": {
+      "diseases": [
+        "seizures"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "4756",
+    "gemini_response": {
+      "diseases": [
+        "seizure"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "4760",
+    "gemini_response": {
+      "diseases": [
+        "seizures"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "4762",
+    "gemini_response": {
+      "diseases": [
+        "seizure"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "4776",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "CAA"
+      ]
+    }
+  },
+  {
+    "doc_id": "4782",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "fluorescent dyes",
+        "CAA"
+      ]
+    }
+  },
+  {
+    "doc_id": "4795",
+    "gemini_response": {
+      "diseases": [
+        "seizures"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "4799",
+    "gemini_response": {
+      "diseases": [
+        "autism"
+      ],
+      "chemicals": [
+        "cholinergic"
+      ]
+    }
+  },
+  {
+    "doc_id": "4801",
+    "gemini_response": {
+      "diseases": [
+        "autism"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "4927",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "potassium"
+      ]
+    }
+  },
+  {
+    "doc_id": "4933",
+    "gemini_response": {
+      "diseases": [
+        "PVC"
+      ],
+      "chemicals": [
+        "potassium"
+      ]
+    }
+  },
+  {
+    "doc_id": "4947",
+    "gemini_response": {
+      "diseases": [
+        "cardiac chest pain",
+        "chest pain"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "4992",
+    "gemini_response": {
+      "diseases": [
+        "lead levels"
+      ],
+      "chemicals": [
+        "lead"
+      ]
+    }
+  },
+  {
+    "doc_id": "4993",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "Pb"
+      ]
+    }
+  },
+  {
+    "doc_id": "5003",
+    "gemini_response": {
+      "diseases": [
+        "PD",
+        "MDP",
+        "major depression",
+        "panic attacks"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "5007",
+    "gemini_response": {
+      "diseases": [
+        "PD"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "5008",
+    "gemini_response": {
+      "diseases": [
+        "MDP"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "5009",
+    "gemini_response": {
+      "diseases": [
+        "MD"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "5013",
+    "gemini_response": {
+      "diseases": [
+        "MD"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "5017",
+    "gemini_response": {
+      "diseases": [
+        "MR"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "5018",
+    "gemini_response": {
+      "diseases": [
+        "acute heart failure"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "5024",
+    "gemini_response": {
+      "diseases": [
+        "acute heart failure"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "5052",
+    "gemini_response": {
+      "diseases": [
+        "acute heart failure",
+        "MR"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "5053",
+    "gemini_response": {
+      "diseases": [
+        "chronic heart failure"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "5068",
+    "gemini_response": {
+      "diseases": [
+        "paralysis"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "5078",
+    "gemini_response": {
+      "diseases": [
+        "paralysis"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "5089",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "superoxide dismutase"
+      ]
+    }
+  },
+  {
+    "doc_id": "5099",
+    "gemini_response": {
+      "diseases": [
+        "ATIN"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "5103",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "potassium"
+      ]
+    }
+  },
+  {
+    "doc_id": "5106",
+    "gemini_response": {
+      "diseases": [
+        "ATIN"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "5109",
+    "gemini_response": {
+      "diseases": [
+        "proteinuria"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "5110",
+    "gemini_response": {
+      "diseases": [
+        "ATIN"
+      ],
+      "chemicals": [
+        "NSAIDs"
+      ]
+    }
+  },
+  {
+    "doc_id": "5135",
+    "gemini_response": {
+      "diseases": [
+        "inflammation"
+      ],
+      "chemicals": [
+        "local anesthetics"
+      ]
+    }
+  },
+  {
+    "doc_id": "5159",
+    "gemini_response": {
+      "diseases": [
+        "bladder inflammation"
+      ],
+      "chemicals": [
+        "glial fibrillary acidic protein",
+        "GFAP"
+      ]
+    }
+  },
+  {
+    "doc_id": "5177",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "oxygen"
+      ]
+    }
+  },
+  {
+    "doc_id": "5189",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "oxygen"
+      ]
+    }
+  },
+  {
+    "doc_id": "5191",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "5198",
+    "gemini_response": {
+      "diseases": [
+        "rash"
+      ],
+      "chemicals": [
+        "CD4"
+      ]
+    }
+  },
+  {
+    "doc_id": "5200",
+    "gemini_response": {
+      "diseases": [
+        "anemia"
+      ],
+      "chemicals": [
+        "hemoglobin"
+      ]
+    }
+  },
+  {
+    "doc_id": "5205",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "5222",
+    "gemini_response": {
+      "diseases": [
+        "proteinuria"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "5232",
+    "gemini_response": {
+      "diseases": [
+        "CAD",
+        "diabetes"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "5233",
+    "gemini_response": {
+      "diseases": [
+        "CAD"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "5234",
+    "gemini_response": {
+      "diseases": [
+        "CAD"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "5265",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "ADR",
+        "LOS"
+      ]
+    }
+  },
+  {
+    "doc_id": "5270",
+    "gemini_response": {
+      "diseases": [
+        "ADR"
+      ],
+      "chemicals": [
+        "LOS"
+      ]
+    }
+  },
+  {
+    "doc_id": "5282",
+    "gemini_response": {
+      "diseases": [
+        "seizures"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "5337",
+    "gemini_response": {
+      "diseases": [
+        "GBM"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "5341",
+    "gemini_response": {
+      "diseases": [
+        "unresectable GBM"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "5343",
+    "gemini_response": {
+      "diseases": [
+        "parathyroid glands"
+      ],
+      "chemicals": [
+        "lithium",
+        "calcium"
+      ]
+    }
+  },
+  {
+    "doc_id": "5348",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "calcium"
+      ]
+    }
+  },
+  {
+    "doc_id": "5360",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "VPA"
+      ]
+    }
+  },
+  {
+    "doc_id": "5413",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "heroin"
+      ]
+    }
+  },
+  {
+    "doc_id": "5418",
+    "gemini_response": {
+      "diseases": [
+        "unconsciousness"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "5429",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "MDA",
+        "iNOS"
+      ]
+    }
+  },
+  {
+    "doc_id": "5440",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "TBARS",
+        "superoxide"
+      ]
+    }
+  },
+  {
+    "doc_id": "5468",
+    "gemini_response": {
+      "diseases": [
+        "tumor"
+      ],
+      "chemicals": [
+        "mTOR"
+      ]
+    }
+  },
+  {
+    "doc_id": "5481",
+    "gemini_response": {
+      "diseases": [
+        "Posttransplant anemia"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "5483",
+    "gemini_response": {
+      "diseases": [
+        "posttransplant anemia"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "5486",
+    "gemini_response": {
+      "diseases": [
+        "chest pain"
+      ],
+      "chemicals": [
+        "cocaine"
+      ]
+    }
+  },
+  {
+    "doc_id": "5488",
+    "gemini_response": {
+      "diseases": [
+        "cardiac events"
+      ],
+      "chemicals": [
+        "cocaine"
+      ]
+    }
+  },
+  {
+    "doc_id": "5490",
+    "gemini_response": {
+      "diseases": [
+        "chest pain"
+      ],
+      "chemicals": [
+        "cocaine"
+      ]
+    }
+  },
+  {
+    "doc_id": "5491",
+    "gemini_response": {
+      "diseases": [
+        "chest pain"
+      ],
+      "chemicals": [
+        "cocaine"
+      ]
+    }
+  },
+  {
+    "doc_id": "5494",
+    "gemini_response": {
+      "diseases": [
+        "chest pain"
+      ],
+      "chemicals": [
+        "cocaine"
+      ]
+    }
+  },
+  {
+    "doc_id": "5525",
+    "gemini_response": {
+      "diseases": [
+        "Bilateral visual field constriction"
+      ],
+      "chemicals": [
+        "VGB"
+      ]
+    }
+  },
+  {
+    "doc_id": "5526",
+    "gemini_response": {
+      "diseases": [
+        "abnormal retinal function"
+      ],
+      "chemicals": [
+        "VGB"
+      ]
+    }
+  },
+  {
+    "doc_id": "5529",
+    "gemini_response": {
+      "diseases": [
+        "HIV infection"
+      ],
+      "chemicals": [
+        "crack cocaine"
+      ]
+    }
+  },
+  {
+    "doc_id": "5530",
+    "gemini_response": {
+      "diseases": [
+        "HIV infection"
+      ],
+      "chemicals": [
+        "crack cocaine"
+      ]
+    }
+  },
+  {
+    "doc_id": "5531",
+    "gemini_response": {
+      "diseases": [
+        "HIV infection"
+      ],
+      "chemicals": [
+        "crack cocaine"
+      ]
+    }
+  },
+  {
+    "doc_id": "5539",
+    "gemini_response": {
+      "diseases": [
+        "HIV infection"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "5540",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "crack cocaine"
+      ]
+    }
+  },
+  {
+    "doc_id": "5553",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "crack cocaine"
+      ]
+    }
+  },
+  {
+    "doc_id": "5555",
+    "gemini_response": {
+      "diseases": [
+        "Cancer"
+      ],
+      "chemicals": [
+        "chemotherapy"
+      ]
+    }
+  },
+  {
+    "doc_id": "5570",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "PB"
+      ]
+    }
+  },
+  {
+    "doc_id": "5575",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "PB"
+      ]
+    }
+  },
+  {
+    "doc_id": "5578",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "PB"
+      ]
+    }
+  },
+  {
+    "doc_id": "5580",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "PB"
+      ]
+    }
+  },
+  {
+    "doc_id": "5586",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "sodium"
+      ]
+    }
+  },
+  {
+    "doc_id": "5591",
+    "gemini_response": {
+      "diseases": [
+        "HIV"
+      ],
+      "chemicals": [
+        "alcohol"
+      ]
+    }
+  },
+  {
+    "doc_id": "5592",
+    "gemini_response": {
+      "diseases": [
+        "depression",
+        "HIV"
+      ],
+      "chemicals": [
+        "alcohol"
+      ]
+    }
+  },
+  {
+    "doc_id": "5594",
+    "gemini_response": {
+      "diseases": [
+        "depression"
+      ],
+      "chemicals": [
+        "alcohol"
+      ]
+    }
+  },
+  {
+    "doc_id": "5596",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "alcohol"
+      ]
+    }
+  },
+  {
+    "doc_id": "5597",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "antiretroviral therapy",
+        "alcohol"
+      ]
+    }
+  },
+  {
+    "doc_id": "5598",
+    "gemini_response": {
+      "diseases": [
+        "depression"
+      ],
+      "chemicals": [
+        "alcohol"
+      ]
+    }
+  },
+  {
+    "doc_id": "5599",
+    "gemini_response": {
+      "diseases": [
+        "Depression"
+      ],
+      "chemicals": [
+        "ART"
+      ]
+    }
+  },
+  {
+    "doc_id": "5600",
+    "gemini_response": {
+      "diseases": [
+        "depression"
+      ],
+      "chemicals": [
+        "alcohol"
+      ]
+    }
+  },
+  {
+    "doc_id": "5601",
+    "gemini_response": {
+      "diseases": [
+        "depression",
+        "HIV disease"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "5602",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "alcohol"
+      ]
+    }
+  },
+  {
+    "doc_id": "5609",
+    "gemini_response": {
+      "diseases": [
+        "SE"
+      ],
+      "chemicals": [
+        "CCR2"
+      ]
+    }
+  },
+  {
+    "doc_id": "5612",
+    "gemini_response": {
+      "diseases": [
+        "SE"
+      ],
+      "chemicals": [
+        "CCR2"
+      ]
+    }
+  },
+  {
+    "doc_id": "5614",
+    "gemini_response": {
+      "diseases": [
+        "SE"
+      ],
+      "chemicals": [
+        "CCR2"
+      ]
+    }
+  },
+  {
+    "doc_id": "5615",
+    "gemini_response": {
+      "diseases": [
+        "SE"
+      ],
+      "chemicals": [
+        "CCR2"
+      ]
+    }
+  },
+  {
+    "doc_id": "5618",
+    "gemini_response": {
+      "diseases": [
+        "SE"
+      ],
+      "chemicals": [
+        "CCL2"
+      ]
+    }
+  },
+  {
+    "doc_id": "5628",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "BCNU"
+      ]
+    }
+  },
+  {
+    "doc_id": "5632",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "BCNU"
+      ]
+    }
+  },
+  {
+    "doc_id": "5634",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "BCNU"
+      ]
+    }
+  },
+  {
+    "doc_id": "5640",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "BCNU"
+      ]
+    }
+  },
+  {
+    "doc_id": "5701",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "CM"
+      ]
+    }
+  },
+  {
+    "doc_id": "5703",
+    "gemini_response": {
+      "diseases": [
+        "renal function"
+      ],
+      "chemicals": [
+        "CM"
+      ]
+    }
+  },
+  {
+    "doc_id": "5744",
+    "gemini_response": {
+      "diseases": [
+        "HIT"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "5748",
+    "gemini_response": {
+      "diseases": [
+        "HIT"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "5757",
+    "gemini_response": {
+      "diseases": [
+        "ADSD"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "5761",
+    "gemini_response": {
+      "diseases": [
+        "bilateral abductor paralysis"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "5763",
+    "gemini_response": {
+      "diseases": [
+        "abductor paralysis"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "5768",
+    "gemini_response": {
+      "diseases": [
+        "paralysis"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "5772",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "cocaine",
+        "oxygen"
+      ]
+    }
+  },
+  {
+    "doc_id": "5774",
+    "gemini_response": {
+      "diseases": [],
+      "chemicals": [
+        "ATP"
+      ]
+    }
+  },
+  {
+    "doc_id": "5785",
+    "gemini_response": {
+      "diseases": [
+        "anemia"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "5811",
+    "gemini_response": {
+      "diseases": [
+        "normal sinus rhythm"
+      ],
+      "chemicals": [
+        "potassium"
+      ]
+    }
+  },
+  {
+    "doc_id": "5824",
+    "gemini_response": {
+      "diseases": [
+        "generalized weakness",
+        "health-care-associated pneumonia"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "5832",
+    "gemini_response": {
+      "diseases": [
+        "cardiac arrest"
+      ],
+      "chemicals": []
+    }
+  },
+  {
+    "doc_id": "5845",
+    "gemini_response": {
+      "diseases": [
+        "scabicide"
+      ],
+      "chemicals": [
+        "Lindane"
+      ]
+    }
+  }
+]
