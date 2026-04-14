@@ -1,0 +1,2680 @@
+entity_text,word_length,bert_token_count,biobert_token_count
+sore throat,2,2,2
+Streptozotocin,1,6,6
+rifampin,1,4,4
+Granisetron,1,3,3
+glaucoma,1,4,4
+ethanolic extract of Terminalia chebula fruits,6,9,10
+nevirapine,1,3,4
+motor disability,2,2,2
+cardiovascular toxicity,2,2,3
+bilirubin,1,4,4
+suxamethonium,1,5,5
+myocardial ischemia,2,6,7
+vigabatrin,1,4,4
+GSSG,1,2,3
+eczema,1,3,3
+hematuria,1,3,3
+nocistatin,1,4,4
+prolonged status epilepticus,3,6,6
+amisulpride,1,4,4
+particulate matter,2,3,3
+choreic mid-dose dyskinesias,3,11,11
+CVD,1,2,2
+IS,1,1,1
+AD,1,1,1
+NSCLC,1,3,3
+ischemia of the globus pallidus,5,11,12
+alopecia,1,3,3
+losartan,1,3,3
+proteinuric,1,3,3
+ADR,1,2,2
+Cr,1,1,2
+carcinoma,1,3,3
+hyper- or hypotension,3,8,9
+Flurothyl,1,3,4
+anemia,1,2,2
+thrombophlebitis,1,7,7
+labetalol,1,4,3
+rigidity,1,2,2
+cerebral anoxia,2,4,4
+tenofovir,1,4,4
+end-stage liver disease,3,5,5
+hyperlipemia,1,3,4
+Anemia,1,2,2
+antibiomania,1,3,4
+myositis,1,3,3
+globus pallidus infarctions,3,9,10
+Drug-induced liver injury,3,5,5
+hypertrophic,1,3,4
+migraine headache,2,3,4
+Hepatic dysfunction,2,4,6
+cirrhotic diseases,2,5,6
+Vasurix polyvidone,2,6,8
+poisoning,1,1,1
+cardiac diseases,2,2,2
+helodermin,1,4,4
+"1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine",1,25,26
+folinic acid,2,4,4
+hyperkalemia,1,3,4
+Takotsubo syndrome,2,5,5
+Waldenstrom macroglobulinaemia,2,8,8
+Doxorubicin,1,6,5
+respiratory failure,2,2,2
+butyrylthiocholine,1,7,7
+calcium carbonate,2,2,3
+intrahepatic cholestasis,2,8,9
+downbeating nystagmus,2,7,7
+Damage of substantia nigra pars reticulata,6,12,13
+Argatroban,1,4,4
+glutamine,1,4,3
+glycopyrrolate,1,6,5
+Diphenhydramine,1,5,6
+vincristine,1,4,5
+neuroleptics,1,5,5
+N-methyl-D-aspartic acid,2,10,11
+SRC,1,2,2
+filariasis,1,4,4
+urinary bladder inflammation,3,5,5
+edrophonium,1,4,4
+nimesulide,1,4,4
+thrombi,1,3,3
+COX-2 inhibitors,2,4,6
+gemcitabine,1,4,5
+infantile spasms,2,4,5
+thiols,1,3,3
+sodium salicylate,2,5,5
+dobutamine,1,4,3
+gynecologic and testicular cancers,4,9,10
+ototoxicity,1,4,5
+morphine sulfate,2,3,6
+PDN,1,2,2
+"tert-butyl-(S)-8-bromo-11,12,13,13a-tetrahydro-9-oxo-9H- imidazo[1,5-a]-pyrrolo-[2,1-c][1,4]benzodiazepine-1-carboxylate",2,77,79
+hemolytic anemias,2,6,6
+ATP,1,1,1
+remifentanil,1,5,5
+CIBA,1,2,3
+Posterior leukoencephalopathy,2,8,10
+opioid addiction,2,4,4
+neuroleptic drugs,2,5,5
+conduction disorder,2,3,3
+lung mass,2,2,2
+gliclazide,1,5,5
+t-[35S]butylbicyclophosphorothionate,1,17,18
+glomerulonephritis,1,8,7
+beta adrenergic and muscarinic receptors blockade,6,12,13
+benzene,1,2,3
+Mitochondrial impairment,2,2,8
+domperidone,1,4,4
+Suramin,1,3,3
+lymphoma,1,4,3
+d-galactose,1,5,5
+hypoglycaemia,1,6,6
+oxacillin,1,4,4
+Cisplatin,1,3,5
+sustained membrane depolarisation,3,6,6
+thromboembolic,1,5,5
+Hyponatremia,1,5,6
+HMM,1,1,2
+Myopathy,1,3,3
+calcium gluconate,2,5,5
+thiabendazole,1,6,6
+abnormal ocular motility,3,5,6
+Nephrosis,1,3,4
+Skin rash,2,2,3
+paresthesias,1,3,4
+a significant rise in systolic blood pressure,7,9,10
+desmethylfluoxetine,1,8,8
+polyethylene glycol-asparaginase,2,12,15
+androgen,1,2,2
+S-312-d,1,5,5
+alendronate,1,4,4
+Torsades de pointes,3,6,6
+idiopathic cardiomyopathy,2,7,8
+amygdala dysfunction,2,5,8
+MitoQ,1,3,3
+Hyperprolactinemia,1,6,7
+Catalepsy,1,3,3
+anorexia,1,3,3
+myocardial stunning,2,4,5
+PGE2,1,3,3
+diabetes complications,2,2,2
+trimethoprim-sulfamethoxazole,1,12,12
+central nervous system leukemia,4,4,6
+cholestatic,1,4,3
+monoamines,1,3,3
+Zidovudine,1,4,4
+cardiac toxicity,2,2,2
+thrush,1,2,2
+levothyroxine,1,5,6
+dizziness,1,2,3
+Sirolimus,1,3,3
+depressive symptoms,2,3,3
+progestogens,1,4,4
+Gustatory hyperhidrosis,2,5,8
+NADPH,1,2,4
+long-QT syndrome,2,5,5
+stomatitis,1,4,4
+Zn,1,2,2
+hyper,1,1,2
+linezolid,1,3,3
+psychoses,1,2,4
+Ara-C,1,3,3
+pethidine,1,3,3
+hepatitis,1,1,3
+sleep-related impairments,2,5,6
+glucosuria,1,4,4
+leukopenia,1,4,4
+trazodone,1,4,4
+oxygen,1,1,1
+vasogenic edema,2,5,5
+Renal dysfunction,2,2,5
+human immunodeficiency virus type 1-infected,5,11,11
+cortisol,1,3,4
+accelerated junctional rhythms,3,4,4
+ICRF-187,1,4,5
+glioblastoma multiforme,2,8,7
+phenobarbital,1,5,6
+corticosteroid,1,5,5
+vancomycin,1,4,4
+bone marrow toxicity,3,3,4
+Aza,1,2,2
+status migrainosus,2,5,5
+Antineutrophil cytoplasmic antibody (ANCA)--associated vasculitis,5,21,24
+mucositis,1,3,4
+Dianabol,1,2,2
+oral candidiasis,2,4,5
+"abnormalities in the cortex, hippocampus, white matter, and ventricles",9,17,18
+Flushing,1,1,3
+ofloxacin,1,4,4
+acute tubular necrosis,3,4,6
+Propylthiouracil,1,6,7
+cardiovascular collapse,2,2,3
+deterioration of renal function,4,4,8
+fatigue,1,1,1
+pulmonary edema,2,3,3
+Hematologic toxicity,2,4,5
+tiapride,1,3,4
+albuterol,1,3,4
+proenkephalin,1,5,5
+lindane,1,2,3
+postoperative nausea and vomiting,4,6,7
+coronary heart disease,3,4,5
+vision and hearing loss,4,4,4
+D-amphetamine,1,5,5
+glomerulosclerosis,1,7,6
+hypoactivity,1,5,5
+adenosine,1,3,4
+D-glucarates,1,6,6
+thromboembolism,1,6,6
+depressive disorder,2,3,3
+asthmatics,1,2,4
+granulocyte colony-stimulating factor,3,8,11
+5-Hydroxytryptamine,1,7,8
+acute prerenal failure,3,5,5
+Salicylate,1,4,4
+flurothyl,1,3,3
+dipyridamole,1,5,5
+phenylephrine,1,5,5
+pilsicainide,1,5,5
+5-Fluorouracil,1,7,8
+sumatriptan,1,4,4
+psychiatric disorders,2,2,2
+optic disc edema,3,4,5
+retained placenta,2,3,3
+nitrous oxide,2,4,4
+hyperparathyroidism,1,5,6
+renal impairment,2,2,5
+post-transplantation lymphoproliferative disorder,3,12,11
+toxic dermatitis,2,4,4
+multiple myeloma,2,4,4
+neonatal apnea,2,4,6
+microphthalmos,1,4,4
+L-dopa,1,4,4
+hepatitis B surface antigen,4,4,7
+d-glucose,1,3,3
+thrombopenia,1,5,5
+myocardial dysfunction,2,4,7
+Cholestasis,1,4,4
+myocardial strain,2,4,5
+cognitive disorders,2,2,2
+CML,1,2,2
+Apnea,1,2,3
+Contrast,1,1,3
+tubular injury,2,2,3
+naloxone,1,4,4
+thiol,1,2,2
+Hypoxaemia,1,5,5
+learning and post-training consolidation deficits,5,8,8
+terbinafine,1,3,4
+hypertensive,1,3,3
+fatty acids,2,2,2
+impaired consciousness,2,2,2
+CDDP,1,2,2
+sensory and motor dysfunction,4,4,6
+mantle cell lymphoma,3,6,5
+cysteine,1,3,4
+BaCl2,1,3,4
+FA,1,1,1
+palsy,1,2,3
+ischemic lesions,2,4,4
+bipolar disorder,2,2,4
+bradyarrhythmia,1,6,7
+Terminalia chebula,2,4,5
+NO,1,1,1
+choreatic dyskinesias,2,8,8
+loss of myelination,3,5,5
+Hypercalcemia,1,4,5
+glutathione,1,5,4
+pupil dilation,2,3,3
+bacteremias,1,4,5
+DOX,1,2,2
+tiaprofenic acid,2,5,7
+pseudoprolactinoma,1,6,6
+Kidney cancer,2,2,3
+cardiac disease,2,2,2
+citrate,1,3,3
+rhabdomyolysis,1,5,5
+panic attacks,2,2,2
+myoclonia,1,4,4
+lorazepam,1,4,4
+visual defects,2,2,2
+metoprolol,1,4,4
+ioxaglate,1,4,4
+Nitroglycerin,1,5,5
+Menstrual abnormalities,2,5,6
+Mental Disorders,2,2,4
+3TC,1,2,2
+isotretinoin,1,4,5
+necrotising fasciitis,2,7,8
+isoproterenol,1,5,5
+"(S)-(-)-3-bromo-N-[(1-ethyl-2-pyrrolidinyl)methyl]-2,6-dimethoxybenz amide",2,46,47
+doxorubicin,1,6,5
+cholestasis,1,4,4
+myocardial degeneration,2,6,7
+Thromboxane,1,4,5
+malignant hyperthermia,2,5,7
+valvular heart disease,3,5,6
+lymphopenia,1,5,4
+Codeine,1,2,2
+DMPX,1,3,3
+gastric cancer,2,3,3
+Estrogen,1,2,3
+AMI,1,1,2
+methionine,1,4,4
+ramipril,1,3,3
+indomethacin,1,4,5
+hepatic injury,2,4,4
+schizo-affective disorder,2,7,7
+catecholamines,1,5,5
+psychiatric symptoms,2,2,2
+fasciculation,1,4,5
+cholate,1,2,2
+beclomethasone dipropionate,2,10,10
+paracetamol,1,4,4
+cisplatinum,1,4,6
+restless legs syndrome,3,3,3
+DSP4,1,3,3
+emesis,1,2,2
+monosaccharides,1,5,5
+inappetence,1,3,4
+hypertrophic hearts,2,4,5
+Alfentanil,1,4,4
+MPTP,1,2,2
+ventricular tachyarrhythmia,2,10,10
+neurotransmitter dysfunction,2,7,9
+mitochondrial oxidative damage,3,5,6
+fluoride,1,3,3
+nefiracetam,1,4,4
+cardiac dysfunction,2,2,4
+Lithium,1,1,3
+neuropsychiatric disorders,2,6,6
+End-Stage Liver Disease,3,5,6
+norepinephrine,1,5,5
+Quinacrine hydrochloride,2,7,9
+Amiodarone,1,3,4
+acute renal artery thrombosis,4,7,8
+thromboembolic phenomena,2,6,6
+depressive and psychotic symptoms,4,5,7
+Rifampicin,1,5,5
+thiopentone,1,4,4
+tubulo-interstitial injury,2,7,8
+ammonium,1,2,3
+TLS,1,2,2
+desipramine,1,4,4
+membranous glomerulonephritis,2,12,11
+glucose hypometabolism,2,7,8
+acute encephalopathy,2,6,6
+Downbeat nystagmus,2,6,6
+cluster headache,2,2,2
+Hepatocellular carcinoma,2,7,7
+hepatotoxic,1,6,6
+MCL,1,2,2
+dibucaine,1,4,4
+Metolachlor,1,4,4
+cholesterols,1,4,4
+cognitive and affective dysfunction,4,5,7
+Pure red cell aplasia,4,6,6
+carcinomas of the urinary bladder,5,9,10
+propylthiouracil,1,6,6
+thiobarbituric acid,2,7,7
+chronic kidney disease,3,3,3
+metabolic derangement,2,4,4
+angiotensin-converting enzyme (ACE) inhibitors,4,11,13
+strophantine G,2,5,6
+hepatoma,1,4,4
+VPA,1,2,2
+methotrexate,1,5,5
+endometrial cancer,2,5,5
+microprolactinoma,1,6,6
+digoxin,1,3,3
+autistic disorder,2,4,4
+hyperkinetic,1,3,4
+CMV infection,2,3,4
+erythromycin,1,5,5
+Central nervous system toxicity,4,4,4
+Cu,1,1,2
+azimilide,1,3,4
+drug-induced liver damage,3,5,5
+tobramycin,1,4,4
+Glu,1,2,2
+motor deficits,2,3,3
+T-cell lymphoblastic lymphoma,3,12,10
+Parkinson's Disease,2,4,4
+macroprolactinemia,1,6,6
+androgens,1,3,3
+ureteric obstruction,2,4,6
+Epsilon aminocaproic acid,3,6,8
+Digoxin,1,3,3
+shock,1,1,1
+HBsAg,1,3,5
+acute coronary syndrome,3,4,5
+fibrillation,1,3,4
+inattention,1,3,4
+ALF,1,1,2
+renal lesions,2,2,3
+erdosteine,1,4,4
+heart diseases,2,2,2
+torsade de pointes,3,6,6
+fenfluramine,1,4,6
+Serotonin,1,3,3
+hypoaldosteronism,1,7,7
+Renal lesions,2,2,3
+acetaminophen,1,5,5
+eslicarbazepine acetate,2,7,8
+ventricular arrhythmias,2,8,9
+sodium chloride,2,2,2
+hepatocellular damage,2,5,5
+Valproic acid,2,4,5
+muscle spasm,2,3,3
+Coronary heart disease,3,4,5
+microfilaremia,1,4,4
+monosodium glutamate,2,7,7
+metabolic disturbances,2,2,3
+EPS,1,1,2
+bromide,1,2,3
+phosphorus,1,1,3
+hematological disorders,2,4,4
+autonomic neuropathy,2,6,6
+bradykinesia,1,4,5
+propidium iodide,2,5,6
+Thoracic hematomyelia,2,7,8
+cystitis,1,3,3
+hemiparesis,1,4,4
+neuropathic pain,2,4,4
+myxoedema coma,2,5,6
+Nasal hypoplasia,2,6,6
+Busulfan,1,3,3
+5-hydroxytryptamine,1,7,8
+benzoylcholine,1,5,5
+HCl,1,2,2
+parkinsonian,1,2,4
+atropine,1,3,3
+palpitations,1,3,4
+antisocial disorder,2,4,4
+dyskinesia,1,5,5
+teratogenic,1,3,3
+toxic liver damage,3,3,3
+phosphatidylserine,1,7,8
+Lindane,1,2,2
+leukocyturia,1,5,5
+TNA,1,1,1
+Angiotensin-converting enzyme (ACE) inhibitors,4,11,13
+ketoconazole,1,5,5
+Etomidate,1,3,4
+levobupivacaine,1,6,7
+valsartan,1,3,4
+ANCA positive vasculitis,3,7,8
+flecainide,1,4,4
+Taussig-Bing malformation,2,8,9
+Butyrylcholinesterase deficiency,2,8,8
+acute liver failure,3,3,3
+hepatitis B,2,2,4
+aspartate,1,3,3
+EACA,1,2,2
+alcoholic cirrhosis,2,4,6
+infective endocarditis,2,7,7
+FLA797,1,5,5
+papular rosacea,2,5,6
+uremic,1,3,3
+confusion,1,1,1
+Penicillin,1,3,3
+crack cocaine,2,2,2
+BTC,1,2,2
+sodium pentobarbital,2,6,6
+Clentiazem,1,5,5
+succimer,1,3,3
+Amoxicillin-clavulanate,1,9,9
+"1,3-bis (2-chloroethyl)-1-nitrosoure",2,21,22
+bisphosphonates,1,5,5
+Citalopram,1,4,4
+Testosterone,1,1,2
+Fluo3,1,3,4
+letrozole,1,4,4
+cardiomyocyte degeneration,2,8,8
+[omega-I-131]heptadecanoic acid,2,13,15
+CLE,1,2,2
+polyarthralgia,1,4,6
+Brain injury,2,2,2
+kidney tubular dysfunction,3,3,6
+pneumoniae,1,2,2
+steroids,1,2,3
+Ecstasy,1,1,4
+beta-carboline,1,5,5
+Phe,1,2,2
+carbon,1,1,1
+haemorrhagic,1,6,6
+nitrogen,1,1,1
+myocardial ischemic injury,3,7,8
+zidovudine,1,4,4
+mania,1,1,2
+bradycardic,1,3,4
+cardiac injury,2,2,2
+coronary vasospasm,2,6,8
+Hyperkalemia,1,3,4
+cognitive impairment,2,2,4
+Carvedilol,1,3,4
+erythema,1,3,4
+bevacizumab,1,5,6
+diarrhea,1,3,4
+bile salt,2,2,3
+NCQ436,1,4,4
+endometrial hyperplasia,2,7,8
+flumazenil,1,4,4
+tempol,1,2,2
+hexauronic acids,2,5,5
+sulfhydryl,1,5,5
+quinacrine hydrochloride,2,7,9
+menorrhagia,1,5,5
+subependymal cysts,2,7,8
+ergometrine,1,4,4
+Binasal visual field defects,4,6,6
+"liver, blood, skin, and renal disorders",6,9,10
+fulminant eosinophilic,2,9,9
+zolmitriptan,1,5,5
+Garcinielliptone FC,2,7,7
+inflammatory facial dermatoses,3,5,6
+abnormal involuntary movements,3,3,6
+prostate cancer,2,2,3
+lymphadenopathy,1,6,5
+d-tubocurarine,1,6,6
+cyproterone acetate,2,6,7
+AL,1,1,1
+postoperative delirium,2,6,6
+hypercalcemic emergency,2,5,6
+aphasia,1,3,3
+sulphonylureas,1,5,6
+AN,1,1,1
+iodine,1,2,3
+nephrosis,1,3,3
+Clarithromycin,1,6,6
+Piperacillin,1,4,4
+Anti-thyroid drugs,2,4,5
+milk-alkali syndrome,2,5,6
+Gemcitabine,1,4,5
+auditory hallucinations,2,4,6
+blindness,1,1,2
+hereditary angioedema,2,5,5
+spasmodic dysphonia,2,7,7
+impaired memory performance,3,3,3
+Disoprivan,1,4,5
+NaCl,1,2,3
+TDF,1,2,2
+misoprostol,1,5,6
+5'-N-ethylcarboxamidoadenosine,1,14,14
+palpitation,1,3,4
+warfarin,1,3,3
+neuroleptic medications,2,5,5
+nonalcoholic fatty liver disease,4,8,8
+paralysis,1,1,2
+triglyceride,1,4,5
+enlargement of pulse pressure,4,6,6
+testicular pain,2,3,3
+nephropathy,1,4,4
+telaprevir,1,4,4
+Neuroleptic malignant syndrome,3,7,8
+Carbamazepine,1,5,5
+cyclophosphamide,1,6,8
+DEP,1,2,2
+CLD,1,2,2
+iAs,1,2,2
+cocaethylene,1,4,5
+nephrotic syndrome,2,5,5
+ventricular tachycardia,2,7,7
+POAG,1,2,3
+dysguesia,1,4,4
+albuminuria,1,3,3
+Interferon,1,3,3
+Olanzapine,1,3,4
+thromboxane B2,2,6,6
+psychotic symptoms,2,2,4
+malignancies,1,3,4
+hematoxylin,1,4,4
+DM-9384,1,6,6
+mitochondrial dysfunction,2,2,4
+dihydrothienopyridine calcium,2,9,9
+2-p-(2-carboxyethyl)phenethylamino-5'-N-ethylcarboxamidoadenosine,1,33,34
+ANT-MI,1,3,4
+PAN,1,1,2
+levodopa,1,3,4
+psoriatic,1,3,3
+Hodgkin lymphoma,2,8,7
+dexamphetamine,1,4,5
+AIN,1,1,2
+urinary tract infections,3,5,5
+methylphenidate,1,4,5
+agranulocytosis,1,5,6
+thyroid disease,2,2,3
+Nafcillin,1,4,4
+obesity,1,1,2
+Ethacrynic acid,2,6,6
+neurologic deterioration,2,4,8
+mannitol,1,3,4
+panic disorder,2,2,2
+dysplasia of fetal kidneys,4,8,9
+reperfusion injury,2,4,4
+renal tubular acidosis,3,4,6
+hydrocortisone,1,4,5
+3-methoxy-4-hydroxyphenethyleneglycol,1,16,18
+acute renal injury,3,3,4
+fluorouracil,1,5,5
+D-ribose,1,4,4
+Terfenadine,1,4,4
+sulphonylurea,1,5,5
+ARF,1,2,2
+PPH,1,2,2
+cerebral ischemia,2,4,4
+urinary tract cancer,3,5,5
+antithyroidmedications,1,6,6
+Sotalol,1,3,3
+anxiety disorders,2,2,2
+rash,1,1,2
+DEC,1,1,2
+ribavirin,1,3,3
+clentiazem,1,5,5
+nitric-oxide,1,4,4
+oral contraceptives,2,4,5
+dihydropyridine,1,6,6
+broken heart syndrome,3,3,3
+rifampicin,1,5,5
+paraplegia,1,3,3
+Fungizone,1,2,3
+phenytoin sodium,2,5,6
+cytarabine,1,3,4
+nitroprusside,1,5,5
+Pilsicainide,1,5,5
+malignant glioma,2,5,6
+potassium,1,1,1
+aggression,1,1,1
+behavioral dyscontrol,2,6,6
+ALL,1,1,2
+myopathic,1,3,4
+hematoma,1,3,3
+dyskinesias,1,5,5
+amino,1,1,1
+Cortical dysplasia,2,7,7
+Methyldopa,1,3,4
+DOCA,1,2,3
+succinylcholine,1,6,6
+protamine sulfate,2,4,5
+catechol,1,3,3
+mianserin,1,3,4
+LV dysfunction,2,3,5
+Medroxyprogesterone acetate,2,9,10
+Vinorelbine,1,4,4
+ulcer,1,2,2
+Dexamethasone,1,5,5
+cocaine abuse,2,2,2
+hyperhidrosis,1,3,5
+dilated cardiomyopathy,2,6,7
+RLS,1,2,2
+P11,1,2,2
+sulfadiazine,1,4,4
+glomerular hypertrophy,2,7,8
+cancer,1,1,1
+Aspirin,1,3,3
+midazolam,1,4,4
+Gastrointestinal abnormalities,2,5,7
+burn,1,1,1
+Edrophonium,1,4,4
+Captopril,1,3,3
+mesangial dysfunction,2,4,6
+naproxen,1,4,3
+TTC,1,2,2
+fatty acid,2,2,2
+xylometazoline,1,6,6
+dimethylthiourea,1,6,6
+Cerebral microbleeds,2,5,7
+pyrrolidine dithiocarbamate,2,10,11
+psychological disturbance,2,2,2
+autoimmune hemolytic anemia,3,9,9
+nociceptin,1,4,5
+Vasovagal syncope,2,6,7
+angio-oedema,1,6,6
+clopidogrel,1,5,5
+LOS,1,1,2
+memory deficits,2,3,3
+progestagens,1,4,4
+toxoplasmosis,1,6,6
+staphylococcal endocarditis,2,10,10
+garcinielliptone FC,2,7,7
+gram-negative bacillary infections,3,7,8
+obstructive uropathy,2,7,7
+cataleptic,1,3,3
+Torsade de pointes,3,6,6
+neutropenia,1,4,4
+Coronary vasospasm,2,6,8
+angiotensin II,2,5,5
+Bortezomib,1,5,5
+SE,1,1,1
+cataract,1,3,3
+Extrapyramidal Symptom,2,7,8
+Isoproterenol,1,5,5
+pentobarbital,1,5,5
+polyarteritis nodosa,2,6,7
+cardiac hypertrophy,2,4,5
+anxiety,1,1,1
+Bradycardia,1,3,3
+muscle cramps,2,3,4
+pyrazolones,1,5,5
+glutamate,1,4,4
+hemorrhagic bronchopneumonia,2,11,12
+Glibenclamide,1,6,6
+memory impairment,2,2,4
+TAC,1,2,2
+carbenicillin,1,4,4
+premature (< 36 weeks of gestation) infants,7,10,11
+quetiapine,1,3,3
+onychomycosis,1,5,5
+4HNE,1,3,3
+carbetocin,1,4,4
+impulsiveness,1,3,4
+oral ulcers,2,4,4
+antisocial personality,2,4,4
+hypoalbuminemia,1,7,7
+sugar alcohols,2,3,3
+Niacin extended-release/lovastatin,2,11,11
+retinoblastoma,1,5,4
+Thrombocytopenia,1,6,7
+visual field defects,3,3,3
+Cimetidine,1,4,4
+valproic acid,2,4,6
+CTX,1,2,2
+"1,3-Butadiene",1,7,7
+Haloperidol,1,4,4
+hydroxytyrosol,1,5,6
+upper-extremity deep venous thrombosis,4,12,12
+"2',3'-dideoxy cytosine",2,12,13
+renal toxicity,2,2,3
+prostaglandin E2,2,7,7
+NCQ344,1,4,4
+5-fluorouracil,1,7,7
+clarithromycin,1,6,6
+d-ribose,1,4,4
+Impaired fear recognition,3,3,6
+aminonucleoside,1,5,5
+adductor spasmodic dysphonia,3,10,10
+thyrotropin,1,4,4
+atrial fibrillation and flutter,4,7,8
+myoglobinuria,1,5,5
+weakness,1,1,1
+All-trans retinoic acid,3,7,7
+Tobramycin,1,4,4
+diabetes mellitus,2,4,4
+methoxamine,1,4,4
+CE,1,1,1
+idiopathic epilepsy,2,6,6
+lethargy,1,3,3
+stroke,1,1,1
+dissecting aneurysm,2,7,7
+Musculoskeletal pain,2,7,7
+bacteremia,1,3,4
+Maleate,1,2,2
+famotidine,1,4,4
+pyrexia,1,3,3
+malaria,1,1,1
+penicillin,1,3,3
+fluorescein,1,4,4
+myotonia congenita,2,6,6
+Acute renal failure,3,3,5
+cholesterol,1,3,4
+clonic seizure,2,3,4
+prolonged QT syndrome,3,4,4
+extrapyramidal syndrome,2,5,5
+tumors,1,1,1
+diethylpropion,1,5,5
+Milk-alkali syndrome,2,5,6
+ventricular tachyarrhythmias,2,10,11
+Acute encephalopathy,2,6,7
+calcium channel blockers,3,4,4
+AGC,1,2,2
+2'3' dideoxyinosine,2,10,10
+Cotrimoxazole,1,5,6
+Myotonia,1,3,3
+throat pain,2,2,2
+VAL,1,1,2
+Mania,1,1,2
+betaine,1,2,2
+Adenosine,1,3,3
+Estradiol,1,3,4
+primary systemic amyloidosis,3,5,6
+head and neck cancer,4,4,4
+r-aminobutyric acid,2,7,6
+toxic epidermal necrolysis,3,7,10
+ischemic stroke,2,4,4
+oestrogen,1,3,3
+leprosy,1,3,4
+weight loss,2,2,2
+cocaine hydrochloride,2,5,6
+psychosis,1,2,3
+Corneal ulcers,2,5,6
+Botox,1,2,3
+Toxic hepatitis,2,2,6
+facial inflammatory dermatoses,3,5,6
+liver damage,2,2,2
+ara-C,1,3,4
+dextrose,1,3,4
+nephrotoxicity,1,6,6
+impairment of the renal function,5,5,8
+myopathic disease,2,4,5
+pulmonary mass,2,2,2
+haematological malignancies,2,7,8
+necroses,1,3,4
+neurotoxicity,1,5,5
+genotoxicity,1,4,5
+VT,1,1,2
+Rhabdomyolysis,1,5,5
+Cholecystokinin-octapeptide,1,11,11
+oligomenorrhea,1,6,7
+AV block,2,2,3
+L-arginine,1,5,6
+gallbladder disease,2,4,5
+corneal opacities,2,5,5
+Neutropenia,1,4,5
+pamidronate,1,4,4
+Acute renal insufficiency,3,6,7
+eosin,1,3,3
+Nausea,1,1,3
+domperione,1,4,3
+chronic hepatitis B,3,3,5
+hyperinsulinemia,1,4,5
+visual loss,2,2,2
+mefenamic acid,2,5,5
+isoniazid,1,4,4
+Curcumin,1,4,4
+neuropsychiatric symptoms,2,6,6
+tubular necrosis,2,3,5
+enflurane,1,4,4
+"Re, Rg1, and Rb1 ginsenosides",5,13,15
+cobalt,1,1,2
+Atropine,1,3,3
+acute myocardial infarction,3,7,8
+HUS,1,2,2
+Cocaine,1,1,2
+sterol,1,2,3
+pergolide,1,3,3
+Fanconi syndrome,2,4,4
+conjugated estrogens,2,6,6
+Quinine,1,2,3
+daptomycin,1,4,4
+consumption coagulopathies,2,6,6
+Cytomegalovirus infections,2,6,6
+diazinon,1,3,3
+intracranial vascular thrombosis,3,8,10
+diabetes insipidus,2,5,5
+SS,1,1,1
+3-nitrotyrosine,1,7,7
+ischemic brain injury,3,5,5
+MD,1,1,1
+cutaneous lupus erythematosus,3,9,10
+statins,1,2,3
+nifekalant,1,4,4
+Thrombotic,1,4,4
+contrast,1,1,1
+Myoclonic movements,2,5,5
+Paroxetine,1,4,4
+patent ductus arteriosus,3,6,7
+levofloxacin,1,5,6
+HTN,1,3,3
+desferrioxamine,1,5,5
+chronic hepatitis B virus infection,5,5,7
+pentazocine,1,4,4
+Adriamycin,1,4,4
+toxocity,1,4,4
+azotemia,1,3,4
+immunocytoma,1,5,6
+embryolethality,1,4,6
+progestagen,1,4,4
+ruthenium,1,3,4
+crocin,1,3,3
+amnesia,1,1,2
+isradipine,1,4,4
+HITT,1,2,3
+glomerular disease,2,5,5
+Hyperosmolar nonketotic coma,3,9,9
+Cyclophosphamide,1,6,7
+pain,1,1,1
+atrial fibrillation,2,5,6
+vitamin E,2,2,2
+SNP,1,2,2
+cramps,1,2,3
+Seizure,1,1,3
+inositol,1,4,4
+ischaemic,1,4,4
+hexamethylmelamine,1,6,6
+Methamphetamine,1,5,4
+thalidomide,1,4,4
+ischaemia,1,3,3
+norpethidine,1,4,4
+BNPP,1,2,3
+multicystic encephalomalacia,2,9,10
+mastodynia,1,4,3
+atenolol,1,4,4
+bronchiectasis,1,5,6
+blurred vision,2,2,2
+Hoechst 33342,2,5,5
+arrhythmia,1,5,5
+Tetrabenazine,1,5,5
+AFL,1,1,1
+gastrointestinal bleeding,2,5,6
+intracranial hypertension,2,5,9
+trimetaphan,1,4,4
+mitochondrial abnormalities,2,2,3
+testosterone,1,1,2
+BUN,1,1,2
+TdP,1,2,3
+circulatory failure,2,5,5
+gestodene,1,4,4
+Neurologic toxicities,2,5,6
+busulfan,1,3,3
+Syncope,1,2,3
+end-stage renal disease,3,5,6
+hypokalemia,1,5,5
+Renal failure,2,2,3
+iocarmate,1,3,4
+DES,1,1,2
+ropivacaine,1,4,5
+myocardial injury,2,4,5
+intrauterine growth retardation,3,7,8
+overdose,1,1,3
+LNNA,1,2,3
+hypothermia,1,5,5
+Nitric oxide,2,3,3
+potassium aspartate,2,4,4
+TMP-SMZ,1,5,5
+HIT II,2,2,3
+hematologic malignancies,2,6,8
+Bepridil hydrochloride,2,8,9
+hypertelorism,1,4,5
+ventricular dysfunction,2,4,6
+vocal nerve palsies,3,4,5
+HIV seroconversion,2,5,5
+contrast medium,2,2,2
+ischemic hemisphere,2,4,4
+cephalexin,1,4,4
+impaired renal function,3,3,4
+neuroinflammatory,1,7,7
+acetylcholine,1,5,5
+hypovolemia,1,5,6
+FHF,1,3,2
+Valproate,1,3,4
+oxcarbazepine,1,5,6
+Myocardial infarction,2,6,7
+drug-induced dyskinesias,2,8,8
+thalassemia,1,3,4
+"3,7-dimethyl-1-propargylxanthine",1,17,17
+hypoparathyroidism,1,7,7
+hemolysis,1,3,3
+disseminated intravascular coagulation,3,9,10
+subcellular degeneration,2,5,5
+Extrapyramidal syndrome,2,5,5
+T. chebula extract,3,5,6
+seizures,1,1,2
+ammonia,1,1,2
+Aconitine,1,3,4
+idiopathic orthostatic hypotension,3,12,12
+cyproheptadine,1,5,7
+immunodeficiencies,1,6,7
+vasopressin,1,4,5
+atrioventricular block,2,6,6
+Metallothionein,1,5,5
+4-aminopyridine,1,6,6
+MDP,1,2,2
+urethane,1,3,3
+Neuroleptic,1,4,4
+trimethaphan,1,4,4
+Famotidine,1,4,4
+hypercalcemic,1,4,5
+allodynia,1,4,3
+kidney injury,2,2,2
+tachy- or bradycardia,3,7,8
+carcinoma of the prostate,4,6,7
+HPMA,1,2,2
+angiotensin-converting enzyme inhibitors,3,8,9
+aspirin,1,3,3
+basal ganglia infarcts,3,6,6
+amyloidosis,1,3,4
+Myotonia congenita,2,6,6
+Alendronate,1,4,4
+hyperaldosteronism,1,5,6
+cervical carcinoma,2,4,7
+coronary arterial disease,3,4,6
+brain tumors,2,2,2
+myocarditis,1,4,4
+iron,1,1,1
+hypertrophied,1,4,5
+parkinsonism,1,2,4
+botox,1,2,3
+glioma,1,3,3
+tachycardial,1,4,4
+antithyroid medications,2,4,4
+impaired fear recognition,3,3,3
+Levobupivacaine,1,6,6
+OXC,1,2,3
+substance abuse disorder,3,3,3
+sinoatrial (S-A) block,3,9,9
+ureteric stones or obstruction,4,6,8
+Dex,1,1,1
+desmethylimipramine,1,6,7
+H,1,1,1
+schizophrenic,1,6,6
+urinary stress incontinence,3,8,8
+IDM,1,2,2
+nervous system abnormalities,3,3,4
+AMP,1,1,2
+malignancy,1,3,4
+nitrendipine,1,4,4
+timolol maleate,2,5,6
+glomerular injury,2,5,5
+NG-nitro-L-arginine,1,10,12
+Evans Blue,2,2,2
+diabetic,1,3,3
+Sudden Cardiac Death,3,3,5
+acetic acid,2,3,3
+right bundle branch block,4,4,4
+norleucine,1,4,4
+CVDs,1,2,3
+Verapamil,1,4,4
+corticotropin,1,5,5
+PDTC,1,2,2
+PD,1,1,1
+ESRD,1,2,3
+visual hallucinations,2,4,5
+bleeding,1,1,1
+neuroleptic malignant syndrome,3,7,8
+abecarnil,1,4,5
+metronidazole,1,5,5
+OCs,1,2,2
+transient ischaemic attacks,3,6,7
+Lisinopril,1,4,4
+glomerular sclerosis,2,7,7
+sotalol,1,3,3
+sensory disturbance,2,2,2
+Staphylococcal infections,2,7,7
+interstitial nephritis,2,7,8
+secondary hyperalgesia,2,5,6
+neurogenic DI,2,4,5
+RAD001,1,4,4
+ethambutol,1,5,4
+hypomania,1,4,5
+K,1,1,1
+"2,5-di-O-acetyl-D-glucaro-1,4-6,3-dilactone",1,30,31
+neuropathic,1,3,3
+Suxamethonium,1,5,5
+Central nervous system and cardiac toxicity,6,6,6
+coronary artery spasm,3,5,6
+Poisoning,1,1,3
+Sodium nitrite,2,4,5
+fenoterol-hydrobromide,1,7,10
+MK-801,1,4,5
+abdominal infections,2,2,2
+nephrogenic diabetes insipidus,3,9,9
+PB,1,2,2
+nephrotoxic,1,5,5
+transient ischemic attack,3,5,6
+paclitaxel,1,4,5
+peritoneal carcinoma,2,7,7
+preterm infants,2,4,4
+electrolyte disorder,2,4,4
+status epilepticus,2,5,5
+Mantle cell lymphoma,3,6,6
+alkylxanthines,1,7,7
+hepatitis C virus infection,4,4,6
+PAP,1,2,2
+inflammation,1,1,1
+tonic clonic convulsions,3,7,9
+cyclosporine,1,5,6
+peliosis,1,3,3
+bone marrow suppression,3,3,4
+angiotensin,1,4,4
+ventricular remodeling,2,7,7
+MC,1,1,1
+mitral regurgitation,2,5,6
+Autoimmune diseases,2,5,5
+pulmonary embolism,2,4,4
+PGF2 alpha,2,4,5
+loiasis,1,3,3
+MT,1,1,2
+angioedema,1,4,4
+cocaine,1,1,1
+capsaicin,1,3,3
+peripheral sensory neuropathy,3,5,5
+CYA,1,2,3
+necrotic,1,3,4
+SSRI,1,2,2
+L-Dopa,1,4,4
+phenols,1,3,3
+non-small cell lung cancer,4,6,6
+barium,1,2,2
+Bpd,1,2,3
+Cephalothin,1,4,4
+PPA,1,2,2
+Toxicities,1,2,4
+NVP,1,3,2
+bisphosphonate,1,5,5
+ZnSO(4),1,6,6
+cardiac death,2,2,2
+ocular dyskinesias,2,7,7
+Isotretinoin,1,4,5
+benzodiazepine,1,5,5
+apomorphine,1,4,4
+Tonic-clonic seizures,2,5,8
+D-glucarate,1,6,6
+bipolar mania,2,2,5
+type 1 diabetes,3,3,3
+Cerebellar and oculomotor dysfunction,4,11,13
+HIV infection,2,2,2
+kanamycin,1,3,4
+dysphagia,1,4,4
+squamous cell cervical carcinoma,4,8,11
+restlessness,1,2,2
+Succinylcholine,1,6,6
+Sumatriptan succinate,2,7,7
+lidocaine,1,3,3
+Histamine,1,3,2
+pertussis,1,3,3
+zinc,1,1,1
+diamorphine,1,4,4
+glucose,1,1,1
+muscimol,1,4,5
+cGMP,1,3,3
+priapism,1,3,4
+tissue injury,2,2,2
+heparins,1,3,3
+asystole,1,3,4
+bronchial asthma,2,4,7
+lithium,1,1,2
+arthritis,1,1,3
+norethisterone,1,4,4
+tonic-clonic seizure,2,5,7
+levetiracetam,1,4,5
+adrenaline,1,1,1
+E,1,1,1
+major depression disorder,3,3,3
+p-aminohippuric acid,2,7,7
+Hexabrix,1,4,4
+acute kidney injury,3,3,3
+Desvenlafaxine,1,6,6
+deterioration of left ventricular (LV) systolic function,7,14,18
+"D,L-4-amino-hex-5-enoic acid",2,16,17
+personality disorder,2,2,2
+skin reactions,2,2,2
+monoHER,1,2,4
+Growth retardation,2,4,4
+oxitropium bromide,2,6,8
+Althesin,1,3,3
+clonidine,1,3,4
+tumor lysis syndrome,3,4,5
+tacrolimus,1,4,4
+thrombocytopenia type II,3,8,8
+Erdosteine,1,4,4
+Proteinuria,1,2,3
+Oxitropium,1,4,5
+hyperthyroidism,1,4,5
+Hypokalemia,1,5,5
+FBAL,1,2,3
+Dubutamine,1,3,3
+ischaemic heart disease,3,6,6
+hypertrophic cardiomyopathy,2,7,9
+glomerulopathy,1,5,5
+metolachor,1,4,3
+Syndrome of inappropriate secretion of antidiuretic hormone,7,11,13
+bile duct destruction,3,3,4
+Epinephrine,1,4,4
+NE,1,1,1
+kidney damage,2,2,2
+QT interval prolongation,3,6,6
+oxidized and reduced glutathione,4,10,9
+lateral epicondylitis,2,5,5
+rapamycin,1,3,4
+bradydysrhythmias,1,7,9
+schizoaffective disorder,2,7,7
+quinidine,1,3,4
+LV hypertrophy,2,5,6
+hepatic and renal toxicity,4,6,7
+coronary artery or myocardial disease,5,8,10
+gemfibrozil,1,5,6
+acetrizoate,1,4,4
+leukemic,1,3,3
+ion channel disorders,3,3,3
+DDAVP,1,3,3
+apnea,1,2,3
+coronary disease,2,3,4
+Pb,1,2,2
+hyponatraemia,1,5,6
+encephalopathy,1,5,5
+fulminant hepatic failure,3,8,8
+cytopenia,1,3,4
+niacin,1,3,3
+toxicity,1,1,1
+superoxide,1,2,2
+Cancer,1,1,1
+cardiovascular diseases,2,2,3
+renal calculi,2,4,6
+syndrome of inappropriate secretion of anti-diuretic hormone,7,12,12
+postprandial dyspepsia,2,9,9
+VDS,1,2,2
+dyskinetic,1,4,4
+hypercapnic,1,3,4
+mastocytosis,1,4,4
+hyperlocomotion,1,5,5
+Nomega-nitro-L-arginine,1,12,13
+oxitropium,1,4,5
+PS,1,1,1
+hemorrhage,1,4,4
+Carbimazole,1,5,5
+biperiden lactate,2,6,6
+piperacillin,1,4,4
+oliguria,1,3,4
+methadone,1,3,3
+epileptic seizure,2,4,4
+Torsades de Pointes,3,6,6
+congenital abnormalities,2,2,5
+Pb poisoning,2,3,3
+Doxil,1,3,3
+Rg1 and Rb1 ginsenosides,4,10,12
+Hepatitis,1,1,3
+Cromakalim,1,4,4
+FK506,1,3,3
+strophanthidin,1,5,6
+tremor,1,1,3
+d4T,1,3,3
+dehydration,1,4,4
+XDR-TB,1,4,5
+AgSD,1,2,3
+risperidone,1,4,5
+ISO,1,1,1
+scopolamine,1,4,4
+lenalidomide,1,4,5
+hyperglyceridemic effect,2,6,7
+dihydropyrimidine,1,6,7
+citalopram,1,4,4
+Diazinon,1,3,3
+"hepatic, neurologic and psychiatric disorders",5,10,11
+pilocarpine,1,4,4
+chloride,1,1,1
+myodystrophy,1,5,4
+Epstein Barr Virus infection,4,4,8
+viral hepatitis,2,2,4
+parotiditis,1,4,4
+hepatitis C virus infected,4,4,6
+Angiotensin,1,4,4
+scoline,1,3,3
+Blepharoconjunctivitis,1,9,8
+MDA,1,2,2
+dUTP,1,2,3
+meloxicam,1,4,4
+Trimethoprim,1,4,4
+pulmonary hypertension,2,3,5
+menopausal symptoms,2,5,5
+L-NAME,1,3,5
+movement difficulties,2,2,2
+GI bleeding,2,2,3
+AZT,1,2,3
+temsirolimus,1,5,5
+DOPAC,1,2,3
+Vincristine,1,4,4
+metolachlor,1,4,4
+paresthesia,1,2,3
+trauma,1,1,1
+Citrate,1,3,3
+Adenosine triphosphate,2,6,6
+KCl,1,2,2
+DCF,1,2,2
+Procaterol,1,3,3
+renal tubular necrosis,3,4,7
+Sulfadiazine,1,4,4
+heart hypertrophy,2,4,5
+apnoea,1,3,4
+kidney cancer,2,2,2
+Clonazepam,1,5,5
+sodium nitroprusside,2,6,6
+endometrial disease,2,5,5
+hemicholinium,1,4,4
+Minocycline,1,5,4
+Tdp,1,2,3
+emergency department,2,2,2
+infection,1,1,1
+puromycin-aminonucleoside,1,10,10
+angina,1,2,3
+ataxia,1,2,3
+tubulointerstitial injury,2,7,7
+RRMM,1,2,3
+toxicities,1,2,2
+renal disease,2,2,3
+TXB2,1,3,3
+Indomethacin,1,4,4
+thrombotic,1,4,4
+akinesia,1,3,3
+hypoglycemia,1,6,6
+Ro 16-6028,2,5,6
+rheumatic disease,2,4,4
+ifosfamide,1,4,5
+Dobutamine,1,4,3
+5-HIAA,1,4,5
+Major depressive disorder,3,4,4
+chorioretinal atrophy,2,7,7
+nicotine,1,2,3
+depression,1,1,1
+Asterixis,1,4,4
+H2O2,1,4,4
+renal tubular injury,3,3,5
+asthma,1,1,3
+polycythemia,1,4,5
+chenodeoxycholate,1,5,6
+Carbetocin,1,4,4
+propanolol,1,4,4
+Toxicity,1,1,3
+fever,1,1,1
+neostigmine,1,4,4
+stereotypies,1,3,3
+methoxyflurane,1,6,6
+isoprenaline,1,4,4
+oral stereotypies,2,4,4
+diabetic neuropathy,2,6,6
+Convulsion,1,4,4
+postural hypotension,2,7,7
+hyperplasia,1,3,4
+hydroquinone,1,3,4
+Long QT syndrome,3,4,4
+MA,1,1,1
+minocycline,1,5,4
+hemoglobinuria,1,5,5
+panic attack,2,2,2
+DA,1,1,2
+Ventricular arrhythmias,2,8,10
+biliary atresia,2,6,6
+BS,1,1,1
+levcromakalim,1,5,6
+arterial dysfunction,2,2,5
+coronary stenosis,2,4,6
+Prinzmetal's angina,2,8,10
+PENK,1,2,3
+methimazole,1,4,4
+Imipramine,1,4,4
+Adrenaline,1,1,3
+type 2 diabetic,3,5,5
+D-AmB,1,4,4
+Chinese herbal,2,2,3
+HVA,1,2,2
+Hypertension,1,2,4
+aggressiveness,1,2,2
+pertussis vaccine,2,4,4
+Congestive heart failure,3,5,5
+subarachnoid hemorrhage,2,9,9
+Levetiracetam,1,4,4
+"1,4-dihydropyridine",1,10,10
+Headache,1,1,2
+prostaglandin,1,5,5
+sarcomas,1,3,4
+posterior leukoencephalopathy,2,8,8
+meningitis,1,3,3
+spiperone,1,3,3
+macro-papular rash,2,6,8
+thrombocytopenia,1,6,6
+erythema multiforme,2,6,7
+Stevens-Johnson syndrome,2,4,4
+Gentamicin,1,4,4
+amphetamine,1,3,3
+tumor,1,1,1
+Bisphenol A,2,5,6
+ischemia,1,3,3
+TCA,1,2,2
+Wilson's disease,2,4,4
+angiotensin-converting enzyme inhibitor,3,8,8
+Cognitive impairment,2,2,6
+myxomatous degeneration,2,8,8
+renal damages,2,2,3
+peripheral neuropathy,2,4,4
+serotonin,1,3,4
+pupillary oscillation,2,5,6
+dry eyes,2,2,2
+chronic renal failure,3,3,4
+Acute neurologic dysfunction,3,5,9
+HBeAg,1,3,5
+memory deterioration,2,2,5
+ulcers,1,3,3
+gustatory hyperhidrosis,2,5,8
+carbimazole,1,5,5
+"N-(trans-3-hydroxy-1,2,3,4-tetrahydro-2-naphthyl)-N-(3-oxo-3-phenyl-2-methylpropyl)-piperazine hydrochloride",2,59,64
+ampicillin,1,3,4
+occlusion of renal vessels,4,6,7
+desvenlafaxine,1,6,6
+Atrial thrombosis,2,6,6
+cytotoxicity,1,5,5
+Lenalidomide,1,4,4
+FSGS,1,3,3
+denopamine,1,3,3
+hepatocellular carcinoma,2,7,7
+TS,1,1,2
+Losartan,1,3,3
+MP,1,1,1
+syncopal episode,2,4,5
+maleate,1,2,2
+NAFLD,1,3,3
+CRF,1,2,2
+everolimus,1,3,3
+5-FU,1,3,4
+Ca,1,1,2
+calcium,1,1,1
+hexaaldonic acids,2,5,5
+hyponatremia,1,5,6
+central nervous system disease,4,4,4
+Sermion,1,3,3
+manic,1,2,2
+diarrheas,1,4,5
+cardiotoxicity,1,5,5
+Gly-Phe-Leu-Gly,1,11,11
+cardiac damage,2,2,2
+hoarseness,1,2,2
+mitochondrial injury,2,2,2
+baboon syndrome,2,4,4
+tenofovir disoproxil fumarate,3,12,13
+Pilocarpine,1,4,4
+lomustine,1,3,3
+picrotoxin,1,4,5
+DI,1,1,2
+epileptic,1,3,3
+VTE,1,2,2
+central nervous system toxicity,4,4,4
+loss of vision,3,3,3
+polyuric,1,3,4
+stenosis,1,2,3
+primary open-angle glaucoma,3,8,8
+Scopolamine,1,4,4
+amlodipine,1,4,4
+organophosphate,1,4,4
+dementia,1,1,3
+pancuronium,1,4,4
+CHX,1,2,2
+Azotemia,1,3,4
+ventricular fibrillation,2,6,7
+hypothyroidism,1,6,6
+STZ,1,2,2
+spasm,1,2,2
+ACE inhibitors,2,2,4
+argatroban,1,4,4
+migraine,1,2,3
+imipramine,1,4,4
+extensively drug-resistant tuberculosis,3,5,5
+syndrome of inappropriate anti-diuretic hormone,5,9,9
+muscle fasciculation,2,5,6
+estradiol,1,3,3
+neurological dysfunctions,2,3,7
+hydrochlorothiazide,1,7,8
+corticosteroids,1,5,5
+AMNS,1,2,2
+bemegride,1,4,4
+hyperammonemia,1,4,5
+abnormalities in neuronal systems,4,6,7
+IE,1,1,2
+diabetics,1,3,3
+neuromuscular blockade,2,5,5
+vocal cord paralysis,3,3,4
+acute lymphoblastic leukemia,3,7,8
+tazobactam,1,5,5
+methicillin,1,4,4
+acute promyelocytic leukemia,3,7,9
+Fazadinium,1,4,4
+Chinese herbs,2,2,2
+CGS 21680,2,4,4
+non-small-cell lung cancer,3,7,7
+aldosterone,1,3,4
+hyperalgesic,1,4,5
+coagulopathy,1,4,4
+ACh,1,2,2
+visual field loss,3,3,3
+optic nerve hypoplasia,3,7,7
+ascites,1,3,3
+end-stage hepatic failure,3,7,7
+schizophrenia,1,1,3
+pseudotumor cerebri,2,6,6
+essential hypertension,2,3,5
+hyperactivity,1,3,4
+5-hydroxyindoleacetic acid,2,9,10
+Simvastatin,1,4,5
+haloperidol,1,4,5
+"1,25(OH)2D",1,7,7
+saccharic acid,2,4,5
+B-cell non-Hodgkin's lymphoma,3,15,14
+cholecystokinin,1,6,6
+Phenytoin,1,4,5
+nitric oxide,2,3,3
+galactorrhea,1,4,4
+impaired novel word learning,4,4,4
+Mastodynia,1,4,4
+hyperlipoproteinemias,1,7,8
+Candidiasis,1,3,4
+cancers,1,1,2
+nifedipine,1,4,4
+disulfiram,1,4,4
+caffeine,1,3,3
+Thiopentone,1,4,5
+chronic hepatitis C,3,3,5
+ischemic colitis,2,5,6
+chlorpromazine,1,5,5
+gamma-aminobutyric acid,2,7,6
+retinal toxicity,2,4,4
+stippled epiphyses,2,7,7
+Superoxide,1,2,2
+L-glutamic acid,2,7,7
+coronary artery stenosis,3,5,7
+zinc acetate,2,3,3
+ischemic and haemorrhagic stroke,4,11,11
+hemosiderotic,1,4,4
+Bupivacaine,1,4,5
+myalgia,1,3,3
+disturbances within the cardiovascular system,5,5,7
+palmoplantar pustulosis,2,8,8
+grand mal seizures,3,3,5
+renal damage,2,2,3
+chill,1,1,1
+dysmenorrhea,1,6,6
+glomerular or tubular dysfunction,4,7,10
+Caffeine,1,3,4
+tubulointerstitial nephritis,2,10,10
+amitriptyline,1,4,5
+cortical dysplasia,2,7,7
+tuberculosis of the lung or lymph node,7,9,8
+glipizide,1,4,4
+photodermatitis,1,4,4
+gentamicin,1,4,4
+ovarian or fallopian tube cancers,5,9,10
+HIV-infected,1,3,3
+impaired renal and liver function,5,5,6
+neuropathy,1,3,3
+levomepromazine,1,5,6
+Primary hyperparathyroidism,2,6,7
+birdshot retinochoroidopathy,2,8,8
+Dysguesia,1,4,4
+melphalan,1,3,4
+decreased the locomotor activity,4,6,7
+Hydroxytyrosol,1,5,6
+amphetamines,1,4,4
+Nimesulide,1,4,4
+hydroureteronephrosis,1,6,7
+perioral dermatitis,2,6,6
+Metformin,1,3,3
+17alpha-ethinylestradiol,1,10,10
+bacterial infections,2,2,2
+hexamethonium,1,5,5
+Premarin,1,3,3
+Hemorrhage,1,4,4
+BPA,1,2,2
+idiopathic Parkinson's disease,3,7,7
+subependymal cyst,2,7,8
+morphine,1,2,3
+Na,1,1,1
+tremors,1,2,3
+ethacrynic acid,2,6,6
+toxic optic neuropathy,3,5,6
+delusions,1,2,2
+acute renal insufficiency,3,6,6
+glyceryl trinitrate,2,8,7
+Flecainide,1,4,5
+Vigabatrin,1,4,4
+PVC,1,2,2
+non-Hodgkin lymphoma,2,10,9
+ACE inhibitor,2,2,3
+Levodopa,1,3,4
+cardiotoxic,1,4,4
+MB,1,1,1
+Macroprolactinemia,1,6,6
+Osteoporosis,1,5,5
+gouty arthritis,2,4,6
+carboplatin,1,4,5
+irregular heartbeat,2,2,2
+gastrointestinal toxicity,2,5,6
+Burkitt lymphoma,2,7,7
+halothane,1,3,3
+naphazoline,1,4,4
+coronary spasm,2,4,5
+homonymous hemianopsia,2,7,7
+LIDs,1,1,3
+chronic active hepatitis,3,3,5
+Acute tubulo-interstitial nephritis,3,11,13
+vitamin D,2,2,2
+hepatic insufficiency syndrome,3,8,7
+hypotension,1,5,5
+mastitis,1,2,2
+orciprenaline,1,5,5
+Temocapril,1,4,4
+"2,3,5-triphenyltetrazolium chloride",2,14,14
+premature ventricular contraction,3,5,5
+azathioprine,1,4,5
+hemorrhagic,1,5,5
+HCTZ,1,2,3
+ritodrin-HCl,1,7,7
+neurologic toxicity,2,4,5
+enprofylline,1,5,6
+alfentanil,1,4,4
+epirubicin,1,5,5
+renal failure,2,2,3
+veralipride,1,3,4
+tonic pupillary,2,3,4
+sepsis,1,2,2
+Pneumonitis,1,5,5
+amblyopia,1,4,4
+ADSD,1,2,2
+schizophreniform disorder,2,7,7
+drug-induced liver injury,3,5,5
+dyspnea,1,4,4
+flurazepam,1,4,4
+aristolochic acids,2,6,5
+Contrast medium,2,2,4
+tyrosine,1,3,4
+dysarthria,1,4,5
+carcinoma of the urinary tract,5,9,9
+ornithine,1,4,4
+Vasopressin,1,4,5
+cardiovascular depression,2,2,3
+leukaemia,1,3,3
+Dimer-X,1,4,4
+EFV,1,3,3
+galactose,1,3,3
+sinoatrial block,2,4,4
+MR,1,1,1
+hyperbilirubinemia,1,6,7
+dex,1,1,2
+hypercalcemias,1,5,6
+Memantine,1,3,3
+behavior disorder,2,2,2
+audiogenic tonic convulsions,3,7,8
+Wiskott-Aldrich syndrome,2,7,8
+bortezomib,1,5,5
+periocular dermatitis,2,6,6
+loss of hearing,3,3,3
+carbamazepine,1,5,5
+Linezolid,1,3,3
+Eslicarbazepine acetate,2,7,9
+Nonalcoholic fatty liver disease,4,8,8
+inorganic arsenic,2,2,7
+hypertension,1,2,4
+adriamycin,1,4,4
+hyperammonemic encephalopathy,2,10,11
+infections,1,1,1
+curcumin,1,4,4
+depressed,1,1,1
+cycloheximide,1,6,8
+hepatic impairment,2,4,6
+3NT,1,2,2
+Syndrome of inappropriate antidiuretic hormone,5,8,10
+hypothyroid,1,5,5
+akathisia,1,3,3
+muscle fasciculations,2,6,6
+Acute kidney injury,3,3,4
+isotretinoin embryopathy,2,6,9
+sucralfate,1,5,5
+GR 82334,2,4,5
+Dexmedetomidine,1,5,5
+impaired memory,2,2,2
+Nephropathy,1,4,5
+neutropenic fever,2,6,6
+sinus tachycardia,2,6,6
+all-trans-retinoic acid,2,8,8
+vincristine sulfate,2,5,8
+norvaline,1,3,3
+Gemfibrozil,1,5,6
+ACC-9653,1,4,4
+Amphotericin B,2,5,6
+CNSB002,1,4,5
+venous thromboembolism,2,8,8
+cardiogenic shock,2,4,4
+Fluoxetine,1,4,5
+fluconazole,1,4,4
+Chest pain,2,2,3
+sleep disturbance,2,2,2
+secondary infection,2,2,2
+tinnitus,1,3,3
+migraines,1,3,3
+valproate,1,3,5
+retinal vein occlusion,3,7,7
+renal disturbance,2,2,3
+alanine,1,2,3
+Nifedipine,1,4,4
+acne,1,2,3
+ventricular septal defects,3,6,7
+follicular cell lymphoma,3,8,7
+VNR,1,2,2
+intracerebral hemorrhage,2,8,9
+polydipsia,1,4,5
+cardiac arrhythmia,2,6,6
+p-aminophenol,1,6,6
+orphanin FQ,2,4,4
+cardiovascular or central nervous system toxicity,6,6,7
+atherosclerosis,1,5,5
+EE,1,1,2
+MIP,1,2,2
+cerebrovascular disease,2,6,6
+gingival hyperplasia,2,6,7
+corneal ulcers,2,5,5
+metallothionein,1,5,5
+NA,1,1,2
+cimetidine,1,4,4
+adverse drug reaction,3,3,3
+Dehydrated,1,4,4
+amenorrhea,1,4,4
+l-arginine,1,5,6
+omeprazole,1,4,5
+asthmatic,1,2,3
+nephrotic,1,4,4
+SSc,1,2,2
+sirolimus,1,3,3
+neuroinflammation,1,6,6
+Phenylalanine,1,5,5
+severe malaria,2,2,2
+progestins,1,4,4
+coronary artery disease,3,4,5
+oleic acid,2,3,4
+hemosiderin,1,4,4
+loss of consciousness,3,3,3
+Progesterone,1,4,4
+MMC,1,2,2
+hyperalgesia,1,4,5
+fludrocortisone,1,5,6
+Neuroinflammation,1,6,7
+danazol,1,3,4
+Dyskinesia,1,5,5
+IUGR,1,3,3
+malondialdehyde,1,5,6
+Swallowing abnormalities,2,2,5
+L-DOPA,1,4,5
+CPDD,1,2,3
+Chlorhexidine phosphanilate,2,10,10
+TIA,1,1,2
+necrosis,1,2,3
+CHP,1,2,2
+sodium nitrite,2,4,4
+cytosine arabinoside,2,6,8
+etoposide,1,4,4
+PTLD,1,2,2
+ARI,1,1,2
+Nelarabine,1,4,4
+contrast media,2,2,2
+Seizures,1,1,3
+amphotericin B,2,5,6
+endometrial carcinoma,2,7,7
+nephrogenic DI,2,5,6
+hyporeninemic hypoaidosteronism,2,12,12
+fluocinolone acetonide,2,7,7
+biotin,1,2,2
+Paraplegia,1,3,3
+papilledema,1,4,5
+Tacrolimus,1,4,4
+steroid,1,2,3
+S-23121,1,4,4
+oxytocin,1,4,4
+hemolytic anemia,2,5,5
+cardiac arrhythmias,2,6,7
+trimethoprim,1,4,4
+rocuronium,1,3,4
+gadolinium,1,4,4
+piperazine,1,3,3
+respiratory dysfunction,2,2,4
+anterior infarction,2,4,4
+cerebral ischemic infarction,3,7,7
+squamous cell carcinoma of the cervix,6,13,13
+indinavir,1,3,3
+6-OHDA,1,4,4
+lung cancer,2,2,2
+SH,1,1,1
+anthracyclines,1,5,5
+acute hepatitis,2,2,4
+Myositis,1,3,3
+Hypotension,1,5,5
+post-herpetic neuralgia,2,7,7
+Pupillary dilation,2,4,6
+colon cancer,2,2,3
+breast cancer,2,2,2
+embryonic death,2,3,5
+cutaneous reactions,2,3,3
+etomidate,1,3,3
+Re,1,1,1
+sodium,1,1,1
+celecoxib,1,5,5
+caproate,1,3,3
+amphotericin B-sodium deoxycholate,3,11,12
+pituitary tumors,2,4,4
+blood loss,2,2,2
+papillary necrosis,2,5,7
+Meloxicam,1,4,4
+depressive episode,2,3,3
+"impairments in learning, attention, inhibitory control, and arousal regulation",9,14,15
+hand-foot syndrome,2,4,4
+Baboon syndrome,2,4,4
+coronary arteriosclerosis,2,7,8
+chronic liver disease,3,3,3
+isoniazide,1,4,4
+TA-064,1,4,5
+methamphetamine,1,5,4
+blood urea nitrogen,3,4,4
+cerebral and pulmonary hemorrhage,4,7,7
+ocular hypertension,2,4,6
+phosphate,1,1,1
+lactate,1,2,3
+beclomethasone,1,6,6
+hypoxic-ischemic encephalopathy,2,13,13
+drug abuse,2,2,2
+"1-(1,2-dihydro-2-acenaphthylenyl)piperazine",1,23,24
+adult respiratory distress syndrome,4,4,4
+C,1,1,1
+Accelerated junctional rhythms,3,4,7
+Albuminuria,1,3,3
+chlorhexidine diphosphanilate,2,10,10
+hearing loss,2,2,2
+deterioration of learning and short-term memory,6,8,11
+Cholestatic,1,4,4
+end-stage or malignant liver disease,5,8,9
+impaired overnight memory,3,3,3
+inferior infarction,2,4,4
+DMTU,1,3,3
+cerebral microbleeds,2,5,4
+tetrabenazine,1,5,5
+lymphoproliferative disorder,2,8,7
+catalepsy,1,3,3
+barbiturate,1,4,4
+L-NOARG,1,5,5
+epinephrine,1,4,4
+irritation of the urinary tract,5,7,7
+coumadin,1,3,3
+Fluconazole,1,4,5
+dexamethasone,1,5,5
+hyperlipidemia,1,4,5
+depression disorder,2,2,2
+carrageenan,1,4,3
+acute leukemia,2,2,4
+renal carcinomas,2,4,6
+glibenclamide,1,6,6
+Ischemic colitis,2,5,6
+Deterioration of vision,3,3,5
+atrial thrombosis,2,6,6
+skin lesion,2,3,3
+convulsion,1,4,4
+platinum,1,1,1
+visual field defect,3,3,3
+flavonoid,1,4,4
+dyslipidemia,1,5,5
+ecstasy,1,1,1
+hypocalcaemia,1,6,6
+OIH,1,2,3
+8-phenyltheophylline,1,9,9
+dithiothreitol,1,6,6
+portal hypertension,2,3,5
+Timolol,1,3,3
+postoperative pain,2,4,4
+tropicamide,1,4,4
+Mannitol,1,3,3
+Inorganic As,2,2,5
+lesioned SNR,2,4,4
+silver sulphadiazine,2,5,6
+eosinophilia,1,5,5
+focal segmental glomerular sclerosis,4,10,10
+Lidocaine,1,3,4
+breast tumors,2,2,2
+myocardial damage,2,4,5
+carcinoma of the peritoneum,4,9,9
+myelosuppression,1,6,5
+CPT,1,2,2
+ureteric calculi,2,6,7
+atopic dermatitis,2,5,5
+increased intraocular pressure,3,5,6
+paranoia,1,1,3
+muscle tremors,2,3,4
+syncope,1,2,3
+unipolar depression,2,4,4
+visual field abnormalities,3,3,4
+immune reconstitution syndrome,3,7,6
+phentolamine,1,4,5
+"S-(-)-10-acetoxy-10,11-dihydro-5H-dibenzo/b,f/azepine-5-carboxamide",1,41,42
+sodium thiopental,2,5,5
+carcinoma of the renal pelvis,5,8,10
+tubulointerstitial damage,2,7,7
+Arsenic,1,1,3
+NCSE,1,2,2
+sensory axonal neuropathy,3,6,7
+[35S]TBPS,1,6,7
+Mesna,1,3,3
+glomerular dysfunction,2,5,7
+hydroxychloroquine sulfate,2,8,11
+cysts,1,2,3
+alkali,1,2,3
+calcitriol,1,4,5
+pain disorders,2,2,2
+hypomagnesemia,1,6,7
+psychopaths,1,3,5
+phenol,1,3,3
+Low back pain,3,3,3
+Succimer,1,3,3
+epilepsy,1,3,3
+VGB,1,2,2
+Olanzipine,1,4,4
+irritability,1,3,4
+8-cyclopentyltheophylline,1,11,12
+luminal,1,3,3
+clonazepam,1,5,5
+alpha-fluoro-beta-alanine,1,9,10
+burns,1,1,1
+bladder irritation,2,2,2
+failing left ventricle,3,5,5
+GABA,1,2,2
+growth failure,2,2,2
+Torsade de Pointes,3,6,6
+parkinsonian disability,2,3,5
+AVP,1,2,2
+flushing,1,1,2
+hepatotoxicity,1,6,6
+primary pulmonary hypertension,3,4,6
+jaw stiffness,2,3,3
+hemolytic-uremic syndrome,2,8,8
+learning and memory impairments,4,5,6
+leucine,1,3,3
+SVC syndrome,2,3,3
+NDI,1,2,2
+cardiac disarrangement,2,5,5
+Pentobarbital,1,5,5
+neoplasm,1,4,4
+Wilson disease,2,2,2
+Ethambutol,1,5,4
+tamoxifen,1,4,4
+cardiovascular disease,2,2,3
+folic acid,2,3,3
+procaterol,1,3,3
+EPSs,1,2,3
+Isradipine,1,4,4
+leukoencephalopathy,1,7,7
+spironolactone,1,6,6
+prednisolone,1,5,5
+malate,1,2,2
+diabetes,1,1,1
+ischemic optic neuropathies,3,8,9
+hyperprolactinemia,1,6,7
+VCM,1,2,2
+dysrhythmia,1,6,6
+cardiac dysrhythmias,2,7,8
+cannabis,1,1,1
+pilocarpine nitrate,2,5,6
+desquamation,1,3,3
+myopathy,1,3,3
+hepatic neoplasms,2,7,7
+tuberculosis,1,1,1
+colorectal carcinoma,2,6,6
+deterioration in visual field,4,4,7
+hypercholesterolemia,1,5,7
+4-hydroxy-2-nonenal,1,9,10
+thrombosis of a normal renal artery,6,9,10
+lanthanum nitrate,2,4,6
+agitation,1,1,1
+CYP,1,2,2
+pure red cell aplasia,4,6,6
+renal injury,2,2,3
+Amlodipine,1,4,4
+allergy,1,2,3
+thrombotic microangiopathy,2,8,8
+irregular heart beat,3,3,3
+hyperammonemic,1,5,6
+anthraquinone,1,4,4
+lesions of the urinary bladder,5,7,7
+Fluvastatin,1,4,5
+growth retardation,2,4,4
+temporal lobe epilepsy,3,5,5
+edema,1,2,2
+pyrrolidone,1,5,5
+memory impairments,2,3,4
+hyperglycemia,1,4,5
+galantamine,1,3,3
+penicillamine,1,4,4
+ouabain,1,3,3
+Bepridil,1,4,4
+Cardiotoxicity,1,5,5
+CPA,1,2,2
+depressive,1,2,2
+ketamine,1,3,3
+prilocaine,1,4,4
+Endografine,1,4,4
+Diltiazem,1,4,5
+guanethidine,1,4,5
+fungal infections,2,2,3
+Viracept,1,3,4
+maculopapular eruption,2,6,6
+myocardial depression,2,4,5
+rofecoxib,1,5,5
+Heparin,1,3,3
+chronic myeloid leukemia,3,5,7
+bisoprolol,1,4,5
+mesna,1,3,3
+jaundice,1,3,4
+VP-16-213,1,5,5
+ethinyloestradiol,1,7,7
+pupillary abnormalities,2,3,4
+APAP,1,2,2
+myocardial necrosis,2,5,7
+MTX,1,2,3
+ovarian cancer,2,4,4
+Parkinson's disease,2,4,4
+leukemia,1,1,3
+MI,1,1,1
+hepatic failure,2,4,4
+vinorelbine,1,4,4
+ganciclovir,1,4,6
+fulminant liver failure,3,6,6
+interferon-alpha-2b,1,8,8
+Topotecan,1,3,3
+abnormal left ventricular filling,4,6,6
+tonic-clonic seizures,2,5,8
+metabolic abnormalities,2,2,3
+tumour,1,2,2
+hydroxychloroquine,1,7,8
+Cardiovascular diseases,2,2,3
+arginine vasopressin,2,7,9
+chondrodysplasia punctata,2,9,9
+Direct thrombin inhibitors,3,5,6
+folate deficiency,2,3,3
+non-steroidal anti-inflammatory drugs,3,9,9
+"1,5-benzothiazepine",1,9,10
+kidney disease,2,2,2
+peripheral and autonomic neuropathy,4,8,8
+Neuropathy,1,3,4
+type IV renal tubular acidosis,5,6,8
+renal insufficiency,2,5,5
+severe combined immunodeficiency syndrome,4,8,8
+MDMA,1,2,2
+theophylline,1,4,4
+Graves' disease,2,3,3
+creatine,1,3,3
+urticaria,1,3,4
+SCH 23390,2,4,4
+Monosodium glutamate,2,7,7
+amino acid,2,2,2
+anginal attacks,2,3,4
+catecholamine,1,4,4
+drowsiness,1,3,3
+bile duct injury,3,3,4
+prolonged jaw rigidity,3,4,4
+GTCS,1,2,2
+diastolic dysfunction,2,4,6
+cephalothin,1,4,5
+drug toxicity,2,2,2
+DHEA,1,2,3
+Amphetamine,1,3,3
+Steroids,1,2,3
+piperacillin/tazobactam,1,10,10
+Cardiac disturbances,2,2,4
+sensory neuropathy,2,4,4
+Ifosfamide,1,4,5
+fentanyl,1,3,4
+sodium 4-phenylbutyrate,2,9,9
+MHPG,1,3,3
+systemic sclerosis,2,4,4
+hypotensive,1,5,5
+tubulointerstial disease,2,6,6
+nifekalant hydrochloride,2,8,9
+estrogen,1,2,2
+inflammatory diseases,2,2,2
+carbachol,1,3,3
+biperiden,1,4,3
+abnormal involuntary motor movements,4,4,7
+anthracycline,1,5,4
+venous thrombosis,2,6,6
+rosacea,1,2,3
+coronary artery vasospasm,3,7,9
+neuronal death,2,4,4
+I-131 HA,2,4,5
+AF,1,1,2
+deep vein thrombosis,3,6,6
+Alternating sinus rhythm,3,4,6
+HL,1,2,2
+antisocial personality disorder,3,5,5
+Renal Toxicity,2,2,5
+atherosclerotic vascular disease,3,8,8
+paranoid,1,1,1
+H2O,1,3,3
+lovastatin,1,4,4
+sudden cardiac death,3,3,3
+Impulsiveness,1,3,5
+CCNU,1,2,2
+hypercalcemia,1,4,5
+convulsive,1,4,3
+Azimilide,1,3,4
+ventricular septal defect,3,6,7
+Pneumonia,1,1,4
+temocapril,1,4,4
+Cardiovascular dysfunction,2,2,5
+"guanosine 3',5'-cyclic monophosphate",3,15,16
+erythrodysesthesia,1,8,7
+N6-cyclopentyladenosine,1,11,12
+interstitial fibrosis,2,6,7
+proteinuria,1,2,2
+propofol,1,3,3
+syndrome of inappropriate secretion of antidiuretic hormone,7,11,11
+statin,1,2,3
+anaphylaxis,1,5,5
+disodium phosphate ester,3,6,6
+fatty liver,2,2,2
+damage of SNR,3,4,4
+brain damage,2,2,2
+barium chloride,2,3,3
+renal dysfunction,2,2,5
+"5-{2-[4-(1,2-dihydro-2-acenaphthylenyl)piperazinyl]ethyl}-2,3-dihy dro-1H- indol-2-one",3,53,55
+supraventricular tachyarrhythmias,2,13,13
+METH,1,2,2
+tremorgenic,1,2,4
+Capsaicin,1,3,3
+pinacidil,1,4,4
+fluvastatin,1,4,4
+alcohol,1,1,1
+hypertrophy,1,3,4
+SRL,1,2,2
+AKI,1,2,2
+cardiac inotropic,2,5,4
+amoxicillin,1,4,4
+peptic ulcer disease,3,5,6
+nicergoline,1,3,3
+dexmedetomidine,1,5,6
+oestrogens,1,4,4
+bupivacaine,1,4,5
+cerebral vasculitis,2,5,6
+Iso,1,1,2
+bis(p-nitrophenyl) phosphate,2,11,12
+Glutamate,1,4,4
+S-53482,1,5,5
+anthraquinones,1,4,4
+Aldomet,1,2,3
+PHN,1,2,3
+neprotic,1,3,4
+AIDS,1,1,1
+delirium,1,3,3
+hemorrhagic strokes,2,6,6
+diltiazem,1,4,5
+muscle toxicity,2,2,2
+Azathioprine,1,4,5
+creatinine,1,4,4
+sulfamethoxazole,1,7,7
+chlorpheniramine,1,6,5
+Rg1,1,3,3
+melatonin,1,3,4
+hydrothorax,1,3,4
+fibrosis,1,3,3
+triglycerides,1,4,5
+kidney lesions,2,2,2
+peroxide,1,2,2
+Fatty liver,2,2,3
+DPH,1,2,3
+dystonic dyskinesias,2,8,9
+Pseudomonas infections,2,4,6
+thoracic hematomyelia,2,7,9
+Theophylline,1,4,4
+Leukocytosis,1,5,5
+remoxipride,1,5,5
+efavirenz,1,5,5
+cardiac failure,2,2,2
+methyldopa,1,3,4
+clozapine,1,3,4
+serotonin syndrome,2,4,5
+ciprofloxacin,1,6,7
+droperidol,1,4,4
+Mefenamic acid,2,5,5
+Bromocriptine,1,4,5
+TG,1,2,2
+pelvic pain,2,4,4
+topotecan,1,3,3
+vomiting,1,1,2
+neurotoxic,1,5,5
+rupture,1,3,3
+Nicotine,1,2,2
+phenylbutazone,1,6,6
+allergic reactions,2,2,3
+metformin,1,3,3
+benserazide,1,4,4
+locked-in syndrome,2,4,4
+infarction,1,3,3
+5-HT,1,4,4
+pathological renal medullary lesions,4,7,9
+Lorazepam,1,4,4
+timolol,1,3,4
+TMP,1,2,2
+septicemia,1,3,3
+interstitial cystitis,2,6,7
+liver dysfunction,2,2,4
+Thrombosis,1,4,4
+pains,1,1,1
+Kytril,1,3,3
+Depression,1,1,1
+ibuprofen,1,4,5
+atrial flutter,2,3,3
+middle cerebral artery occlusion,4,6,6
+headache,1,1,1
+Mirtazapine,1,4,4
+ovarian and fallopian tube cancers,5,9,10
+Anxiety,1,1,3
+Pentazocine,1,4,4
+hepatic damage,2,4,4
+vindesine,1,3,4
+Myeloma,1,3,3
+fenfluramines,1,4,6
+I,1,1,1
+vasculitic disorders,2,5,6
+nicotinamide adenine dinucleotide phosphate,4,10,13
+retinal ganglion,2,5,5
+fasciculations,1,5,5
+tachydysrhythmias,1,8,9
+dermatitis,1,3,3
+Crocin,1,3,3
+myocardiopathy,1,5,5
+Extrapyramidal symptom,2,7,8
+spiranolactone,1,6,6
+diphenylhydantoin,1,6,7
+N,1,1,1
+deficit in fear recognition,4,4,4
+Morphine,1,2,3
+psychobiological dysfunction,2,4,8
+isoflurane,1,4,4
+aminocaproic acid,2,5,5
+Naloxone,1,4,4
+Nefiracetam,1,4,5
+zuclopenthixol,1,6,7
+Fentanyl,1,3,3
+artesunate,1,3,3
+Postoperative delirium,2,6,6
+stress incontinence,2,5,5
+hepatocellular necrosis,2,6,7
+impaired the memory,3,3,3
+long QT syndrome,3,4,4
+type 2 diabetes,3,3,3
+paroxetine,1,4,4
+raised intraocular pressure,3,5,6
+ipratropium bromide,2,6,8
+"trans-2-amino-3-hydroxy-1, 2, 3, 4-tetrahydroanaphthalene",4,27,28
+abuse of cocaine and ethanol,5,5,5
+bepridil,1,4,4
+sinus bradycardia,2,5,6
+organic brain lesions,3,3,3
+psychotic,1,1,3
+constipation,1,4,4
+Generalised and focal seizures,4,5,6
+arrhythmic,1,5,5
+ATIN,1,2,2
+bradycardia,1,3,4
+cardiomyopathy,1,4,5
+"3,4-methylenedioxymethamphetamine",1,13,13
+ginsenosides,1,4,5
+Telaprevir,1,4,4
+granisetron,1,3,4
+attention-deficit hyperactivity disorder,3,7,8
+SN,1,2,2
+thyroxine,1,4,4
+osteoporosis,1,5,5
+bladder inflammation,2,2,2
+hernias,1,3,3
+visual impairment,2,2,4
+caerulein,1,4,4
+hematologic toxicities,2,5,6
+thrombosis,1,4,4
+noradrenaline,1,4,4
+trimethoprim-sulfomethoxazole,1,12,12
+structural deficits in the human brain,6,7,7
+Staphylococcal IE,2,7,8
+Pulmonary hypertension,2,3,8
+methylprednisolone,1,6,7
+postzosteric,1,4,4
+Acetaminophen,1,5,5
+codeine,1,2,2
+lamivudine,1,4,4
+aplastic anemia,2,4,5
+left ventricular dysfunction,3,5,7
+streptozotocin,1,6,6
+cerebral edema,2,3,3
+acute cholecystitis,2,6,6
+Ureteric obstruction,2,4,6
+clonic seizures,2,3,5
+histamine,1,3,2
+Huntington's disease,2,4,4
+ondansetron,1,4,4
+hypothermic,1,5,5
+lymphomas,1,5,4
+incontinence,1,4,4
+Pulmonary edema,2,3,6
+Helodermin,1,4,4
+D-Glucarates,1,6,6
+glioblastoma,1,5,4
+impairs associative learning,3,8,8
+isopropyl-6- benzyloxy-4-methoxymethyl-beta-carboline-3-carboxylate,2,32,32
+nystagmus,1,4,4
+Dyskinetic,1,4,4
+leucopenia,1,4,4
+progesterone,1,4,4
+tranexamic acid,2,5,5
+pegylated interferon,2,6,7
+S-A block,2,4,4
+diethylstilbesterol,1,6,7
+bipolar,1,1,3
+niacin extended-release/lovastatin,2,11,11
+CAN,1,1,2
+myocardial ischaemia,2,6,7
+ureteral lithiasis,2,6,6
+myotonic condition,2,4,4
+apical ballooning syndrome,3,4,5
+DILI,1,2,3
+cardiomyocyte damage,2,6,6
+heart disease,2,2,2
+muscular dystrophy,2,5,5
+hypersensitivity,1,4,6
+ginsenoside Re,2,5,5
+simvastatin,1,4,5
+bendazac lysine,2,6,6
+impairment of learning and memory,5,5,7
+hepatic tumors,2,4,4
+thiotepa,1,4,4
+CaCO3,1,3,4
+dysmetria,1,4,4
+Lamivudine,1,4,4
+Quetiapine,1,3,3
+diethylcarbamazine,1,6,6
+retinal vasculitis,2,7,8
+Fanconi's anemia,2,7,7
+nimodipine,1,4,4
+Scleroderma renal crisis,3,6,7
+tonic seizures,2,2,4
+panic disorders,2,2,2
+vomitus,1,2,2
+L-DOPA+benserazide,1,9,10
+hepatomegaly,1,5,5
+Ibuprofen,1,4,5
+codine,1,2,2
+lichenoid dermatitis,2,6,7
+arrhythmias,1,5,6
+retinal artery and choriocapillaris occlusion,5,13,13
+bicarbonate,1,3,4
+oscillopsia,1,5,6
+CHF,1,2,2
+muscle spasms,2,3,4
+acute nephrotoxicity,2,7,7
+Zolmitriptan,1,5,5
+drop in blood pressure,4,4,4
+GBM,1,2,2
+P,1,1,1
+focal segmental glomerulosclerosis,3,10,9
+diazepam,1,3,4
+GSH,1,2,3
+nisoldipine,1,4,4
+tumours,1,3,3
+deep-vein thrombosis,2,7,7
+mitochondrial defect,2,2,2
+posterior reversible encephalopathy syndrome,4,10,9
+Oxidized glutathione,2,8,7
+uraemia,1,3,3
+cirrhotic,1,4,5
+aminoglycoside,1,4,4
+congestive heart failure,3,5,5
+acute renal failure,3,3,4
+ozone,1,1,2
+Flumazenil,1,4,5
+prostaglandins,1,5,5
+methyl scopolamine,2,5,6
+Prednisone,1,4,4
+neuroblastoma,1,5,4
+loss of taste sensation,4,4,4
+aconitine,1,3,4
+vasculitic,1,4,5
+abecarrnil,1,4,5
+Tranexamic acid,2,5,5
+strokes,1,1,1
+Etoposide,1,4,4
+seizure,1,1,1
+mirtazapine,1,4,4
+liver toxicity,2,2,2
+polyneuropathy,1,4,5
+ADP,1,2,2
+IFO,1,2,2
+Methoxamine,1,4,4
+diphenhydramine,1,5,5
+rheumatoid arthritis,2,6,8
+organophosphorus,1,5,4
+liver cancer,2,2,2
+CD-832,1,4,4
+aminoglycosides,1,4,4
+ether,1,1,2
+ethanol,1,1,1
+carvedilol,1,3,3
+salbutamol,1,4,5
+amiodarone,1,3,4
+Bilateral visual field abnormalities,4,4,7
+heparin,1,3,3
+nephrolithiasis,1,6,6
+convulsions,1,4,4
+heroin,1,1,1
+Ribavirin,1,3,4
+SIADH,1,3,4
+cognitive deficits,2,3,3
+cyclosporin A,2,6,7
+methylprednisolone acetate,2,8,9
+myoclonus,1,4,4
+flutamide,1,3,3
+Phenylpropanolamine,1,7,8
+manic depression,2,3,3
+cirrhosis,1,3,5
+CM,1,1,2
+Peripheral neuropathy,2,4,7
+NaOH,1,2,2
+xylazine,1,3,3
+PEG-asparaginase,1,6,8
+N-(2-hydroxypropyl)methacrylamide,1,16,18
+flunarizine,1,4,4
+traumatic brain injury,3,3,3
+trypan blue,2,3,3
+atrioventricular (AV) block,3,9,10
+congenital heart disease,3,3,5
+superior vena cava (SVC) syndrome,5,10,10
+Delirium,1,3,3
+epithelial defects,2,4,5
+cardiomyopathic disorder,2,5,7
+arthralgia,1,4,4
+procaine,1,3,3
+neuropsychiatric-like behaviors,2,8,8
+depressive disorders,2,3,3
+asterixis,1,4,4
+dronedarone,1,3,3
+FK 506,2,3,3
+Methadone,1,3,3
+cystoid macular edema,3,7,8
+polyethylene glycol,2,7,9
+stable angina,2,3,4
+quinine,1,2,3
+liver disease,2,2,2
+bromocriptine,1,4,4
+phenytoin,1,4,5
+Drug-Induced Acute Liver Injury,4,6,11
+axonal degeneration,2,5,6
+mivacurium,1,4,4
+hemorrhages,1,4,5
+nelarabine,1,4,4
+precordial pain,2,4,4
+DVT,1,3,3
+alkalosis,1,3,3
+Metronidazole,1,5,5
+nitrite,1,3,3
+RD,1,1,2
+PTU,1,2,2
+neurogenic diabetes insipidus,3,8,8
+lead,1,1,1
+sodium bicarbonate,2,4,5
+diatrizoate,1,4,5
+terbutaline,1,4,4
+pentylenetetrazol,1,6,7
+downbeat nystagmus,2,6,6
+CY,1,1,2
+SAH,1,2,2
+CCK-8,1,4,4
+prednisone,1,4,4
+torsades de pointes,3,6,6
+chloroform,1,5,4
+lactic acidosis,2,4,4
+mitral valve prolapse,3,6,6
+hemiplegic migraine,2,6,7
+major depression,2,2,2
+hypokinesis,1,5,5
+cardiac disturbances,2,2,3
+Taxol,1,2,2
+dry mouth,2,2,2
+optic nerve toxicity,3,3,4
+DFX,1,3,3
+macroprolactinoma,1,6,6
+insulin resistance,2,2,2
+pulmonary lesion,2,3,3
+piroxicam,1,4,4
+carcinoma of the breast,4,6,6
+vasculitis,1,4,5
+Bleeding,1,1,3
+Necrotising fasciitis,2,7,8
+Piperacillin/tazobactam,1,10,10
+lupus-like syndrome,2,5,6
+cis-platinum,1,3,4
+NMS,1,2,2
+endotoxemia,1,4,4
+psoriasis,1,3,3
+Hypertensive,1,3,3
+N-methyl-D-aspartate,1,9,10
+excitotoxicity,1,5,6
+GM,1,1,1
+verapamil,1,4,4
+haemorrhagic infarction of the globus pallidus,6,17,18
+neurological symptoms,2,2,4
+Barium,1,2,2
+hydrogen peroxide,2,3,3
+CAA,1,2,2
+cholecystokinin octapeptide,2,10,10
+anotia,1,3,3
+MM,1,1,2
+myeloencephalopathy,1,6,6
+myocardial infarction,2,6,7
+hyperglycaemia,1,4,5
+brain trauma,2,2,2
+copper,1,1,1
+heart damage,2,2,2
+urea,1,2,2
+CBZ,1,2,2
+brain injury,2,2,2
+desogestrel,1,3,4
+leukocytosis,1,5,5
+GTN,1,2,2
+trigeminal neuralgia,2,6,6
+nausea,1,1,1
+Propranolol,1,4,5
+retention deficit,2,2,2
+sweating,1,1,1
+somnolence,1,4,5
+peroxides,1,3,3
+S-312-l,1,5,5
+"d,l-sotalol",1,7,7
+non-convulsive status epilepticus,3,11,10
+epsilon-aminocaproate,1,6,8
+MSG,1,2,2
+APL,1,2,2
+polyuria,1,2,3
+Glucose,1,1,4
+colorectal cancer,2,4,4
+HIT type II,3,3,4
+cromakalim,1,4,4
+Parkinsonism,1,2,2
+adenosine triphosphate,2,6,7
+fluoxetine,1,4,4
+lisinopril,1,4,5
+myalgias,1,4,4
+drug hypersensitivity,2,5,7
+BCNU,1,2,2
+pyrrolidine,1,5,5
+Carboplatin,1,4,5
+Penicillamine,1,4,4
+carmustine,1,3,3
+"5,7-dihydroxytryptamine",1,11,12
+mitomycin C,2,4,4
+affective disorder,2,3,3
+Pethidine,1,3,3
+skin rash,2,2,3
+bort,1,2,2
+biphosphonate,1,5,5
+dopamine,1,3,3
+tonic and clonic seizure,4,5,7
+Convulsive,1,4,3
+teratogenicity,1,4,4
+embryopathy,1,2,4
+learning and memory impairment,4,4,6
+PTZ,1,2,2
+sclerosis,1,3,3
+citric acid,2,3,4
+headaches,1,2,2
+allodynic,1,4,3
+hyperventilation,1,3,4
+hemorrhagic cystitis,2,8,8
+retinal artery and choriocapillaris occlusions,5,14,14
+phenylpropanolamine,1,7,8
+Dysfunctional overnight memory,3,4,6
+direct thrombin inhibitor,3,5,5
+apigenin,1,3,4
+candidiasis,1,3,4
+epistaxis,1,4,5
+tetracycline,1,5,4
+tachycardia,1,4,4
+triphenyltetrazolium,1,7,7
+encephalitis,1,5,5
+proarrhythmia,1,6,6
+myotonic disorders,2,4,4
+atropine sulphate,2,5,6
+hypertrophied hearts,2,5,6
+atrophy,1,3,3
+glucuronyl,1,5,5
+GEM,1,1,2
+dehydroepiandrosterone,1,8,7
+Neurological complications,2,2,4
+"3-hydroxymethyl-5,5-diphenylhydantoin",1,17,19
+glimepiride,1,5,5
+myocardial infarctions,2,6,7
+calcium channel blocking agents,4,4,4
+agoraphobia,1,4,4
+skin diseases,2,2,2
+cognition deficits,2,3,4
+Myoclonus,1,4,4
+Daptomycin,1,4,4
+Paclitaxel,1,4,4
+olanzapine,1,3,4
+diethylstilbestrol,1,6,7
+muscarine,1,3,4
+ischemic,1,3,3
+Rb1,1,2,3
+QT prolongation,2,5,5
+Thalidomide,1,4,4
+quinine sulfate,2,3,6
+nitroglycerin,1,5,5
+methothexate,1,5,5
+nasal hypoplasia,2,6,5
+Alzheimer's disease,2,4,4
+diclofenac,1,5,5
+sodium 2-sulfanylethanesulfonate,2,10,11
+sensory neurotoxicity,2,6,6
+cisplatin,1,3,5
+blood dyscrasias,2,6,6
+metabolic acidosis,2,3,3
+Malondialdehyde,1,5,6
+HIT,1,1,2
+TSPA,1,2,3
+fractures,1,1,2
+Encephalopathy,1,5,5
+liver cirrhosis,2,4,6
+tubular damage,2,2,3
+Pilo,1,2,2
+CAD,1,1,2
+GFC,1,2,2
+leg cramps,2,3,4
+monohydroxyethylrutoside,1,9,9
+Nociceptin,1,4,5
+ATRA,1,2,2
+gamma-hexachlorocyclohexane,1,12,13
+Chloroacetaldehyde,1,7,8
+Indinavir,1,3,3
+cerebral hypoperfusion,2,5,6
+aracytine-C,1,5,5
+Creatine,1,3,3
+neuronal damage,2,4,4
+hypoxaemia,1,5,5
+ICH,1,1,2
+pantoprazole,1,4,4
+decrease in cardiac output,4,4,4
+FZP,1,3,3
+CsA,1,1,3
+cocaine and ethanol abuse,4,4,4
+Hyperglycemic,1,4,5
+salivation,1,2,3
+eosinophilic myocarditis,2,9,9
+neuroleptic,1,4,4
+postoperative complication,2,5,5
+Myo-inositol-1-phosphate,1,11,11
+urolithiasis,1,5,5
+thrombolysis,1,4,5
+staphylococcal infections,2,7,7
+Ascites,1,3,3
+liver neoplasms,2,5,5
+Misoprostol,1,5,6
+L-norepinephrine,1,7,7
+Celecoxib,1,5,5
+amoxicillin-clavulanate,1,9,9
+gamma-vinyl-GABA,1,6,6
+irinotecan,1,4,4
+aminophylline,1,4,4
+BIA 2-093,2,6,6
+chest pain,2,2,2
+gliosis,1,3,3
+neoplasms,1,4,4
+autism,1,1,1
+heart failure,2,2,2
+diabetic nephropathy,2,7,7
+axonal neuropathy,2,5,6
+bradycardiac,1,3,4
+dysrhythmias,1,6,7
+S-312,1,3,3
+pentylenetetrazole,1,6,7
+scleroderma renal crisis,3,6,8
+galactosamine,1,4,4
+NECA,1,2,2
+cognitive dysfunction,2,2,4
+acrolein,1,3,4
+nafcillin,1,4,4
+abdominal pain,2,2,2
+Trazodone,1,4,4
+Burkitt-type malignant lymphoma,3,11,12
+cerebral vasospasm,2,5,6
+optic neuropathy,2,4,5
+INF-MI,1,4,4
+memory impaired,2,2,2
+aminophosphonovaleric acid,2,8,8
+propranolol,1,4,4
+"1,3-butadiene",1,7,7
+cardiotoxity,1,4,4
+Posterior reversible encephalopathy syndrome,4,10,11
+6-hydroxydopamine,1,7,8
+deterioration of LV systolic and diastolic performance,7,12,16
+cAMP,1,1,3
+epirubicine,1,5,5
+"hyperosmolar, nonketotic coma",3,10,10
+weight gain,2,2,2
+NMDA,1,2,3
+puromycin aminonucleoside,2,9,9
+neuropsychiatric-like behavior,2,8,8
