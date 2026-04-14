@@ -1,0 +1,7395 @@
+[
+  {
+    "doc_id": "64",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "CYP",
+        "start": 14,
+        "end": 17
+      }
+    ]
+  },
+  {
+    "doc_id": "67",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "pain",
+        "start": 12,
+        "end": 16
+      },
+      {
+        "label": "Chemical",
+        "text": "CYP",
+        "start": 59,
+        "end": 62
+      }
+    ]
+  },
+  {
+    "doc_id": "77",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "edema",
+        "start": 92,
+        "end": 97
+      }
+    ]
+  },
+  {
+    "doc_id": "88",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "dex",
+        "start": 62,
+        "end": 65
+      }
+    ]
+  },
+  {
+    "doc_id": "90",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "bort",
+        "start": 115,
+        "end": 119
+      },
+      {
+        "label": "Chemical",
+        "text": "de",
+        "start": 122,
+        "end": 124
+      }
+    ]
+  },
+  {
+    "doc_id": "91",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "bort",
+        "start": 21,
+        "end": 25
+      },
+      {
+        "label": "Chemical",
+        "text": "de",
+        "start": 28,
+        "end": 30
+      }
+    ]
+  },
+  {
+    "doc_id": "99",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "C",
+        "start": 57,
+        "end": 58
+      },
+      {
+        "label": "Chemical",
+        "text": "bort",
+        "start": 74,
+        "end": 78
+      },
+      {
+        "label": "Chemical",
+        "text": "dex",
+        "start": 81,
+        "end": 84
+      }
+    ]
+  },
+  {
+    "doc_id": "100",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "Bort",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "label": "Chemical",
+        "text": "dex",
+        "start": 7,
+        "end": 10
+      },
+      {
+        "label": "Disease",
+        "text": "MM",
+        "start": 50,
+        "end": 52
+      }
+    ]
+  },
+  {
+    "doc_id": "103",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "anxiety",
+        "start": 74,
+        "end": 81
+      },
+      {
+        "label": "Disease",
+        "text": "behavior",
+        "start": 89,
+        "end": 97
+      }
+    ]
+  },
+  {
+    "doc_id": "104",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "BPA",
+        "start": 87,
+        "end": 90
+      }
+    ]
+  },
+  {
+    "doc_id": "105",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "BPA",
+        "start": 61,
+        "end": 64
+      }
+    ]
+  },
+  {
+    "doc_id": "108",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "anxiety",
+        "start": 55,
+        "end": 62
+      },
+      {
+        "label": "Disease",
+        "text": "behavior",
+        "start": 70,
+        "end": 78
+      },
+      {
+        "label": "Chemical",
+        "text": "BPA",
+        "start": 112,
+        "end": 115
+      }
+    ]
+  },
+  {
+    "doc_id": "109",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "B",
+        "start": 74,
+        "end": 75
+      }
+    ]
+  },
+  {
+    "doc_id": "110",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "BPA",
+        "start": 34,
+        "end": 37
+      },
+      {
+        "label": "Disease",
+        "text": "anxiety",
+        "start": 57,
+        "end": 64
+      },
+      {
+        "label": "Disease",
+        "text": "behavior",
+        "start": 72,
+        "end": 80
+      }
+    ]
+  },
+  {
+    "doc_id": "111",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "P",
+        "start": 93,
+        "end": 94
+      },
+      {
+        "label": "Disease",
+        "text": "anxiety",
+        "start": 105,
+        "end": 112
+      }
+    ]
+  },
+  {
+    "doc_id": "127",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "C",
+        "start": 15,
+        "end": 16
+      },
+      {
+        "label": "Chemical",
+        "text": "R",
+        "start": 23,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "doc_id": "130",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "R",
+        "start": 54,
+        "end": 55
+      }
+    ]
+  },
+  {
+    "doc_id": "191",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "T",
+        "start": 13,
+        "end": 14
+      },
+      {
+        "label": "Disease",
+        "text": "DF",
+        "start": 14,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "doc_id": "198",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "confusion",
+        "start": 39,
+        "end": 48
+      }
+    ]
+  },
+  {
+    "doc_id": "212",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "METH",
+        "start": 63,
+        "end": 67
+      },
+      {
+        "label": "Disease",
+        "text": "depressive",
+        "start": 97,
+        "end": 107
+      },
+      {
+        "label": "Disease",
+        "text": "oaminergic deficits",
+        "start": 136,
+        "end": 155
+      }
+    ]
+  },
+  {
+    "doc_id": "213",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "depressive",
+        "start": 27,
+        "end": 37
+      },
+      {
+        "label": "Chemical",
+        "text": "METH",
+        "start": 120,
+        "end": 124
+      }
+    ]
+  },
+  {
+    "doc_id": "214",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "METH",
+        "start": 6,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "doc_id": "215",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "METH",
+        "start": 10,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "doc_id": "217",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "depression",
+        "start": 47,
+        "end": 57
+      }
+    ]
+  },
+  {
+    "doc_id": "218",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "METH",
+        "start": 73,
+        "end": 77
+      },
+      {
+        "label": "Disease",
+        "text": "depressive",
+        "start": 101,
+        "end": 111
+      }
+    ]
+  },
+  {
+    "doc_id": "255",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "TS",
+        "start": 168,
+        "end": 170
+      }
+    ]
+  },
+  {
+    "doc_id": "263",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "ecstasy",
+        "start": 137,
+        "end": 144
+      }
+    ]
+  },
+  {
+    "doc_id": "265",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "P",
+        "start": 28,
+        "end": 29
+      },
+      {
+        "label": "Disease",
+        "text": "deficit",
+        "start": 63,
+        "end": 70
+      },
+      {
+        "label": "Disease",
+        "text": "MDMA",
+        "start": 107,
+        "end": 111
+      },
+      {
+        "label": "Disease",
+        "text": "MDMA",
+        "start": 121,
+        "end": 125
+      },
+      {
+        "label": "Disease",
+        "text": "deficit",
+        "start": 150,
+        "end": 157
+      }
+    ]
+  },
+  {
+    "doc_id": "267",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "ecstasy",
+        "start": 33,
+        "end": 40
+      }
+    ]
+  },
+  {
+    "doc_id": "268",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "ecstasy",
+        "start": 22,
+        "end": 29
+      },
+      {
+        "label": "Disease",
+        "text": "impairment",
+        "start": 99,
+        "end": 109
+      }
+    ]
+  },
+  {
+    "doc_id": "302",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "toxicity",
+        "start": 101,
+        "end": 109
+      }
+    ]
+  },
+  {
+    "doc_id": "305",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "toxicity",
+        "start": 38,
+        "end": 46
+      }
+    ]
+  },
+  {
+    "doc_id": "307",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "GEM",
+        "start": 39,
+        "end": 42
+      },
+      {
+        "label": "Chemical",
+        "text": "P",
+        "start": 45,
+        "end": 46
+      },
+      {
+        "label": "Chemical",
+        "text": "GEM",
+        "start": 148,
+        "end": 151
+      },
+      {
+        "label": "Chemical",
+        "text": "P",
+        "start": 154,
+        "end": 155
+      }
+    ]
+  },
+  {
+    "doc_id": "308",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "GEM",
+        "start": 33,
+        "end": 36
+      },
+      {
+        "label": "Chemical",
+        "text": "P",
+        "start": 39,
+        "end": 40
+      }
+    ]
+  },
+  {
+    "doc_id": "311",
+    "predicted_entities": []
+  },
+  {
+    "doc_id": "312",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "G",
+        "start": 0,
+        "end": 1
+      },
+      {
+        "label": "Chemical",
+        "text": "P",
+        "start": 6,
+        "end": 7
+      },
+      {
+        "label": "Disease",
+        "text": "HL",
+        "start": 179,
+        "end": 181
+      }
+    ]
+  },
+  {
+    "doc_id": "313",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "psychological distress",
+        "start": 77,
+        "end": 99
+      },
+      {
+        "label": "Chemical",
+        "text": "ecstasy",
+        "start": 116,
+        "end": 123
+      }
+    ]
+  },
+  {
+    "doc_id": "318",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "anxiety and depression",
+        "start": 69,
+        "end": 91
+      }
+    ]
+  },
+  {
+    "doc_id": "320",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "ecstasy",
+        "start": 75,
+        "end": 82
+      }
+    ]
+  },
+  {
+    "doc_id": "322",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "anxiety",
+        "start": 31,
+        "end": 38
+      },
+      {
+        "label": "Disease",
+        "text": "depression",
+        "start": 43,
+        "end": 53
+      },
+      {
+        "label": "Chemical",
+        "text": "ecstasy",
+        "start": 109,
+        "end": 116
+      }
+    ]
+  },
+  {
+    "doc_id": "340",
+    "predicted_entities": []
+  },
+  {
+    "doc_id": "342",
+    "predicted_entities": []
+  },
+  {
+    "doc_id": "352",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "cancer",
+        "start": 43,
+        "end": 49
+      }
+    ]
+  },
+  {
+    "doc_id": "361",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "sodium",
+        "start": 17,
+        "end": 23
+      }
+    ]
+  },
+  {
+    "doc_id": "368",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "DOX",
+        "start": 32,
+        "end": 35
+      },
+      {
+        "label": "Chemical",
+        "text": "DOX",
+        "start": 219,
+        "end": 222
+      },
+      {
+        "label": "Chemical",
+        "text": "DOX",
+        "start": 266,
+        "end": 269
+      },
+      {
+        "label": "Chemical",
+        "text": "DOX",
+        "start": 334,
+        "end": 337
+      }
+    ]
+  },
+  {
+    "doc_id": "385",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "DOX",
+        "start": 83,
+        "end": 86
+      }
+    ]
+  },
+  {
+    "doc_id": "386",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "toxicity",
+        "start": 53,
+        "end": 61
+      },
+      {
+        "label": "Disease",
+        "text": "toxicity",
+        "start": 77,
+        "end": 85
+      }
+    ]
+  },
+  {
+    "doc_id": "388",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "seizures",
+        "start": 45,
+        "end": 53
+      }
+    ]
+  },
+  {
+    "doc_id": "390",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "seizures",
+        "start": 27,
+        "end": 35
+      },
+      {
+        "label": "Disease",
+        "text": "seizures",
+        "start": 54,
+        "end": 62
+      }
+    ]
+  },
+  {
+    "doc_id": "395",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "TAC",
+        "start": 41,
+        "end": 44
+      },
+      {
+        "label": "Disease",
+        "text": "seizures",
+        "start": 108,
+        "end": 116
+      }
+    ]
+  },
+  {
+    "doc_id": "399",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "TAC",
+        "start": 12,
+        "end": 15
+      },
+      {
+        "label": "Disease",
+        "text": "seizures",
+        "start": 69,
+        "end": 77
+      }
+    ]
+  },
+  {
+    "doc_id": "400",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "T",
+        "start": 76,
+        "end": 77
+      },
+      {
+        "label": "Chemical",
+        "text": "TAC",
+        "start": 118,
+        "end": 121
+      },
+      {
+        "label": "Disease",
+        "text": "seizures",
+        "start": 132,
+        "end": 140
+      }
+    ]
+  },
+  {
+    "doc_id": "407",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "memory loss",
+        "start": 132,
+        "end": 143
+      }
+    ]
+  },
+  {
+    "doc_id": "432",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "Memory deficit",
+        "start": 25,
+        "end": 39
+      },
+      {
+        "label": "Chemical",
+        "text": "STZ",
+        "start": 98,
+        "end": 101
+      }
+    ]
+  },
+  {
+    "doc_id": "435",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "STZ",
+        "start": 70,
+        "end": 73
+      }
+    ]
+  },
+  {
+    "doc_id": "440",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "STZ",
+        "start": 17,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "doc_id": "442",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "Ca",
+        "start": 85,
+        "end": 87
+      }
+    ]
+  },
+  {
+    "doc_id": "457",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "ARF",
+        "start": 43,
+        "end": 46
+      }
+    ]
+  },
+  {
+    "doc_id": "471",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "attention problems",
+        "start": 41,
+        "end": 59
+      },
+      {
+        "label": "Chemical",
+        "text": "P",
+        "start": 156,
+        "end": 157
+      }
+    ]
+  },
+  {
+    "doc_id": "479",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "TNA",
+        "start": 0,
+        "end": 3
+      }
+    ]
+  },
+  {
+    "doc_id": "586",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "iron",
+        "start": 25,
+        "end": 29
+      },
+      {
+        "label": "Disease",
+        "text": "hypertens",
+        "start": 62,
+        "end": 71
+      }
+    ]
+  },
+  {
+    "doc_id": "588",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "Dex",
+        "start": 33,
+        "end": 36
+      }
+    ]
+  },
+  {
+    "doc_id": "590",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "LF",
+        "start": 48,
+        "end": 50
+      },
+      {
+        "label": "Chemical",
+        "text": "Dex",
+        "start": 73,
+        "end": 76
+      }
+    ]
+  },
+  {
+    "doc_id": "601",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "seizures",
+        "start": 49,
+        "end": 57
+      }
+    ]
+  },
+  {
+    "doc_id": "603",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "post",
+        "start": 85,
+        "end": 89
+      },
+      {
+        "label": "Disease",
+        "text": "seizures",
+        "start": 99,
+        "end": 107
+      }
+    ]
+  },
+  {
+    "doc_id": "607",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "seizure",
+        "start": 56,
+        "end": 63
+      }
+    ]
+  },
+  {
+    "doc_id": "619",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "post",
+        "start": 49,
+        "end": 53
+      },
+      {
+        "label": "Disease",
+        "text": "seizures",
+        "start": 63,
+        "end": 71
+      }
+    ]
+  },
+  {
+    "doc_id": "623",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "ecstasy",
+        "start": 82,
+        "end": 89
+      }
+    ]
+  },
+  {
+    "doc_id": "626",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "ecstasy",
+        "start": 15,
+        "end": 22
+      }
+    ]
+  },
+  {
+    "doc_id": "636",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "pain",
+        "start": 16,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "doc_id": "655",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "APL",
+        "start": 53,
+        "end": 56
+      }
+    ]
+  },
+  {
+    "doc_id": "658",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "CCNU",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "label": "Chemical",
+        "text": "CTX",
+        "start": 105,
+        "end": 108
+      }
+    ]
+  },
+  {
+    "doc_id": "667",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "CCNU",
+        "start": 76,
+        "end": 80
+      },
+      {
+        "label": "Chemical",
+        "text": "CTX",
+        "start": 115,
+        "end": 118
+      },
+      {
+        "label": "Disease",
+        "text": "tumor",
+        "start": 166,
+        "end": 171
+      }
+    ]
+  },
+  {
+    "doc_id": "697",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "cancer",
+        "start": 17,
+        "end": 23
+      },
+      {
+        "label": "Disease",
+        "text": "cardiac morbidity",
+        "start": 53,
+        "end": 70
+      }
+    ]
+  },
+  {
+    "doc_id": "700",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "DOX",
+        "start": 11,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "doc_id": "821",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "Ca",
+        "start": 232,
+        "end": 234
+      }
+    ]
+  },
+  {
+    "doc_id": "825",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "Ca",
+        "start": 91,
+        "end": 93
+      }
+    ]
+  },
+  {
+    "doc_id": "829",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "toxicity",
+        "start": 21,
+        "end": 29
+      },
+      {
+        "label": "Chemical",
+        "text": "N - phenylimide",
+        "start": 33,
+        "end": 48
+      },
+      {
+        "label": "Chemical",
+        "text": "icides",
+        "start": 53,
+        "end": 59
+      }
+    ]
+  },
+  {
+    "doc_id": "831",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "toxicity",
+        "start": 90,
+        "end": 98
+      }
+    ]
+  },
+  {
+    "doc_id": "875",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "DOX",
+        "start": 39,
+        "end": 42
+      },
+      {
+        "label": "Disease",
+        "text": "heart failure",
+        "start": 53,
+        "end": 66
+      }
+    ]
+  },
+  {
+    "doc_id": "878",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "DOX",
+        "start": 186,
+        "end": 189
+      },
+      {
+        "label": "Chemical",
+        "text": "DOX",
+        "start": 269,
+        "end": 272
+      }
+    ]
+  },
+  {
+    "doc_id": "879",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "DOX",
+        "start": 46,
+        "end": 49
+      },
+      {
+        "label": "Disease",
+        "text": "decrease in cardiac function",
+        "start": 110,
+        "end": 138
+      }
+    ]
+  },
+  {
+    "doc_id": "880",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "DOX",
+        "start": 33,
+        "end": 36
+      }
+    ]
+  },
+  {
+    "doc_id": "881",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "DOX",
+        "start": 189,
+        "end": 192
+      }
+    ]
+  },
+  {
+    "doc_id": "882",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "DOX",
+        "start": 135,
+        "end": 138
+      },
+      {
+        "label": "Disease",
+        "text": "my",
+        "start": 149,
+        "end": 151
+      },
+      {
+        "label": "Disease",
+        "text": "stress",
+        "start": 160,
+        "end": 166
+      }
+    ]
+  },
+  {
+    "doc_id": "918",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "breast cancer",
+        "start": 22,
+        "end": 35
+      }
+    ]
+  },
+  {
+    "doc_id": "936",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "STZ",
+        "start": 85,
+        "end": 88
+      },
+      {
+        "label": "Chemical",
+        "text": "STZ",
+        "start": 196,
+        "end": 199
+      }
+    ]
+  },
+  {
+    "doc_id": "938",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "Testosterone",
+        "start": 0,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "doc_id": "942",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "STZ",
+        "start": 81,
+        "end": 84
+      }
+    ]
+  },
+  {
+    "doc_id": "943",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "STZ",
+        "start": 10,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "doc_id": "944",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "Testosterone",
+        "start": 0,
+        "end": 12
+      },
+      {
+        "label": "Chemical",
+        "text": "STZ",
+        "start": 128,
+        "end": 131
+      }
+    ]
+  },
+  {
+    "doc_id": "950",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "GF",
+        "start": 34,
+        "end": 36
+      }
+    ]
+  },
+  {
+    "doc_id": "952",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "GFC",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "label": "Disease",
+        "text": "seizure",
+        "start": 43,
+        "end": 50
+      }
+    ]
+  },
+  {
+    "doc_id": "959",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "G",
+        "start": 14,
+        "end": 15
+      },
+      {
+        "label": "Chemical",
+        "text": "GFC75",
+        "start": 60,
+        "end": 65
+      },
+      {
+        "label": "Chemical",
+        "text": "P400",
+        "start": 71,
+        "end": 75
+      }
+    ]
+  },
+  {
+    "doc_id": "976",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "SO",
+        "start": 30,
+        "end": 32
+      },
+      {
+        "label": "Disease",
+        "text": "AKI",
+        "start": 174,
+        "end": 177
+      }
+    ]
+  },
+  {
+    "doc_id": "978",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "AKI",
+        "start": 15,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "doc_id": "979",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "LA",
+        "start": 16,
+        "end": 18
+      },
+      {
+        "label": "Disease",
+        "text": "HA",
+        "start": 63,
+        "end": 65
+      },
+      {
+        "label": "Disease",
+        "text": "AKI",
+        "start": 85,
+        "end": 88
+      },
+      {
+        "label": "Disease",
+        "text": "LA",
+        "start": 126,
+        "end": 128
+      },
+      {
+        "label": "Disease",
+        "text": "HA",
+        "start": 155,
+        "end": 157
+      }
+    ]
+  },
+  {
+    "doc_id": "980",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "soft tissue infections",
+        "start": 75,
+        "end": 97
+      }
+    ]
+  },
+  {
+    "doc_id": "982",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "AKI",
+        "start": 28,
+        "end": 31
+      }
+    ]
+  },
+  {
+    "doc_id": "1031",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "In",
+        "start": 10,
+        "end": 12
+      },
+      {
+        "label": "Disease",
+        "text": "ocular inflammation",
+        "start": 15,
+        "end": 34
+      }
+    ]
+  },
+  {
+    "doc_id": "1072",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "lithium",
+        "start": 99,
+        "end": 106
+      }
+    ]
+  },
+  {
+    "doc_id": "1076",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "lithium",
+        "start": 31,
+        "end": 38
+      }
+    ]
+  },
+  {
+    "doc_id": "1078",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "lithium",
+        "start": 50,
+        "end": 57
+      }
+    ]
+  },
+  {
+    "doc_id": "1079",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "sodium",
+        "start": 8,
+        "end": 14
+      },
+      {
+        "label": "Chemical",
+        "text": "potassium",
+        "start": 17,
+        "end": 26
+      },
+      {
+        "label": "Chemical",
+        "text": "calcium",
+        "start": 31,
+        "end": 38
+      },
+      {
+        "label": "Chemical",
+        "text": "lithium",
+        "start": 56,
+        "end": 63
+      },
+      {
+        "label": "Chemical",
+        "text": "lithium",
+        "start": 84,
+        "end": 91
+      }
+    ]
+  },
+  {
+    "doc_id": "1105",
+    "predicted_entities": []
+  },
+  {
+    "doc_id": "1108",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "hydrogen",
+        "start": 27,
+        "end": 35
+      }
+    ]
+  },
+  {
+    "doc_id": "1118",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "anemia",
+        "start": 21,
+        "end": 27
+      }
+    ]
+  },
+  {
+    "doc_id": "1121",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "betaine",
+        "start": 43,
+        "end": 50
+      }
+    ]
+  },
+  {
+    "doc_id": "1126",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "betaine",
+        "start": 14,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "doc_id": "1141",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "pain",
+        "start": 33,
+        "end": 37
+      }
+    ]
+  },
+  {
+    "doc_id": "1150",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "proteinuria",
+        "start": 8,
+        "end": 19
+      },
+      {
+        "label": "Chemical",
+        "text": "maleate",
+        "start": 79,
+        "end": 86
+      }
+    ]
+  },
+  {
+    "doc_id": "1154",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "Maleate",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  },
+  {
+    "doc_id": "1159",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "oxygen",
+        "start": 110,
+        "end": 116
+      }
+    ]
+  },
+  {
+    "doc_id": "1181",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "Oz",
+        "start": 16,
+        "end": 18
+      },
+      {
+        "label": "Chemical",
+        "text": "PM",
+        "start": 26,
+        "end": 28
+      }
+    ]
+  },
+  {
+    "doc_id": "1208",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "P",
+        "start": 102,
+        "end": 103
+      },
+      {
+        "label": "Disease",
+        "text": "adelphia",
+        "start": 106,
+        "end": 114
+      }
+    ]
+  },
+  {
+    "doc_id": "1223",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "liver cancer",
+        "start": 4,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "doc_id": "1232",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "i",
+        "start": 96,
+        "end": 97
+      },
+      {
+        "label": "Disease",
+        "text": "cancer",
+        "start": 187,
+        "end": 193
+      }
+    ]
+  },
+  {
+    "doc_id": "1233",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "cancer",
+        "start": 107,
+        "end": 113
+      },
+      {
+        "label": "Chemical",
+        "text": "iAs",
+        "start": 176,
+        "end": 179
+      }
+    ]
+  },
+  {
+    "doc_id": "1234",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "cancer",
+        "start": 110,
+        "end": 116
+      },
+      {
+        "label": "Chemical",
+        "text": "iAs",
+        "start": 209,
+        "end": 212
+      },
+      {
+        "label": "Disease",
+        "text": "carcin",
+        "start": 237,
+        "end": 243
+      }
+    ]
+  },
+  {
+    "doc_id": "1235",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "iAs",
+        "start": 61,
+        "end": 64
+      },
+      {
+        "label": "Disease",
+        "text": "cancer",
+        "start": 78,
+        "end": 84
+      }
+    ]
+  },
+  {
+    "doc_id": "1239",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "P11",
+        "start": 13,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "doc_id": "1248",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "vitamin E",
+        "start": 39,
+        "end": 48
+      }
+    ]
+  },
+  {
+    "doc_id": "1276",
+    "predicted_entities": []
+  },
+  {
+    "doc_id": "1277",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "G",
+        "start": 11,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "doc_id": "1280",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "G",
+        "start": 10,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "doc_id": "1293",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "heart failure",
+        "start": 79,
+        "end": 92
+      }
+    ]
+  },
+  {
+    "doc_id": "1295",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "heart failure",
+        "start": 74,
+        "end": 87
+      }
+    ]
+  },
+  {
+    "doc_id": "1323",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "bleeding",
+        "start": 55,
+        "end": 63
+      }
+    ]
+  },
+  {
+    "doc_id": "1335",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "blood loss",
+        "start": 8,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "doc_id": "1336",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "loss",
+        "start": 33,
+        "end": 37
+      }
+    ]
+  },
+  {
+    "doc_id": "1345",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "cocaine",
+        "start": 48,
+        "end": 55
+      },
+      {
+        "label": "Disease",
+        "text": "chest pain",
+        "start": 95,
+        "end": 105
+      }
+    ]
+  },
+  {
+    "doc_id": "1346",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "cocaine",
+        "start": 40,
+        "end": 47
+      },
+      {
+        "label": "Disease",
+        "text": "toxicity",
+        "start": 48,
+        "end": 56
+      }
+    ]
+  },
+  {
+    "doc_id": "1366",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "PBS",
+        "start": 48,
+        "end": 51
+      }
+    ]
+  },
+  {
+    "doc_id": "1370",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "ARI",
+        "start": 39,
+        "end": 42
+      }
+    ]
+  },
+  {
+    "doc_id": "1378",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "A",
+        "start": 15,
+        "end": 16
+      },
+      {
+        "label": "Disease",
+        "text": "RI",
+        "start": 16,
+        "end": 18
+      },
+      {
+        "label": "Disease",
+        "text": "PBSCT",
+        "start": 56,
+        "end": 61
+      }
+    ]
+  },
+  {
+    "doc_id": "1379",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "PBSCT",
+        "start": 75,
+        "end": 80
+      }
+    ]
+  },
+  {
+    "doc_id": "1382",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "cocaine",
+        "start": 129,
+        "end": 136
+      }
+    ]
+  },
+  {
+    "doc_id": "1383",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "cocaine",
+        "start": 55,
+        "end": 62
+      },
+      {
+        "label": "Chemical",
+        "text": "cocaine",
+        "start": 104,
+        "end": 111
+      },
+      {
+        "label": "Chemical",
+        "text": "cocaine",
+        "start": 148,
+        "end": 155
+      }
+    ]
+  },
+  {
+    "doc_id": "1398",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "substance abuse",
+        "start": 72,
+        "end": 87
+      }
+    ]
+  },
+  {
+    "doc_id": "1400",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "infections",
+        "start": 4,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "doc_id": "1403",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "Drug abuse",
+        "start": 0,
+        "end": 10
+      }
+    ]
+  },
+  {
+    "doc_id": "1404",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "infections",
+        "start": 28,
+        "end": 38
+      }
+    ]
+  },
+  {
+    "doc_id": "1405",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "substance abuse",
+        "start": 80,
+        "end": 95
+      }
+    ]
+  },
+  {
+    "doc_id": "1437",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "ICH",
+        "start": 85,
+        "end": 88
+      },
+      {
+        "label": "Disease",
+        "text": "th",
+        "start": 96,
+        "end": 98
+      },
+      {
+        "label": "Disease",
+        "text": "bot",
+        "start": 101,
+        "end": 104
+      },
+      {
+        "label": "Chemical",
+        "text": "M",
+        "start": 118,
+        "end": 119
+      }
+    ]
+  },
+  {
+    "doc_id": "1438",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "ICH",
+        "start": 39,
+        "end": 42
+      },
+      {
+        "label": "Disease",
+        "text": "IS",
+        "start": 52,
+        "end": 54
+      },
+      {
+        "label": "Disease",
+        "text": "TIA",
+        "start": 57,
+        "end": 60
+      },
+      {
+        "label": "Disease",
+        "text": "ICH",
+        "start": 88,
+        "end": 91
+      },
+      {
+        "label": "Disease",
+        "text": "IS",
+        "start": 95,
+        "end": 97
+      },
+      {
+        "label": "Disease",
+        "text": "TIA",
+        "start": 100,
+        "end": 103
+      }
+    ]
+  },
+  {
+    "doc_id": "1457",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "ICH",
+        "start": 78,
+        "end": 81
+      }
+    ]
+  },
+  {
+    "doc_id": "1461",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "IS",
+        "start": 61,
+        "end": 63
+      },
+      {
+        "label": "Disease",
+        "text": "TIA",
+        "start": 66,
+        "end": 69
+      }
+    ]
+  },
+  {
+    "doc_id": "1466",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "ICH",
+        "start": 156,
+        "end": 159
+      }
+    ]
+  },
+  {
+    "doc_id": "1507",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "NA",
+        "start": 49,
+        "end": 51
+      }
+    ]
+  },
+  {
+    "doc_id": "1534",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "infectious",
+        "start": 15,
+        "end": 25
+      },
+      {
+        "label": "Disease",
+        "text": "cancer",
+        "start": 42,
+        "end": 48
+      }
+    ]
+  },
+  {
+    "doc_id": "1536",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "infections",
+        "start": 83,
+        "end": 93
+      }
+    ]
+  },
+  {
+    "doc_id": "1549",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "EACA",
+        "start": 30,
+        "end": 34
+      },
+      {
+        "label": "Disease",
+        "text": "SAH",
+        "start": 61,
+        "end": 64
+      },
+      {
+        "label": "Disease",
+        "text": "SAH",
+        "start": 114,
+        "end": 117
+      }
+    ]
+  },
+  {
+    "doc_id": "1736",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "Spasm",
+        "start": 0,
+        "end": 5
+      },
+      {
+        "label": "Disease",
+        "text": "coronary dissection",
+        "start": 8,
+        "end": 27
+      }
+    ]
+  },
+  {
+    "doc_id": "1743",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "CBZ",
+        "start": 35,
+        "end": 38
+      }
+    ]
+  },
+  {
+    "doc_id": "1761",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "Heart failure",
+        "start": 0,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "doc_id": "1764",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "heart failure",
+        "start": 33,
+        "end": 46
+      }
+    ]
+  },
+  {
+    "doc_id": "1782",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "AIDS",
+        "start": 36,
+        "end": 40
+      }
+    ]
+  },
+  {
+    "doc_id": "1830",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "calcium",
+        "start": 131,
+        "end": 138
+      }
+    ]
+  },
+  {
+    "doc_id": "1832",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "seizures",
+        "start": 100,
+        "end": 108
+      }
+    ]
+  },
+  {
+    "doc_id": "1848",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "DOX",
+        "start": 43,
+        "end": 46
+      },
+      {
+        "label": "Disease",
+        "text": "reduction in",
+        "start": 80,
+        "end": 92
+      }
+    ]
+  },
+  {
+    "doc_id": "1849",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "DOX",
+        "start": 93,
+        "end": 96
+      },
+      {
+        "label": "Chemical",
+        "text": "DOX",
+        "start": 182,
+        "end": 185
+      },
+      {
+        "label": "Chemical",
+        "text": "DOX",
+        "start": 262,
+        "end": 265
+      }
+    ]
+  },
+  {
+    "doc_id": "1851",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "DOX",
+        "start": 89,
+        "end": 92
+      },
+      {
+        "label": "Chemical",
+        "text": "DOX",
+        "start": 135,
+        "end": 138
+      },
+      {
+        "label": "Disease",
+        "text": "reduction",
+        "start": 148,
+        "end": 157
+      }
+    ]
+  },
+  {
+    "doc_id": "1853",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "HPMA",
+        "start": 34,
+        "end": 38
+      },
+      {
+        "label": "Chemical",
+        "text": "DOX",
+        "start": 71,
+        "end": 74
+      },
+      {
+        "label": "Disease",
+        "text": "in cardiac output",
+        "start": 107,
+        "end": 124
+      }
+    ]
+  },
+  {
+    "doc_id": "1854",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "DOX",
+        "start": 106,
+        "end": 109
+      },
+      {
+        "label": "Chemical",
+        "text": "HPMA",
+        "start": 125,
+        "end": 129
+      }
+    ]
+  },
+  {
+    "doc_id": "1859",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "pain",
+        "start": 40,
+        "end": 44
+      }
+    ]
+  },
+  {
+    "doc_id": "1872",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "Antidepress",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "label": "Disease",
+        "text": "paranoid reactions",
+        "start": 53,
+        "end": 71
+      },
+      {
+        "label": "Disease",
+        "text": "psychiatric",
+        "start": 75,
+        "end": 86
+      }
+    ]
+  },
+  {
+    "doc_id": "1882",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "DEC",
+        "start": 37,
+        "end": 40
+      },
+      {
+        "label": "Disease",
+        "text": "all",
+        "start": 95,
+        "end": 98
+      }
+    ]
+  },
+  {
+    "doc_id": "1921",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "pulmonary tuberculosis",
+        "start": 61,
+        "end": 83
+      },
+      {
+        "label": "Disease",
+        "text": "tuberculosis",
+        "start": 129,
+        "end": 141
+      }
+    ]
+  },
+  {
+    "doc_id": "1965",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "calcium",
+        "start": 69,
+        "end": 76
+      }
+    ]
+  },
+  {
+    "doc_id": "1996",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "infection",
+        "start": 48,
+        "end": 57
+      },
+      {
+        "label": "Disease",
+        "text": "mortality",
+        "start": 62,
+        "end": 71
+      },
+      {
+        "label": "Disease",
+        "text": "burn",
+        "start": 75,
+        "end": 79
+      }
+    ]
+  },
+  {
+    "doc_id": "1998",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "CHP",
+        "start": 46,
+        "end": 49
+      }
+    ]
+  },
+  {
+    "doc_id": "1999",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "burn",
+        "start": 14,
+        "end": 18
+      },
+      {
+        "label": "Disease",
+        "text": "burns",
+        "start": 52,
+        "end": 57
+      }
+    ]
+  },
+  {
+    "doc_id": "2000",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "burn",
+        "start": 4,
+        "end": 8
+      },
+      {
+        "label": "Chemical",
+        "text": "CHP",
+        "start": 54,
+        "end": 57
+      }
+    ]
+  },
+  {
+    "doc_id": "2003",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "CH",
+        "start": 40,
+        "end": 42
+      },
+      {
+        "label": "Disease",
+        "text": "pain",
+        "start": 84,
+        "end": 88
+      }
+    ]
+  },
+  {
+    "doc_id": "2008",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "CHP",
+        "start": 11,
+        "end": 14
+      }
+    ]
+  },
+  {
+    "doc_id": "2033",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "histamine",
+        "start": 24,
+        "end": 33
+      }
+    ]
+  },
+  {
+    "doc_id": "2038",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "histamine",
+        "start": 59,
+        "end": 68
+      }
+    ]
+  },
+  {
+    "doc_id": "2050",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "GABA",
+        "start": 21,
+        "end": 25
+      }
+    ]
+  },
+  {
+    "doc_id": "2083",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "silver",
+        "start": 42,
+        "end": 48
+      }
+    ]
+  },
+  {
+    "doc_id": "2109",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "E",
+        "start": 18,
+        "end": 19
+      }
+    ]
+  },
+  {
+    "doc_id": "2111",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "I",
+        "start": 22,
+        "end": 23
+      }
+    ]
+  },
+  {
+    "doc_id": "2118",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "bleeding",
+        "start": 35,
+        "end": 43
+      }
+    ]
+  },
+  {
+    "doc_id": "2158",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "adrenaline",
+        "start": 53,
+        "end": 63
+      }
+    ]
+  },
+  {
+    "doc_id": "2165",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "adrenaline",
+        "start": 34,
+        "end": 44
+      }
+    ]
+  },
+  {
+    "doc_id": "2220",
+    "predicted_entities": []
+  },
+  {
+    "doc_id": "2228",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "ed",
+        "start": 175,
+        "end": 177
+      }
+    ]
+  },
+  {
+    "doc_id": "2252",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "glucose",
+        "start": 40,
+        "end": 47
+      }
+    ]
+  },
+  {
+    "doc_id": "2272",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "tumor",
+        "start": 88,
+        "end": 93
+      },
+      {
+        "label": "Disease",
+        "text": "edema",
+        "start": 113,
+        "end": 118
+      }
+    ]
+  },
+  {
+    "doc_id": "2299",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "AM",
+        "start": 49,
+        "end": 51
+      },
+      {
+        "label": "Chemical",
+        "text": "PS",
+        "start": 62,
+        "end": 64
+      }
+    ]
+  },
+  {
+    "doc_id": "2308",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "seizures",
+        "start": 39,
+        "end": 47
+      }
+    ]
+  },
+  {
+    "doc_id": "2344",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "Oral thrush",
+        "start": 0,
+        "end": 11
+      },
+      {
+        "label": "Disease",
+        "text": "hoarseness",
+        "start": 63,
+        "end": 73
+      }
+    ]
+  },
+  {
+    "doc_id": "2362",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "drug toxicity",
+        "start": 40,
+        "end": 53
+      }
+    ]
+  },
+  {
+    "doc_id": "2372",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "MSG",
+        "start": 73,
+        "end": 76
+      },
+      {
+        "label": "Disease",
+        "text": "seizure",
+        "start": 111,
+        "end": 118
+      }
+    ]
+  },
+  {
+    "doc_id": "2385",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "brain damage",
+        "start": 77,
+        "end": 89
+      }
+    ]
+  },
+  {
+    "doc_id": "2395",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "S",
+        "start": 101,
+        "end": 102
+      },
+      {
+        "label": "Disease",
+        "text": "depression",
+        "start": 104,
+        "end": 114
+      }
+    ]
+  },
+  {
+    "doc_id": "2405",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "MP",
+        "start": 54,
+        "end": 56
+      }
+    ]
+  },
+  {
+    "doc_id": "2406",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "MP",
+        "start": 12,
+        "end": 14
+      },
+      {
+        "label": "Disease",
+        "text": "heart disease",
+        "start": 61,
+        "end": 74
+      }
+    ]
+  },
+  {
+    "doc_id": "2421",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "seizures",
+        "start": 17,
+        "end": 25
+      },
+      {
+        "label": "Disease",
+        "text": "seizures",
+        "start": 82,
+        "end": 90
+      }
+    ]
+  },
+  {
+    "doc_id": "2475",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "barium",
+        "start": 67,
+        "end": 73
+      }
+    ]
+  },
+  {
+    "doc_id": "2476",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "barium",
+        "start": 116,
+        "end": 122
+      }
+    ]
+  },
+  {
+    "doc_id": "2477",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "barium",
+        "start": 90,
+        "end": 96
+      }
+    ]
+  },
+  {
+    "doc_id": "2478",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "barium",
+        "start": 145,
+        "end": 151
+      }
+    ]
+  },
+  {
+    "doc_id": "2480",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "barium",
+        "start": 76,
+        "end": 82
+      }
+    ]
+  },
+  {
+    "doc_id": "2486",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "PP",
+        "start": 71,
+        "end": 73
+      }
+    ]
+  },
+  {
+    "doc_id": "2500",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "PAN",
+        "start": 53,
+        "end": 56
+      }
+    ]
+  },
+  {
+    "doc_id": "2504",
+    "predicted_entities": []
+  },
+  {
+    "doc_id": "2505",
+    "predicted_entities": []
+  },
+  {
+    "doc_id": "2509",
+    "predicted_entities": []
+  },
+  {
+    "doc_id": "2516",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "seizure",
+        "start": 44,
+        "end": 51
+      }
+    ]
+  },
+  {
+    "doc_id": "2524",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "APAP",
+        "start": 57,
+        "end": 61
+      }
+    ]
+  },
+  {
+    "doc_id": "2581",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "breast cancer",
+        "start": 21,
+        "end": 34
+      }
+    ]
+  },
+  {
+    "doc_id": "2592",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "est",
+        "start": 42,
+        "end": 45
+      }
+    ]
+  },
+  {
+    "doc_id": "2594",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "infection",
+        "start": 101,
+        "end": 110
+      }
+    ]
+  },
+  {
+    "doc_id": "2597",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "Aza",
+        "start": 15,
+        "end": 18
+      },
+      {
+        "label": "Disease",
+        "text": "infections",
+        "start": 45,
+        "end": 55
+      }
+    ]
+  },
+  {
+    "doc_id": "2598",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "vir",
+        "start": 17,
+        "end": 20
+      },
+      {
+        "label": "Disease",
+        "text": "infections",
+        "start": 23,
+        "end": 33
+      }
+    ]
+  },
+  {
+    "doc_id": "2647",
+    "predicted_entities": []
+  },
+  {
+    "doc_id": "2665",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "tumor",
+        "start": 15,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "doc_id": "2669",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "Tumor",
+        "start": 21,
+        "end": 26
+      }
+    ]
+  },
+  {
+    "doc_id": "2671",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "tumor",
+        "start": 30,
+        "end": 35
+      }
+    ]
+  },
+  {
+    "doc_id": "2684",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "tumor",
+        "start": 47,
+        "end": 52
+      }
+    ]
+  },
+  {
+    "doc_id": "2712",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "O",
+        "start": 11,
+        "end": 12
+      },
+      {
+        "label": "Chemical",
+        "text": "O",
+        "start": 30,
+        "end": 31
+      }
+    ]
+  },
+  {
+    "doc_id": "2756",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "potassium",
+        "start": 301,
+        "end": 310
+      }
+    ]
+  },
+  {
+    "doc_id": "2759",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "Massive bleeding",
+        "start": 0,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "doc_id": "2774",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "SNP",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "label": "Chemical",
+        "text": "ATP",
+        "start": 55,
+        "end": 58
+      }
+    ]
+  },
+  {
+    "doc_id": "2776",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "ATP",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "label": "Chemical",
+        "text": "SNP",
+        "start": 19,
+        "end": 22
+      }
+    ]
+  },
+  {
+    "doc_id": "2783",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "oxygen",
+        "start": 18,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "doc_id": "2785",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "ATP",
+        "start": 63,
+        "end": 66
+      }
+    ]
+  },
+  {
+    "doc_id": "2792",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "oxygen",
+        "start": 11,
+        "end": 17
+      }
+    ]
+  },
+  {
+    "doc_id": "2796",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "SNP",
+        "start": 106,
+        "end": 109
+      }
+    ]
+  },
+  {
+    "doc_id": "2797",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "AT",
+        "start": 5,
+        "end": 7
+      },
+      {
+        "label": "Chemical",
+        "text": "S",
+        "start": 13,
+        "end": 14
+      },
+      {
+        "label": "Disease",
+        "text": "P",
+        "start": 15,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "doc_id": "2820",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "arterial spasm",
+        "start": 97,
+        "end": 111
+      }
+    ]
+  },
+  {
+    "doc_id": "2844",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "Ve",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "label": "Disease",
+        "text": "pain",
+        "start": 7,
+        "end": 11
+      },
+      {
+        "label": "Disease",
+        "text": "pain",
+        "start": 64,
+        "end": 68
+      },
+      {
+        "label": "Disease",
+        "text": "swelling",
+        "start": 72,
+        "end": 80
+      }
+    ]
+  },
+  {
+    "doc_id": "2845",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "Skeletal movements",
+        "start": 0,
+        "end": 18
+      },
+      {
+        "label": "Disease",
+        "text": "respiratory upset",
+        "start": 67,
+        "end": 84
+      }
+    ]
+  },
+  {
+    "doc_id": "2898",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "cardiac arrest",
+        "start": 37,
+        "end": 51
+      },
+      {
+        "label": "Disease",
+        "text": "death",
+        "start": 67,
+        "end": 72
+      }
+    ]
+  },
+  {
+    "doc_id": "2904",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "nausea",
+        "start": 84,
+        "end": 90
+      },
+      {
+        "label": "Disease",
+        "text": "vomiting",
+        "start": 93,
+        "end": 101
+      },
+      {
+        "label": "Disease",
+        "text": "re",
+        "start": 104,
+        "end": 106
+      },
+      {
+        "label": "Disease",
+        "text": "ing",
+        "start": 109,
+        "end": 112
+      }
+    ]
+  },
+  {
+    "doc_id": "2907",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "nausea",
+        "start": 58,
+        "end": 64
+      },
+      {
+        "label": "Disease",
+        "text": "vomiting",
+        "start": 83,
+        "end": 91
+      }
+    ]
+  },
+  {
+    "doc_id": "2951",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "seizure",
+        "start": 18,
+        "end": 25
+      },
+      {
+        "label": "Disease",
+        "text": "death",
+        "start": 54,
+        "end": 59
+      }
+    ]
+  },
+  {
+    "doc_id": "2953",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "cocaine",
+        "start": 40,
+        "end": 47
+      }
+    ]
+  },
+  {
+    "doc_id": "2954",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "seizures",
+        "start": 34,
+        "end": 42
+      },
+      {
+        "label": "Disease",
+        "text": "death",
+        "start": 47,
+        "end": 52
+      }
+    ]
+  },
+  {
+    "doc_id": "2960",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "seizures",
+        "start": 46,
+        "end": 54
+      },
+      {
+        "label": "Disease",
+        "text": "death",
+        "start": 79,
+        "end": 84
+      }
+    ]
+  },
+  {
+    "doc_id": "2962",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "seizures",
+        "start": 43,
+        "end": 51
+      },
+      {
+        "label": "Disease",
+        "text": "death",
+        "start": 75,
+        "end": 80
+      }
+    ]
+  },
+  {
+    "doc_id": "2964",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "seizures",
+        "start": 48,
+        "end": 56
+      },
+      {
+        "label": "Disease",
+        "text": "death",
+        "start": 85,
+        "end": 90
+      }
+    ]
+  },
+  {
+    "doc_id": "2989",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "AVP",
+        "start": 52,
+        "end": 55
+      },
+      {
+        "label": "Chemical",
+        "text": "ANP",
+        "start": 83,
+        "end": 86
+      }
+    ]
+  },
+  {
+    "doc_id": "2991",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "A",
+        "start": 69,
+        "end": 70
+      },
+      {
+        "label": "Chemical",
+        "text": "AN",
+        "start": 75,
+        "end": 77
+      }
+    ]
+  },
+  {
+    "doc_id": "2992",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "MAP",
+        "start": 13,
+        "end": 16
+      },
+      {
+        "label": "Chemical",
+        "text": "AVP",
+        "start": 73,
+        "end": 76
+      }
+    ]
+  },
+  {
+    "doc_id": "2993",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "AN",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "label": "Chemical",
+        "text": "AV",
+        "start": 103,
+        "end": 105
+      }
+    ]
+  },
+  {
+    "doc_id": "2995",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "ANP",
+        "start": 40,
+        "end": 43
+      },
+      {
+        "label": "Chemical",
+        "text": "AVP",
+        "start": 46,
+        "end": 49
+      },
+      {
+        "label": "Chemical",
+        "text": "ANP",
+        "start": 54,
+        "end": 57
+      },
+      {
+        "label": "Chemical",
+        "text": "AVP",
+        "start": 60,
+        "end": 63
+      },
+      {
+        "label": "Chemical",
+        "text": "Phe",
+        "start": 85,
+        "end": 88
+      }
+    ]
+  },
+  {
+    "doc_id": "2996",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "AVP",
+        "start": 44,
+        "end": 47
+      }
+    ]
+  },
+  {
+    "doc_id": "3010",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "deaths",
+        "start": 19,
+        "end": 25
+      },
+      {
+        "label": "Disease",
+        "text": "infection",
+        "start": 50,
+        "end": 59
+      }
+    ]
+  },
+  {
+    "doc_id": "3014",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "infections",
+        "start": 21,
+        "end": 31
+      }
+    ]
+  },
+  {
+    "doc_id": "3029",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "infection",
+        "start": 65,
+        "end": 74
+      }
+    ]
+  },
+  {
+    "doc_id": "3080",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "VT",
+        "start": 0,
+        "end": 2
+      },
+      {
+        "label": "Disease",
+        "text": "sin",
+        "start": 68,
+        "end": 71
+      }
+    ]
+  },
+  {
+    "doc_id": "3108",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "DES",
+        "start": 9,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "doc_id": "3113",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "DES",
+        "start": 85,
+        "end": 88
+      }
+    ]
+  },
+  {
+    "doc_id": "3126",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "CYP",
+        "start": 13,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "doc_id": "3128",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "CYP",
+        "start": 70,
+        "end": 73
+      }
+    ]
+  },
+  {
+    "doc_id": "3129",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "CYP",
+        "start": 89,
+        "end": 92
+      }
+    ]
+  },
+  {
+    "doc_id": "3131",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "CYP",
+        "start": 95,
+        "end": 98
+      }
+    ]
+  },
+  {
+    "doc_id": "3134",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "Flu",
+        "start": 53,
+        "end": 56
+      },
+      {
+        "label": "Chemical",
+        "text": "gold",
+        "start": 59,
+        "end": 63
+      },
+      {
+        "label": "Chemical",
+        "text": "CYP",
+        "start": 188,
+        "end": 191
+      }
+    ]
+  },
+  {
+    "doc_id": "3183",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "CO",
+        "start": 15,
+        "end": 17
+      }
+    ]
+  },
+  {
+    "doc_id": "3192",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "CO",
+        "start": 4,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "doc_id": "3193",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "h",
+        "start": 7,
+        "end": 8
+      },
+      {
+        "label": "Disease",
+        "text": "RH",
+        "start": 9,
+        "end": 11
+      },
+      {
+        "label": "Chemical",
+        "text": "CO",
+        "start": 49,
+        "end": 51
+      },
+      {
+        "label": "Disease",
+        "text": "h",
+        "start": 101,
+        "end": 102
+      },
+      {
+        "label": "Disease",
+        "text": "RH",
+        "start": 103,
+        "end": 105
+      }
+    ]
+  },
+  {
+    "doc_id": "3195",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "h",
+        "start": 6,
+        "end": 7
+      },
+      {
+        "label": "Chemical",
+        "text": "T",
+        "start": 15,
+        "end": 16
+      },
+      {
+        "label": "Chemical",
+        "text": "CO",
+        "start": 45,
+        "end": 47
+      }
+    ]
+  },
+  {
+    "doc_id": "3196",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "CO",
+        "start": 4,
+        "end": 6
+      }
+    ]
+  },
+  {
+    "doc_id": "3213",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "VTE",
+        "start": 73,
+        "end": 76
+      },
+      {
+        "label": "Chemical",
+        "text": "O",
+        "start": 81,
+        "end": 82
+      }
+    ]
+  },
+  {
+    "doc_id": "3217",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "VTE",
+        "start": 62,
+        "end": 65
+      },
+      {
+        "label": "Chemical",
+        "text": "O",
+        "start": 87,
+        "end": 88
+      },
+      {
+        "label": "Disease",
+        "text": "VTE",
+        "start": 171,
+        "end": 174
+      },
+      {
+        "label": "Chemical",
+        "text": "O",
+        "start": 217,
+        "end": 218
+      }
+    ]
+  },
+  {
+    "doc_id": "3218",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "O",
+        "start": 114,
+        "end": 115
+      }
+    ]
+  },
+  {
+    "doc_id": "3219",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "O",
+        "start": 116,
+        "end": 117
+      }
+    ]
+  },
+  {
+    "doc_id": "3222",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "VTE",
+        "start": 18,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "doc_id": "3223",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "O",
+        "start": 27,
+        "end": 28
+      }
+    ]
+  },
+  {
+    "doc_id": "3224",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "O",
+        "start": 35,
+        "end": 36
+      }
+    ]
+  },
+  {
+    "doc_id": "3226",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "VTE",
+        "start": 45,
+        "end": 48
+      },
+      {
+        "label": "Chemical",
+        "text": "O",
+        "start": 112,
+        "end": 113
+      }
+    ]
+  },
+  {
+    "doc_id": "3229",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "VTE",
+        "start": 74,
+        "end": 77
+      },
+      {
+        "label": "Chemical",
+        "text": "O",
+        "start": 138,
+        "end": 139
+      }
+    ]
+  },
+  {
+    "doc_id": "3231",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "VTE",
+        "start": 72,
+        "end": 75
+      }
+    ]
+  },
+  {
+    "doc_id": "3238",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "O",
+        "start": 99,
+        "end": 100
+      }
+    ]
+  },
+  {
+    "doc_id": "3250",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "Brain damage",
+        "start": 0,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "doc_id": "3261",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "toxic",
+        "start": 27,
+        "end": 32
+      }
+    ]
+  },
+  {
+    "doc_id": "3264",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "TFL",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "label": "Disease",
+        "text": "breast cancer",
+        "start": 58,
+        "end": 71
+      }
+    ]
+  },
+  {
+    "doc_id": "3307",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "APL",
+        "start": 79,
+        "end": 82
+      },
+      {
+        "label": "Chemical",
+        "text": "ATRA",
+        "start": 129,
+        "end": 133
+      }
+    ]
+  },
+  {
+    "doc_id": "3309",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "ATRA",
+        "start": 17,
+        "end": 21
+      },
+      {
+        "label": "Disease",
+        "text": "APL",
+        "start": 70,
+        "end": 73
+      }
+    ]
+  },
+  {
+    "doc_id": "3311",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "mania",
+        "start": 73,
+        "end": 78
+      }
+    ]
+  },
+  {
+    "doc_id": "3317",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "pain",
+        "start": 67,
+        "end": 71
+      },
+      {
+        "label": "Chemical",
+        "text": "N",
+        "start": 283,
+        "end": 284
+      }
+    ]
+  },
+  {
+    "doc_id": "3318",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "pain",
+        "start": 140,
+        "end": 144
+      }
+    ]
+  },
+  {
+    "doc_id": "3320",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "pain",
+        "start": 7,
+        "end": 11
+      },
+      {
+        "label": "Chemical",
+        "text": "CO2",
+        "start": 52,
+        "end": 55
+      },
+      {
+        "label": "Disease",
+        "text": "pain",
+        "start": 146,
+        "end": 150
+      }
+    ]
+  },
+  {
+    "doc_id": "3321",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "pain",
+        "start": 69,
+        "end": 73
+      },
+      {
+        "label": "Chemical",
+        "text": "CO",
+        "start": 107,
+        "end": 109
+      }
+    ]
+  },
+  {
+    "doc_id": "3322",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "pain",
+        "start": 73,
+        "end": 77
+      }
+    ]
+  },
+  {
+    "doc_id": "3326",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "pain",
+        "start": 28,
+        "end": 32
+      },
+      {
+        "label": "Disease",
+        "text": "pain",
+        "start": 82,
+        "end": 86
+      }
+    ]
+  },
+  {
+    "doc_id": "3345",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "cocaine",
+        "start": 41,
+        "end": 48
+      }
+    ]
+  },
+  {
+    "doc_id": "3347",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "cocaine",
+        "start": 68,
+        "end": 75
+      }
+    ]
+  },
+  {
+    "doc_id": "3349",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "cocaine",
+        "start": 5,
+        "end": 12
+      }
+    ]
+  },
+  {
+    "doc_id": "3351",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "cocaine",
+        "start": 61,
+        "end": 68
+      },
+      {
+        "label": "Chemical",
+        "text": "cocaine",
+        "start": 112,
+        "end": 119
+      },
+      {
+        "label": "Disease",
+        "text": "intoxication",
+        "start": 120,
+        "end": 132
+      }
+    ]
+  },
+  {
+    "doc_id": "3352",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "Cocaine",
+        "start": 0,
+        "end": 7
+      },
+      {
+        "label": "Disease",
+        "text": "increase",
+        "start": 139,
+        "end": 147
+      }
+    ]
+  },
+  {
+    "doc_id": "3383",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "bleeding",
+        "start": 116,
+        "end": 124
+      }
+    ]
+  },
+  {
+    "doc_id": "3394",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "E",
+        "start": 78,
+        "end": 79
+      }
+    ]
+  },
+  {
+    "doc_id": "3398",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "E",
+        "start": 32,
+        "end": 33
+      }
+    ]
+  },
+  {
+    "doc_id": "3399",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "EE",
+        "start": 81,
+        "end": 83
+      }
+    ]
+  },
+  {
+    "doc_id": "3400",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "E",
+        "start": 35,
+        "end": 36
+      }
+    ]
+  },
+  {
+    "doc_id": "3401",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "E",
+        "start": 59,
+        "end": 60
+      },
+      {
+        "label": "Chemical",
+        "text": "E",
+        "start": 132,
+        "end": 133
+      }
+    ]
+  },
+  {
+    "doc_id": "3404",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "B",
+        "start": 48,
+        "end": 49
+      },
+      {
+        "label": "Chemical",
+        "text": "EE",
+        "start": 110,
+        "end": 112
+      },
+      {
+        "label": "Chemical",
+        "text": "B",
+        "start": 116,
+        "end": 117
+      }
+    ]
+  },
+  {
+    "doc_id": "3423",
+    "predicted_entities": []
+  },
+  {
+    "doc_id": "3424",
+    "predicted_entities": []
+  },
+  {
+    "doc_id": "3425",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "PRC",
+        "start": 158,
+        "end": 161
+      }
+    ]
+  },
+  {
+    "doc_id": "3427",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "P",
+        "start": 112,
+        "end": 113
+      }
+    ]
+  },
+  {
+    "doc_id": "3431",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "de",
+        "start": 20,
+        "end": 22
+      },
+      {
+        "label": "Disease",
+        "text": "ed liver disease",
+        "start": 31,
+        "end": 47
+      }
+    ]
+  },
+  {
+    "doc_id": "3514",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "NO",
+        "start": 70,
+        "end": 72
+      }
+    ]
+  },
+  {
+    "doc_id": "3523",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "depression",
+        "start": 11,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "doc_id": "3654",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "vitamin A",
+        "start": 81,
+        "end": 90
+      }
+    ]
+  },
+  {
+    "doc_id": "3660",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "p",
+        "start": 32,
+        "end": 33
+      },
+      {
+        "label": "Disease",
+        "text": "ction",
+        "start": 39,
+        "end": 44
+      },
+      {
+        "label": "Disease",
+        "text": "headache",
+        "start": 47,
+        "end": 55
+      },
+      {
+        "label": "Disease",
+        "text": "cold",
+        "start": 62,
+        "end": 66
+      }
+    ]
+  },
+  {
+    "doc_id": "3673",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "CHF",
+        "start": 58,
+        "end": 61
+      }
+    ]
+  },
+  {
+    "doc_id": "3685",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "diabetes",
+        "start": 54,
+        "end": 62
+      }
+    ]
+  },
+  {
+    "doc_id": "3692",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "cocaine",
+        "start": 104,
+        "end": 111
+      }
+    ]
+  },
+  {
+    "doc_id": "3693",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "ethanol",
+        "start": 15,
+        "end": 22
+      },
+      {
+        "label": "Chemical",
+        "text": "cocaine",
+        "start": 83,
+        "end": 90
+      },
+      {
+        "label": "Chemical",
+        "text": "ethanol",
+        "start": 123,
+        "end": 130
+      }
+    ]
+  },
+  {
+    "doc_id": "3695",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "cocaine",
+        "start": 58,
+        "end": 65
+      }
+    ]
+  },
+  {
+    "doc_id": "3699",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "Cocaine",
+        "start": 14,
+        "end": 21
+      },
+      {
+        "label": "Chemical",
+        "text": "ethanol",
+        "start": 26,
+        "end": 33
+      }
+    ]
+  },
+  {
+    "doc_id": "3700",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "cardiac toxicity",
+        "start": 42,
+        "end": 58
+      },
+      {
+        "label": "Disease",
+        "text": "dysrhythmo",
+        "start": 67,
+        "end": 77
+      }
+    ]
+  },
+  {
+    "doc_id": "3713",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "PTU",
+        "start": 72,
+        "end": 75
+      }
+    ]
+  },
+  {
+    "doc_id": "3718",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "PTU",
+        "start": 114,
+        "end": 117
+      }
+    ]
+  },
+  {
+    "doc_id": "3723",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "PTU",
+        "start": 41,
+        "end": 44
+      }
+    ]
+  },
+  {
+    "doc_id": "3725",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "heart disease",
+        "start": 14,
+        "end": 27
+      },
+      {
+        "label": "Chemical",
+        "text": "cocaine",
+        "start": 52,
+        "end": 59
+      }
+    ]
+  },
+  {
+    "doc_id": "3726",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "heart disease",
+        "start": 31,
+        "end": 44
+      },
+      {
+        "label": "Chemical",
+        "text": "cocaine",
+        "start": 86,
+        "end": 93
+      },
+      {
+        "label": "Chemical",
+        "text": "cocaine",
+        "start": 105,
+        "end": 112
+      }
+    ]
+  },
+  {
+    "doc_id": "3751",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "cocaine",
+        "start": 63,
+        "end": 70
+      },
+      {
+        "label": "Chemical",
+        "text": "cocaine",
+        "start": 96,
+        "end": 103
+      }
+    ]
+  },
+  {
+    "doc_id": "3752",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "cocaine",
+        "start": 29,
+        "end": 36
+      },
+      {
+        "label": "Chemical",
+        "text": "cocaine",
+        "start": 88,
+        "end": 95
+      },
+      {
+        "label": "Disease",
+        "text": "abuse",
+        "start": 96,
+        "end": 101
+      }
+    ]
+  },
+  {
+    "doc_id": "3781",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "PDN",
+        "start": 138,
+        "end": 141
+      }
+    ]
+  },
+  {
+    "doc_id": "3782",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "PDN",
+        "start": 47,
+        "end": 50
+      }
+    ]
+  },
+  {
+    "doc_id": "3783",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "P",
+        "start": 43,
+        "end": 44
+      }
+    ]
+  },
+  {
+    "doc_id": "3787",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "PDN",
+        "start": 121,
+        "end": 124
+      }
+    ]
+  },
+  {
+    "doc_id": "3796",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "PDN",
+        "start": 70,
+        "end": 73
+      }
+    ]
+  },
+  {
+    "doc_id": "3801",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "PDN",
+        "start": 34,
+        "end": 37
+      },
+      {
+        "label": "Disease",
+        "text": "anxiety",
+        "start": 46,
+        "end": 53
+      }
+    ]
+  },
+  {
+    "doc_id": "3802",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "P",
+        "start": 51,
+        "end": 52
+      }
+    ]
+  },
+  {
+    "doc_id": "3806",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "toxicity",
+        "start": 100,
+        "end": 108
+      }
+    ]
+  },
+  {
+    "doc_id": "3813",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "manic",
+        "start": 60,
+        "end": 65
+      },
+      {
+        "label": "Disease",
+        "text": "mania",
+        "start": 153,
+        "end": 158
+      }
+    ]
+  },
+  {
+    "doc_id": "3814",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "mania",
+        "start": 172,
+        "end": 177
+      }
+    ]
+  },
+  {
+    "doc_id": "3823",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "mania",
+        "start": 46,
+        "end": 51
+      }
+    ]
+  },
+  {
+    "doc_id": "3825",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "mania",
+        "start": 91,
+        "end": 96
+      },
+      {
+        "label": "Disease",
+        "text": "manic",
+        "start": 166,
+        "end": 171
+      },
+      {
+        "label": "Disease",
+        "text": "affective disorders",
+        "start": 282,
+        "end": 301
+      }
+    ]
+  },
+  {
+    "doc_id": "3834",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "DCF",
+        "start": 91,
+        "end": 94
+      },
+      {
+        "label": "Chemical",
+        "text": "G",
+        "start": 105,
+        "end": 106
+      },
+      {
+        "label": "Disease",
+        "text": "menstrual cramps",
+        "start": 149,
+        "end": 165
+      }
+    ]
+  },
+  {
+    "doc_id": "3836",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "DCF",
+        "start": 47,
+        "end": 50
+      }
+    ]
+  },
+  {
+    "doc_id": "3837",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "G",
+        "start": 24,
+        "end": 25
+      },
+      {
+        "label": "Chemical",
+        "text": "N",
+        "start": 26,
+        "end": 27
+      }
+    ]
+  },
+  {
+    "doc_id": "3839",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "pain",
+        "start": 18,
+        "end": 22
+      }
+    ]
+  },
+  {
+    "doc_id": "3840",
+    "predicted_entities": []
+  },
+  {
+    "doc_id": "3842",
+    "predicted_entities": []
+  },
+  {
+    "doc_id": "3848",
+    "predicted_entities": []
+  },
+  {
+    "doc_id": "3854",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "Headache",
+        "start": 0,
+        "end": 8
+      },
+      {
+        "label": "Chemical",
+        "text": "G",
+        "start": 40,
+        "end": 41
+      },
+      {
+        "label": "Chemical",
+        "text": "D",
+        "start": 55,
+        "end": 56
+      }
+    ]
+  },
+  {
+    "doc_id": "3855",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "GTN",
+        "start": 29,
+        "end": 32
+      },
+      {
+        "label": "Disease",
+        "text": "headache",
+        "start": 41,
+        "end": 49
+      }
+    ]
+  },
+  {
+    "doc_id": "3863",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "PAN",
+        "start": 33,
+        "end": 36
+      }
+    ]
+  },
+  {
+    "doc_id": "3868",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "PAN",
+        "start": 31,
+        "end": 34
+      }
+    ]
+  },
+  {
+    "doc_id": "3899",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "toxicity",
+        "start": 36,
+        "end": 44
+      },
+      {
+        "label": "Chemical",
+        "text": "CY",
+        "start": 48,
+        "end": 50
+      },
+      {
+        "label": "Disease",
+        "text": "bladder path",
+        "start": 83,
+        "end": 95
+      }
+    ]
+  },
+  {
+    "doc_id": "3907",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "MMC",
+        "start": 6,
+        "end": 9
+      }
+    ]
+  },
+  {
+    "doc_id": "3909",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "AGC",
+        "start": 155,
+        "end": 158
+      },
+      {
+        "label": "Disease",
+        "text": "AGC",
+        "start": 186,
+        "end": 189
+      }
+    ]
+  },
+  {
+    "doc_id": "3929",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "vomitus",
+        "start": 4,
+        "end": 11
+      }
+    ]
+  },
+  {
+    "doc_id": "3961",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "cocaine",
+        "start": 39,
+        "end": 46
+      },
+      {
+        "label": "Disease",
+        "text": "chest pain",
+        "start": 60,
+        "end": 70
+      }
+    ]
+  },
+  {
+    "doc_id": "3964",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "cocaine chest pain",
+        "start": 77,
+        "end": 95
+      },
+      {
+        "label": "Disease",
+        "text": "MI",
+        "start": 122,
+        "end": 124
+      }
+    ]
+  },
+  {
+    "doc_id": "3965",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "MI",
+        "start": 67,
+        "end": 69
+      },
+      {
+        "label": "Chemical",
+        "text": "cocaine",
+        "start": 76,
+        "end": 83
+      }
+    ]
+  },
+  {
+    "doc_id": "3968",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "MI",
+        "start": 226,
+        "end": 228
+      }
+    ]
+  },
+  {
+    "doc_id": "3969",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "cardiac death",
+        "start": 91,
+        "end": 104
+      },
+      {
+        "label": "Disease",
+        "text": "disease",
+        "start": 120,
+        "end": 127
+      }
+    ]
+  },
+  {
+    "doc_id": "3970",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "MI",
+        "start": 75,
+        "end": 77
+      }
+    ]
+  },
+  {
+    "doc_id": "3985",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "NMS",
+        "start": 39,
+        "end": 42
+      },
+      {
+        "label": "Disease",
+        "text": "intestinal bleeding",
+        "start": 53,
+        "end": 72
+      }
+    ]
+  },
+  {
+    "doc_id": "3986",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "NMS",
+        "start": 26,
+        "end": 29
+      },
+      {
+        "label": "Disease",
+        "text": "CRF",
+        "start": 48,
+        "end": 51
+      },
+      {
+        "label": "Disease",
+        "text": "intestinal bleeding",
+        "start": 74,
+        "end": 93
+      }
+    ]
+  },
+  {
+    "doc_id": "3991",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "T",
+        "start": 75,
+        "end": 76
+      }
+    ]
+  },
+  {
+    "doc_id": "3992",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "adrenaline",
+        "start": 6,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "doc_id": "3993",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "seizure",
+        "start": 33,
+        "end": 40
+      }
+    ]
+  },
+  {
+    "doc_id": "4065",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "u",
+        "start": 152,
+        "end": 153
+      }
+    ]
+  },
+  {
+    "doc_id": "4092",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "M",
+        "start": 14,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "doc_id": "4151",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "tumor",
+        "start": 137,
+        "end": 142
+      }
+    ]
+  },
+  {
+    "doc_id": "4169",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "aluminum chloride",
+        "start": 113,
+        "end": 130
+      },
+      {
+        "label": "Chemical",
+        "text": "b",
+        "start": 154,
+        "end": 155
+      },
+      {
+        "label": "Chemical",
+        "text": "to",
+        "start": 164,
+        "end": 166
+      }
+    ]
+  },
+  {
+    "doc_id": "4181",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "pain",
+        "start": 126,
+        "end": 130
+      }
+    ]
+  },
+  {
+    "doc_id": "4186",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "Pain",
+        "start": 0,
+        "end": 4
+      }
+    ]
+  },
+  {
+    "doc_id": "4197",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "VNR",
+        "start": 37,
+        "end": 40
+      },
+      {
+        "label": "Disease",
+        "text": "cancer",
+        "start": 78,
+        "end": 84
+      }
+    ]
+  },
+  {
+    "doc_id": "4199",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "V",
+        "start": 56,
+        "end": 57
+      }
+    ]
+  },
+  {
+    "doc_id": "4200",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "cardiac",
+        "start": 17,
+        "end": 24
+      },
+      {
+        "label": "Chemical",
+        "text": "V",
+        "start": 37,
+        "end": 38
+      }
+    ]
+  },
+  {
+    "doc_id": "4203",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "cardiac",
+        "start": 46,
+        "end": 53
+      },
+      {
+        "label": "Chemical",
+        "text": "VN",
+        "start": 69,
+        "end": 71
+      }
+    ]
+  },
+  {
+    "doc_id": "4208",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "V",
+        "start": 35,
+        "end": 36
+      },
+      {
+        "label": "Disease",
+        "text": "N",
+        "start": 36,
+        "end": 37
+      }
+    ]
+  },
+  {
+    "doc_id": "4244",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "gray",
+        "start": 30,
+        "end": 34
+      },
+      {
+        "label": "Disease",
+        "text": "matter deficits",
+        "start": 37,
+        "end": 52
+      },
+      {
+        "label": "Disease",
+        "text": "ulate",
+        "start": 64,
+        "end": 69
+      },
+      {
+        "label": "Chemical",
+        "text": "MA",
+        "start": 108,
+        "end": 110
+      }
+    ]
+  },
+  {
+    "doc_id": "4246",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "MA",
+        "start": 19,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "doc_id": "4254",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "MA",
+        "start": 0,
+        "end": 2
+      }
+    ]
+  },
+  {
+    "doc_id": "4256",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "MA abuse",
+        "start": 60,
+        "end": 68
+      },
+      {
+        "label": "Disease",
+        "text": "drug",
+        "start": 105,
+        "end": 109
+      },
+      {
+        "label": "Disease",
+        "text": "brain injury",
+        "start": 120,
+        "end": 132
+      }
+    ]
+  },
+  {
+    "doc_id": "4261",
+    "predicted_entities": []
+  },
+  {
+    "doc_id": "4310",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "anemia",
+        "start": 66,
+        "end": 72
+      }
+    ]
+  },
+  {
+    "doc_id": "4312",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "anemia",
+        "start": 135,
+        "end": 141
+      }
+    ]
+  },
+  {
+    "doc_id": "4317",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "AD",
+        "start": 56,
+        "end": 58
+      }
+    ]
+  },
+  {
+    "doc_id": "4321",
+    "predicted_entities": []
+  },
+  {
+    "doc_id": "4324",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "mitochondrial injury",
+        "start": 26,
+        "end": 46
+      }
+    ]
+  },
+  {
+    "doc_id": "4360",
+    "predicted_entities": []
+  },
+  {
+    "doc_id": "4386",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "glucose",
+        "start": 100,
+        "end": 107
+      }
+    ]
+  },
+  {
+    "doc_id": "4388",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "glucose",
+        "start": 39,
+        "end": 46
+      },
+      {
+        "label": "Disease",
+        "text": "insulin resistance",
+        "start": 142,
+        "end": 160
+      }
+    ]
+  },
+  {
+    "doc_id": "4398",
+    "predicted_entities": []
+  },
+  {
+    "doc_id": "4401",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "insulin resistance",
+        "start": 65,
+        "end": 83
+      }
+    ]
+  },
+  {
+    "doc_id": "4404",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "glucose",
+        "start": 67,
+        "end": 74
+      }
+    ]
+  },
+  {
+    "doc_id": "4449",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "P",
+        "start": 17,
+        "end": 18
+      },
+      {
+        "label": "Chemical",
+        "text": "N",
+        "start": 23,
+        "end": 24
+      }
+    ]
+  },
+  {
+    "doc_id": "4451",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "CE",
+        "start": 52,
+        "end": 54
+      }
+    ]
+  },
+  {
+    "doc_id": "4456",
+    "predicted_entities": []
+  },
+  {
+    "doc_id": "4459",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "CE",
+        "start": 24,
+        "end": 26
+      },
+      {
+        "label": "Chemical",
+        "text": "P",
+        "start": 103,
+        "end": 104
+      },
+      {
+        "label": "Chemical",
+        "text": "N",
+        "start": 109,
+        "end": 110
+      }
+    ]
+  },
+  {
+    "doc_id": "4490",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "self",
+        "start": 24,
+        "end": 28
+      },
+      {
+        "label": "Disease",
+        "text": "poisoning",
+        "start": 31,
+        "end": 40
+      }
+    ]
+  },
+  {
+    "doc_id": "4499",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "CHX",
+        "start": 10,
+        "end": 13
+      },
+      {
+        "label": "Chemical",
+        "text": "Pilo",
+        "start": 38,
+        "end": 42
+      }
+    ]
+  },
+  {
+    "doc_id": "4500",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "P",
+        "start": 4,
+        "end": 5
+      },
+      {
+        "label": "Chemical",
+        "text": "CHX",
+        "start": 61,
+        "end": 64
+      }
+    ]
+  },
+  {
+    "doc_id": "4502",
+    "predicted_entities": []
+  },
+  {
+    "doc_id": "4503",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "CH",
+        "start": 81,
+        "end": 83
+      },
+      {
+        "label": "Chemical",
+        "text": "P",
+        "start": 87,
+        "end": 88
+      }
+    ]
+  },
+  {
+    "doc_id": "4504",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "P",
+        "start": 34,
+        "end": 35
+      }
+    ]
+  },
+  {
+    "doc_id": "4505",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "CH",
+        "start": 54,
+        "end": 56
+      },
+      {
+        "label": "Chemical",
+        "text": "Pilo",
+        "start": 60,
+        "end": 64
+      }
+    ]
+  },
+  {
+    "doc_id": "4506",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "GAP",
+        "start": 14,
+        "end": 17
+      },
+      {
+        "label": "Chemical",
+        "text": "P",
+        "start": 36,
+        "end": 37
+      }
+    ]
+  },
+  {
+    "doc_id": "4510",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "anxiety",
+        "start": 153,
+        "end": 160
+      }
+    ]
+  },
+  {
+    "doc_id": "4512",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "anxiety",
+        "start": 83,
+        "end": 90
+      }
+    ]
+  },
+  {
+    "doc_id": "4521",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "Nicotine",
+        "start": 10,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "doc_id": "4524",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "Nicotine",
+        "start": 0,
+        "end": 8
+      }
+    ]
+  },
+  {
+    "doc_id": "4549",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "chronic disease",
+        "start": 74,
+        "end": 89
+      }
+    ]
+  },
+  {
+    "doc_id": "4576",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "VCM",
+        "start": 0,
+        "end": 3
+      }
+    ]
+  },
+  {
+    "doc_id": "4610",
+    "predicted_entities": []
+  },
+  {
+    "doc_id": "4616",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "DOX",
+        "start": 0,
+        "end": 3
+      },
+      {
+        "label": "Disease",
+        "text": "cardiac damage",
+        "start": 14,
+        "end": 28
+      },
+      {
+        "label": "Chemical",
+        "text": "DOX",
+        "start": 87,
+        "end": 90
+      }
+    ]
+  },
+  {
+    "doc_id": "4617",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "oxygen",
+        "start": 9,
+        "end": 15
+      }
+    ]
+  },
+  {
+    "doc_id": "4621",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "DOX",
+        "start": 67,
+        "end": 70
+      },
+      {
+        "label": "Chemical",
+        "text": "DOX",
+        "start": 80,
+        "end": 83
+      }
+    ]
+  },
+  {
+    "doc_id": "4629",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "DOX",
+        "start": 32,
+        "end": 35
+      }
+    ]
+  },
+  {
+    "doc_id": "4658",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "Is",
+        "start": 21,
+        "end": 23
+      },
+      {
+        "label": "Disease",
+        "text": "in",
+        "start": 66,
+        "end": 68
+      },
+      {
+        "label": "Disease",
+        "text": "vent",
+        "start": 74,
+        "end": 78
+      },
+      {
+        "label": "Disease",
+        "text": "ular",
+        "start": 81,
+        "end": 85
+      }
+    ]
+  },
+  {
+    "doc_id": "4710",
+    "predicted_entities": []
+  },
+  {
+    "doc_id": "4713",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "seizures",
+        "start": 129,
+        "end": 137
+      }
+    ]
+  },
+  {
+    "doc_id": "4756",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "seizure",
+        "start": 16,
+        "end": 23
+      }
+    ]
+  },
+  {
+    "doc_id": "4760",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "seizures",
+        "start": 49,
+        "end": 57
+      },
+      {
+        "label": "Disease",
+        "text": "seizures",
+        "start": 132,
+        "end": 140
+      }
+    ]
+  },
+  {
+    "doc_id": "4762",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "seizure",
+        "start": 9,
+        "end": 16
+      }
+    ]
+  },
+  {
+    "doc_id": "4776",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "CA",
+        "start": 27,
+        "end": 29
+      }
+    ]
+  },
+  {
+    "doc_id": "4782",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "CA",
+        "start": 61,
+        "end": 63
+      }
+    ]
+  },
+  {
+    "doc_id": "4795",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "seizures",
+        "start": 101,
+        "end": 109
+      },
+      {
+        "label": "Disease",
+        "text": "seizures",
+        "start": 203,
+        "end": 211
+      }
+    ]
+  },
+  {
+    "doc_id": "4799",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "abnormalities of",
+        "start": 48,
+        "end": 64
+      },
+      {
+        "label": "Disease",
+        "text": "autism",
+        "start": 91,
+        "end": 97
+      }
+    ]
+  },
+  {
+    "doc_id": "4801",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "autism",
+        "start": 51,
+        "end": 57
+      }
+    ]
+  },
+  {
+    "doc_id": "4927",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "potassium",
+        "start": 13,
+        "end": 22
+      }
+    ]
+  },
+  {
+    "doc_id": "4933",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "PVC",
+        "start": 61,
+        "end": 64
+      },
+      {
+        "label": "Chemical",
+        "text": "potassium",
+        "start": 131,
+        "end": 140
+      }
+    ]
+  },
+  {
+    "doc_id": "4947",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "cardiac chest pain",
+        "start": 41,
+        "end": 59
+      },
+      {
+        "label": "Disease",
+        "text": "chest pain",
+        "start": 71,
+        "end": 81
+      }
+    ]
+  },
+  {
+    "doc_id": "4992",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "lead",
+        "start": 117,
+        "end": 121
+      }
+    ]
+  },
+  {
+    "doc_id": "4993",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "Pb",
+        "start": 91,
+        "end": 93
+      },
+      {
+        "label": "Chemical",
+        "text": "Pb",
+        "start": 212,
+        "end": 214
+      }
+    ]
+  },
+  {
+    "doc_id": "5003",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "PD",
+        "start": 38,
+        "end": 40
+      },
+      {
+        "label": "Disease",
+        "text": "MDP",
+        "start": 51,
+        "end": 54
+      },
+      {
+        "label": "Disease",
+        "text": "major depression",
+        "start": 65,
+        "end": 81
+      },
+      {
+        "label": "Disease",
+        "text": "panic attacks",
+        "start": 90,
+        "end": 103
+      },
+      {
+        "label": "Disease",
+        "text": "MD",
+        "start": 106,
+        "end": 108
+      }
+    ]
+  },
+  {
+    "doc_id": "5007",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "PD",
+        "start": 31,
+        "end": 33
+      }
+    ]
+  },
+  {
+    "doc_id": "5008",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "MDP",
+        "start": 31,
+        "end": 34
+      }
+    ]
+  },
+  {
+    "doc_id": "5009",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "MD",
+        "start": 30,
+        "end": 32
+      }
+    ]
+  },
+  {
+    "doc_id": "5013",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "MD",
+        "start": 18,
+        "end": 20
+      }
+    ]
+  },
+  {
+    "doc_id": "5017",
+    "predicted_entities": []
+  },
+  {
+    "doc_id": "5018",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "heart failure",
+        "start": 72,
+        "end": 85
+      }
+    ]
+  },
+  {
+    "doc_id": "5024",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "heart failure",
+        "start": 58,
+        "end": 71
+      }
+    ]
+  },
+  {
+    "doc_id": "5052",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "heart failure",
+        "start": 135,
+        "end": 148
+      }
+    ]
+  },
+  {
+    "doc_id": "5053",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "heart failure",
+        "start": 69,
+        "end": 82
+      }
+    ]
+  },
+  {
+    "doc_id": "5068",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "paralysis",
+        "start": 98,
+        "end": 107
+      }
+    ]
+  },
+  {
+    "doc_id": "5078",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "paralysis",
+        "start": 23,
+        "end": 32
+      },
+      {
+        "label": "Disease",
+        "text": "paralysis",
+        "start": 225,
+        "end": 234
+      }
+    ]
+  },
+  {
+    "doc_id": "5089",
+    "predicted_entities": []
+  },
+  {
+    "doc_id": "5099",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "ATIN",
+        "start": 25,
+        "end": 29
+      }
+    ]
+  },
+  {
+    "doc_id": "5103",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "potassium",
+        "start": 20,
+        "end": 29
+      }
+    ]
+  },
+  {
+    "doc_id": "5106",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "AT",
+        "start": 63,
+        "end": 65
+      }
+    ]
+  },
+  {
+    "doc_id": "5109",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "proteinuria",
+        "start": 40,
+        "end": 51
+      }
+    ]
+  },
+  {
+    "doc_id": "5110",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "ATIN",
+        "start": 62,
+        "end": 66
+      }
+    ]
+  },
+  {
+    "doc_id": "5135",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "inflammation",
+        "start": 133,
+        "end": 145
+      }
+    ]
+  },
+  {
+    "doc_id": "5159",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "bladder inflammation",
+        "start": 271,
+        "end": 291
+      }
+    ]
+  },
+  {
+    "doc_id": "5177",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "oxygen",
+        "start": 51,
+        "end": 57
+      }
+    ]
+  },
+  {
+    "doc_id": "5189",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "oxygen",
+        "start": 37,
+        "end": 43
+      }
+    ]
+  },
+  {
+    "doc_id": "5191",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "oxygen",
+        "start": 98,
+        "end": 104
+      }
+    ]
+  },
+  {
+    "doc_id": "5198",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "rash",
+        "start": 74,
+        "end": 78
+      }
+    ]
+  },
+  {
+    "doc_id": "5200",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "anemia",
+        "start": 53,
+        "end": 59
+      }
+    ]
+  },
+  {
+    "doc_id": "5205",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "toxic",
+        "start": 40,
+        "end": 45
+      }
+    ]
+  },
+  {
+    "doc_id": "5222",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "proteinuria",
+        "start": 23,
+        "end": 34
+      }
+    ]
+  },
+  {
+    "doc_id": "5232",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "CA",
+        "start": 22,
+        "end": 24
+      },
+      {
+        "label": "Disease",
+        "text": "diabetes",
+        "start": 42,
+        "end": 50
+      }
+    ]
+  },
+  {
+    "doc_id": "5233",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "CAD",
+        "start": 26,
+        "end": 29
+      }
+    ]
+  },
+  {
+    "doc_id": "5234",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "CA",
+        "start": 25,
+        "end": 27
+      },
+      {
+        "label": "Disease",
+        "text": "D",
+        "start": 27,
+        "end": 28
+      }
+    ]
+  },
+  {
+    "doc_id": "5265",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "LOS",
+        "start": 24,
+        "end": 27
+      },
+      {
+        "label": "Chemical",
+        "text": "LOS",
+        "start": 60,
+        "end": 63
+      },
+      {
+        "label": "Chemical",
+        "text": "AD",
+        "start": 80,
+        "end": 82
+      }
+    ]
+  },
+  {
+    "doc_id": "5270",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "AD",
+        "start": 44,
+        "end": 46
+      },
+      {
+        "label": "Chemical",
+        "text": "LOS",
+        "start": 50,
+        "end": 53
+      },
+      {
+        "label": "Chemical",
+        "text": "AD",
+        "start": 100,
+        "end": 102
+      }
+    ]
+  },
+  {
+    "doc_id": "5282",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "seizures",
+        "start": 54,
+        "end": 62
+      }
+    ]
+  },
+  {
+    "doc_id": "5337",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "G",
+        "start": 111,
+        "end": 112
+      },
+      {
+        "label": "Disease",
+        "text": "M",
+        "start": 113,
+        "end": 114
+      }
+    ]
+  },
+  {
+    "doc_id": "5341",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "GBM",
+        "start": 176,
+        "end": 179
+      }
+    ]
+  },
+  {
+    "doc_id": "5343",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "lithium",
+        "start": 51,
+        "end": 58
+      },
+      {
+        "label": "Chemical",
+        "text": "calcium",
+        "start": 76,
+        "end": 83
+      }
+    ]
+  },
+  {
+    "doc_id": "5348",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "calcium",
+        "start": 30,
+        "end": 37
+      }
+    ]
+  },
+  {
+    "doc_id": "5360",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "VPA",
+        "start": 24,
+        "end": 27
+      },
+      {
+        "label": "Disease",
+        "text": "weight loss",
+        "start": 71,
+        "end": 82
+      }
+    ]
+  },
+  {
+    "doc_id": "5413",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "heroin",
+        "start": 60,
+        "end": 66
+      },
+      {
+        "label": "Disease",
+        "text": "abuse",
+        "start": 67,
+        "end": 72
+      }
+    ]
+  },
+  {
+    "doc_id": "5418",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "unconsciousness",
+        "start": 13,
+        "end": 28
+      }
+    ]
+  },
+  {
+    "doc_id": "5429",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "M",
+        "start": 141,
+        "end": 142
+      }
+    ]
+  },
+  {
+    "doc_id": "5440",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "TBAR",
+        "start": 118,
+        "end": 122
+      },
+      {
+        "label": "Chemical",
+        "text": "super",
+        "start": 135,
+        "end": 140
+      }
+    ]
+  },
+  {
+    "doc_id": "5468",
+    "predicted_entities": []
+  },
+  {
+    "doc_id": "5481",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "Post",
+        "start": 0,
+        "end": 4
+      },
+      {
+        "label": "Disease",
+        "text": "anemia",
+        "start": 15,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "doc_id": "5483",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "post",
+        "start": 68,
+        "end": 72
+      },
+      {
+        "label": "Disease",
+        "text": "anemia",
+        "start": 83,
+        "end": 89
+      }
+    ]
+  },
+  {
+    "doc_id": "5486",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "cocaine",
+        "start": 93,
+        "end": 100
+      },
+      {
+        "label": "Disease",
+        "text": "chest pain",
+        "start": 114,
+        "end": 124
+      }
+    ]
+  },
+  {
+    "doc_id": "5488",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "cocaine",
+        "start": 20,
+        "end": 27
+      },
+      {
+        "label": "Disease",
+        "text": "cardiac",
+        "start": 167,
+        "end": 174
+      }
+    ]
+  },
+  {
+    "doc_id": "5490",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "cocaine",
+        "start": 60,
+        "end": 67
+      },
+      {
+        "label": "Disease",
+        "text": "chest pain",
+        "start": 81,
+        "end": 91
+      }
+    ]
+  },
+  {
+    "doc_id": "5491",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "cocaine",
+        "start": 117,
+        "end": 124
+      },
+      {
+        "label": "Disease",
+        "text": "chest pain",
+        "start": 135,
+        "end": 145
+      }
+    ]
+  },
+  {
+    "doc_id": "5494",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "cocaine",
+        "start": 38,
+        "end": 45
+      },
+      {
+        "label": "Disease",
+        "text": "chest pain",
+        "start": 59,
+        "end": 69
+      }
+    ]
+  },
+  {
+    "doc_id": "5525",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "visual field constriction",
+        "start": 195,
+        "end": 220
+      },
+      {
+        "label": "Chemical",
+        "text": "VGB",
+        "start": 271,
+        "end": 274
+      },
+      {
+        "label": "Chemical",
+        "text": "VGB",
+        "start": 314,
+        "end": 317
+      },
+      {
+        "label": "Chemical",
+        "text": "VGB",
+        "start": 361,
+        "end": 364
+      }
+    ]
+  },
+  {
+    "doc_id": "5526",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "VGB",
+        "start": 78,
+        "end": 81
+      },
+      {
+        "label": "Chemical",
+        "text": "VGB",
+        "start": 106,
+        "end": 109
+      },
+      {
+        "label": "Chemical",
+        "text": "VGB",
+        "start": 175,
+        "end": 178
+      }
+    ]
+  },
+  {
+    "doc_id": "5529",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "crack cocaine",
+        "start": 11,
+        "end": 24
+      },
+      {
+        "label": "Disease",
+        "text": "HIV infection",
+        "start": 46,
+        "end": 59
+      }
+    ]
+  },
+  {
+    "doc_id": "5530",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "crack cocaine",
+        "start": 66,
+        "end": 79
+      },
+      {
+        "label": "Disease",
+        "text": "HIV infection",
+        "start": 104,
+        "end": 117
+      }
+    ]
+  },
+  {
+    "doc_id": "5531",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "crack cocaine",
+        "start": 28,
+        "end": 41
+      },
+      {
+        "label": "Disease",
+        "text": "HIV infection",
+        "start": 127,
+        "end": 140
+      }
+    ]
+  },
+  {
+    "doc_id": "5539",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "HIV infection",
+        "start": 24,
+        "end": 37
+      }
+    ]
+  },
+  {
+    "doc_id": "5540",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "crack cocaine",
+        "start": 66,
+        "end": 79
+      }
+    ]
+  },
+  {
+    "doc_id": "5553",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "crack cocaine",
+        "start": 115,
+        "end": 128
+      }
+    ]
+  },
+  {
+    "doc_id": "5555",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "Cancer",
+        "start": 0,
+        "end": 6
+      },
+      {
+        "label": "Disease",
+        "text": "deteriorations in cognition",
+        "start": 102,
+        "end": 129
+      }
+    ]
+  },
+  {
+    "doc_id": "5570",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "PB",
+        "start": 52,
+        "end": 54
+      }
+    ]
+  },
+  {
+    "doc_id": "5575",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "PB",
+        "start": 146,
+        "end": 148
+      }
+    ]
+  },
+  {
+    "doc_id": "5578",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "PB",
+        "start": 136,
+        "end": 138
+      }
+    ]
+  },
+  {
+    "doc_id": "5580",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "PB",
+        "start": 173,
+        "end": 175
+      }
+    ]
+  },
+  {
+    "doc_id": "5586",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "sodium",
+        "start": 42,
+        "end": 48
+      }
+    ]
+  },
+  {
+    "doc_id": "5591",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "alcohol",
+        "start": 28,
+        "end": 35
+      },
+      {
+        "label": "Disease",
+        "text": "HIV",
+        "start": 45,
+        "end": 48
+      },
+      {
+        "label": "Disease",
+        "text": "HIV",
+        "start": 108,
+        "end": 111
+      }
+    ]
+  },
+  {
+    "doc_id": "5592",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "alcohol",
+        "start": 32,
+        "end": 39
+      },
+      {
+        "label": "Disease",
+        "text": "depression",
+        "start": 56,
+        "end": 66
+      },
+      {
+        "label": "Disease",
+        "text": "HIV",
+        "start": 90,
+        "end": 93
+      },
+      {
+        "label": "Disease",
+        "text": "HIV",
+        "start": 131,
+        "end": 134
+      }
+    ]
+  },
+  {
+    "doc_id": "5594",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "depression",
+        "start": 144,
+        "end": 154
+      },
+      {
+        "label": "Disease",
+        "text": "Depression",
+        "start": 227,
+        "end": 237
+      },
+      {
+        "label": "Chemical",
+        "text": "alcohol",
+        "start": 251,
+        "end": 258
+      }
+    ]
+  },
+  {
+    "doc_id": "5596",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "alcohol",
+        "start": 54,
+        "end": 61
+      }
+    ]
+  },
+  {
+    "doc_id": "5597",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "alcohol",
+        "start": 98,
+        "end": 105
+      }
+    ]
+  },
+  {
+    "doc_id": "5598",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "alcohol",
+        "start": 24,
+        "end": 31
+      },
+      {
+        "label": "Disease",
+        "text": "depression",
+        "start": 48,
+        "end": 58
+      }
+    ]
+  },
+  {
+    "doc_id": "5599",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "Depression",
+        "start": 7,
+        "end": 17
+      }
+    ]
+  },
+  {
+    "doc_id": "5600",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "alcohol",
+        "start": 26,
+        "end": 33
+      },
+      {
+        "label": "Disease",
+        "text": "depression",
+        "start": 76,
+        "end": 86
+      }
+    ]
+  },
+  {
+    "doc_id": "5601",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "depression",
+        "start": 11,
+        "end": 21
+      },
+      {
+        "label": "Disease",
+        "text": "HIV",
+        "start": 41,
+        "end": 44
+      }
+    ]
+  },
+  {
+    "doc_id": "5602",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "alcohol",
+        "start": 52,
+        "end": 59
+      }
+    ]
+  },
+  {
+    "doc_id": "5609",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "SE",
+        "start": 16,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "doc_id": "5612",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "SE",
+        "start": 63,
+        "end": 65
+      }
+    ]
+  },
+  {
+    "doc_id": "5614",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "SE",
+        "start": 72,
+        "end": 74
+      }
+    ]
+  },
+  {
+    "doc_id": "5615",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "SE",
+        "start": 74,
+        "end": 76
+      }
+    ]
+  },
+  {
+    "doc_id": "5618",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "SE",
+        "start": 88,
+        "end": 90
+      }
+    ]
+  },
+  {
+    "doc_id": "5628",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "B",
+        "start": 27,
+        "end": 28
+      },
+      {
+        "label": "Chemical",
+        "text": "NU solvent",
+        "start": 29,
+        "end": 39
+      }
+    ]
+  },
+  {
+    "doc_id": "5632",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "B",
+        "start": 16,
+        "end": 17
+      },
+      {
+        "label": "Chemical",
+        "text": "NU solvent",
+        "start": 18,
+        "end": 28
+      }
+    ]
+  },
+  {
+    "doc_id": "5634",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "BCNU",
+        "start": 21,
+        "end": 25
+      }
+    ]
+  },
+  {
+    "doc_id": "5640",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "BCNU",
+        "start": 9,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "doc_id": "5701",
+    "predicted_entities": []
+  },
+  {
+    "doc_id": "5703",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "PTRA",
+        "start": 21,
+        "end": 25
+      },
+      {
+        "label": "Chemical",
+        "text": "CM",
+        "start": 77,
+        "end": 79
+      },
+      {
+        "label": "Disease",
+        "text": "toxicity",
+        "start": 80,
+        "end": 88
+      }
+    ]
+  },
+  {
+    "doc_id": "5744",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "HIT",
+        "start": 18,
+        "end": 21
+      }
+    ]
+  },
+  {
+    "doc_id": "5748",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "HIT",
+        "start": 159,
+        "end": 162
+      }
+    ]
+  },
+  {
+    "doc_id": "5757",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "ADSD",
+        "start": 14,
+        "end": 18
+      }
+    ]
+  },
+  {
+    "doc_id": "5761",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "abductor paralysis",
+        "start": 58,
+        "end": 76
+      }
+    ]
+  },
+  {
+    "doc_id": "5763",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "paralysis",
+        "start": 56,
+        "end": 65
+      },
+      {
+        "label": "Disease",
+        "text": "para",
+        "start": 96,
+        "end": 100
+      }
+    ]
+  },
+  {
+    "doc_id": "5768",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "paralysis",
+        "start": 4,
+        "end": 13
+      }
+    ]
+  },
+  {
+    "doc_id": "5772",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "cocaine",
+        "start": 14,
+        "end": 21
+      },
+      {
+        "label": "Chemical",
+        "text": "oxygen",
+        "start": 65,
+        "end": 71
+      }
+    ]
+  },
+  {
+    "doc_id": "5774",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "AT",
+        "start": 36,
+        "end": 38
+      }
+    ]
+  },
+  {
+    "doc_id": "5785",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "anemia",
+        "start": 16,
+        "end": 22
+      },
+      {
+        "label": "Disease",
+        "text": "anemia",
+        "start": 85,
+        "end": 91
+      }
+    ]
+  },
+  {
+    "doc_id": "5811",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "potassium",
+        "start": 27,
+        "end": 36
+      },
+      {
+        "label": "Chemical",
+        "text": "potassium",
+        "start": 115,
+        "end": 124
+      }
+    ]
+  },
+  {
+    "doc_id": "5824",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "weakness",
+        "start": 93,
+        "end": 101
+      },
+      {
+        "label": "Disease",
+        "text": "pneumonia",
+        "start": 142,
+        "end": 151
+      }
+    ]
+  },
+  {
+    "doc_id": "5832",
+    "predicted_entities": [
+      {
+        "label": "Disease",
+        "text": "Coma",
+        "start": 50,
+        "end": 54
+      },
+      {
+        "label": "Disease",
+        "text": "cardiac arrest",
+        "start": 169,
+        "end": 183
+      }
+    ]
+  },
+  {
+    "doc_id": "5845",
+    "predicted_entities": [
+      {
+        "label": "Chemical",
+        "text": "Lindane",
+        "start": 0,
+        "end": 7
+      }
+    ]
+  }
+]
