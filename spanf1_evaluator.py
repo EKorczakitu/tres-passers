@@ -4,7 +4,7 @@ def extract_spans_from_json(data):
     spans = set()
     for doc in data:
         doc_id = doc.get("doc_id")
-        entities = doc.get("predicted_entities", doc.get("entities", []))
+        entities = doc.get("predicted_entities", doc.get("true_entities", []))
         
         for ent in entities:
             span = (doc_id, ent.get("label"), ent.get("start"), ent.get("end"))
