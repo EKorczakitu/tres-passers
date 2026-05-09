@@ -20,13 +20,19 @@ def get_entities_by_doc(data):
             })
     return grouped
 
-def extract_heatmap_grid_3x3():
+def extract_heatmap_grid_3x3_full():
     print("Loading data...")
     df_tokens = pd.read_csv('project/token_analysis.csv')
     token_lookup = dict(zip(df_tokens['entity_text'].str.lower().str.strip(), df_tokens['biobert_token_count']))
 
-    gold_grouped = get_entities_by_doc(load_json('project/test_hard.json'))
-    pred_grouped = get_entities_by_doc(load_json('project/biobert_predictions_hard.json'))
+    # =======================================================
+    # COMBINE EASY AND HARD DATASETS HERE
+    # =======================================================
+    gold_combined = load_json('project/test_easy.json') + load_json('project/test_hard.json')
+    pred_combined = load_json('project/biobert_predictions_easy.json') + load_json('project/biobert_predictions_hard.json')
+
+    gold_grouped = get_entities_by_doc(gold_combined)
+    pred_grouped = get_entities_by_doc(pred_combined)
 
     # NEW 3x3 BUCKETS
     char_buckets = ["1-5 chars", "6-10 chars", "11+ chars"]
@@ -73,6 +79,7 @@ def extract_heatmap_grid_3x3():
             counts = grid[t][c]
             tp, fp, fn = counts["TP"], counts["FP"], counts["FN"]
             
+            # Increased the threshold to 5 to ensure we only plot statistically relevant squares
             if (tp + fp + fn) < 5:
                 scores.append("np.nan")
             else:
@@ -86,4 +93,4 @@ def extract_heatmap_grid_3x3():
     print("    }")
 
 if __name__ == '__main__':
-    extract_heatmap_grid_3x3()
+    extract_heatmap_grid_3x3_full()
