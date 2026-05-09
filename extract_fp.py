@@ -61,8 +61,8 @@ def run_fp_extraction(gold_file, pred_file, token_csv):
         print("\n=== TOP 20 MOST HALLUCINATED 1-TOKEN WORDS ===")
         print(top_hallucinations)
         
-        df_fp.to_csv("biobert_1_token_errors.csv", index=False)
-        print("\nExported full context to 'biobert_1_token_errors.csv'")
+        df_fp.to_csv("gemini_1_token_errors.csv", index=False)
+        print("\nExported full context to 'gemini_1_token_errors.csv'")
     else:
         print("No 1-token false positives found.")
 
@@ -70,6 +70,6 @@ if __name__ == '__main__':
     # Using your Hard subset since that's what you just analyzed
     run_fp_extraction(
         gold_file='project/test_hard.json', 
-        pred_file='project/biobert_predictions_hard.json', 
+        pred_file='project/gemini_predictions_hard.json', 
         token_csv='project/token_analysis.csv'
     )
