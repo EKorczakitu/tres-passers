@@ -26,7 +26,7 @@ def extract_heatmap_grid_3x3():
     token_lookup = dict(zip(df_tokens['entity_text'].str.lower().str.strip(), df_tokens['biobert_token_count']))
 
     gold_grouped = get_entities_by_doc(load_json('project/test_hard.json'))
-    pred_grouped = get_entities_by_doc(load_json('project/gemini_predictions_hard.json'))
+    pred_grouped = get_entities_by_doc(load_json('project/biobert_predictions_hard.json'))
 
     # NEW 3x3 BUCKETS
     char_buckets = ["1-5 chars", "6-10 chars", "11+ chars"]
