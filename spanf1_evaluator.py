@@ -112,6 +112,12 @@ if __name__ == '__main__':
     pred_gemini_easy = load_json('project/gemini_predictions_easy.json')
     pred_gemini_hard = load_json('project/gemini_predictions_hard.json')
     
+    pred_biobert_easy = load_json('project/biobert_predictions_easy.json')
+    pred_biobert_hard = load_json('project/biobert_predictions_hard.json')
+    
+    pred_bert_easy = load_json('project/bert_predictions_easy.json')
+    pred_bert_hard = load_json('project/bert_predictions_hard.json')
+    
     # Optional: uncomment once you have your BioBERT JSONs
     # pred_biobert_easy = load_json('project/biobert_predictions_easy.json')
     # pred_biobert_hard = load_json('project/biobert_predictions_hard.json')
@@ -122,13 +128,17 @@ if __name__ == '__main__':
     print("\n=== GEMINI: HARD SUBSET ===")
     print(json.dumps(calculate_dual_metrics(gold_hard, pred_gemini_hard), indent=4))
 
-    # print("\n=== BIOBERT: EASY SUBSET ===")
-    # print(json.dumps(calculate_dual_metrics(gold_easy, pred_biobert_easy), indent=4))
+    print("\n=== BIOBERT: EASY SUBSET ===")
+    print(json.dumps(calculate_dual_metrics(gold_easy, pred_biobert_easy), indent=4))
     
-    # print("\n=== BIOBERT: HARD SUBSET ===")
-    # print(json.dumps(calculate_dual_metrics(gold_hard, pred_biobert_hard), indent=4))
+    print("\n=== BIOBERT: HARD SUBSET ===")
+    print(json.dumps(calculate_dual_metrics(gold_hard, pred_biobert_hard), indent=4))
     
-    
+    print("\n=== BERT: EASY SUBSET ===")
+    print(json.dumps(calculate_dual_metrics(gold_easy, pred_bert_easy), indent=4))
+    print("\n=== BERT: HARD SUBSET ===")
+    print(json.dumps(calculate_dual_metrics(gold_hard, pred_bert_hard), indent=4))
+
     """
     How to use this for your report discussion
 By running this script, you will get two distinct F1 scores for every model. Because LLMs inherently struggle with precise character-level indexing compared to specialized models, this data gives you a powerful narrative for your analysis:  
