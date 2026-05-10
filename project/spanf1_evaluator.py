@@ -1,19 +1,14 @@
 import json
 from collections import defaultdict
 
+# Grouping utility by Document ID and Entity Label
 def get_entities_by_doc_and_label(data):
-    """
-    Groups entities into a dictionary where the key is (doc_id, label)
-    and the value is a list of entity dictionaries containing start/end indexes.
-    """
     grouped = defaultdict(list)
     for doc in data:
         doc_id = doc.get("doc_id")
-        # Handle both the gold standard key and the prediction key
         entities = doc.get("predicted_entities", doc.get("true_entities", []))
         
         for ent in entities:
-            # We group by Document ID and Entity Label (e.g., 'Disease' or 'Chemical')
             key = (doc_id, ent.get("label"))
             grouped[key].append({
                 "start": ent.get("start"),
@@ -23,27 +18,21 @@ def get_entities_by_doc_and_label(data):
             
     return grouped
 
+# Core function for calculating Strict and Relaxed F1 scores
 def calculate_dual_metrics(gold_data, pred_data):
-    """
-    Calculates both Strict (Exact Match) and Relaxed (Overlap) F1 scores.
-    """
     gold_grouped = get_entities_by_doc_and_label(gold_data)
     pred_grouped = get_entities_by_doc_and_label(pred_data)
 
-    # Trackers
     strict_tp, strict_fp, strict_fn = 0, 0, 0
     relaxed_tp, relaxed_fp, relaxed_fn = 0, 0, 0
 
-    # Get all unique (doc_id, label) combinations from both datasets
     all_keys = set(gold_grouped.keys()).union(set(pred_grouped.keys()))
 
     for key in all_keys:
         gold_ents = gold_grouped[key]
         pred_ents = pred_grouped[key]
 
-        # ==========================================
-        # 1. STRICT EVALUATION (Exact Boundaries)
-        # ==========================================
+        # Strict Matching logic (Exact Boundaries)
         gold_spans = {(e["start"], e["end"]) for e in gold_ents}
         pred_spans = {(e["start"], e["end"]) for e in pred_ents}
 
@@ -51,9 +40,7 @@ def calculate_dual_metrics(gold_data, pred_data):
         strict_fp += len(pred_spans - gold_spans)
         strict_fn += len(gold_spans - pred_spans)
 
-        # ==========================================
-        # 2. RELAXED EVALUATION (Overlapping Spans)
-        # ==========================================
+        # Relaxed Matching logic (Character Overlap)
         matched_gold_indexes = set()
 
         for p_ent in pred_ents:
@@ -63,23 +50,18 @@ def calculate_dual_metrics(gold_data, pred_data):
             for g_idx, g_ent in enumerate(gold_ents):
                 g_start, g_end = g_ent["start"], g_ent["end"]
 
-                # The logic for span overlap: 
-                # The highest start value must be lower than the lowest end value.
                 if max(p_start, g_start) < min(p_end, g_end):
                     has_overlap = True
                     matched_gold_indexes.add(g_idx)
 
             if has_overlap:
-                # Prediction overlapped with at least one true entity
                 relaxed_tp += 1
             else:
-                # Prediction touched absolutely nothing
                 relaxed_fp += 1
 
-        # Any gold entities that were NEVER touched by a prediction are False Negatives
         relaxed_fn += (len(gold_ents) - len(matched_gold_indexes))
 
-    # Helper function to calculate final F1 maths
+    # Math utility for Precision, Recall, and F1
     def calc_f1(tp, fp, fn):
         precision = tp / (tp + fp) if (tp + fp) > 0 else 0.0
         recall = tp / (tp + fn) if (tp + fn) > 0 else 0.0
@@ -100,12 +82,13 @@ def calculate_dual_metrics(gold_data, pred_data):
         }
     }
 
+# File loading utility
 def load_json(filepath):
     with open(filepath, 'r', encoding='utf-8') as f:
         return json.load(f)
 
+# Main execution: Loading subsets and printing model performance
 if __name__ == '__main__':
-    # Load data (Update these paths if needed)
     gold_easy = load_json('project/test_easy.json')
     gold_hard = load_json('project/test_hard.json')
 
@@ -118,10 +101,6 @@ if __name__ == '__main__':
     pred_bert_easy = load_json('project/bert_predictions_easy.json')
     pred_bert_hard = load_json('project/bert_predictions_hard.json')
     
-    # Optional: uncomment once you have your BioBERT JSONs
-    # pred_biobert_easy = load_json('project/biobert_predictions_easy.json')
-    # pred_biobert_hard = load_json('project/biobert_predictions_hard.json')
-
     print("=== GEMINI: EASY SUBSET ===")
     print(json.dumps(calculate_dual_metrics(gold_easy, pred_gemini_easy), indent=4))
     
@@ -136,14 +115,6 @@ if __name__ == '__main__':
     
     print("\n=== BERT: EASY SUBSET ===")
     print(json.dumps(calculate_dual_metrics(gold_easy, pred_bert_easy), indent=4))
+
     print("\n=== BERT: HARD SUBSET ===")
     print(json.dumps(calculate_dual_metrics(gold_hard, pred_bert_hard), indent=4))
-
-    """
-    How to use this for your report discussion
-By running this script, you will get two distinct F1 scores for every model. Because LLMs inherently struggle with precise character-level indexing compared to specialized models, this data gives you a powerful narrative for your analysis:  
-
-If Strict F1 is low, but Relaxed F1 is high: This proves the model successfully understands the medical concepts and extracts the right terms, but it fails at token boundary precision (e.g., extracting "severe pyrexia" instead of just "pyrexia").
-
-If both Strict F1 and Relaxed F1 are low: This indicates a complete knowledge failure or hallucination—the model is completely missing the entities or extracting entirely wrong concepts.
-    """

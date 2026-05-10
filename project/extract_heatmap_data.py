@@ -3,10 +3,12 @@ import pandas as pd
 import numpy as np
 from collections import defaultdict
 
+# Utility to load JSON data
 def load_json(filepath):
     with open(filepath, 'r', encoding='utf-8') as f:
         return json.load(f)
 
+# Group entities by document ID and normalize text
 def get_entities_by_doc(data):
     grouped = defaultdict(list)
     for doc in data:
@@ -20,26 +22,24 @@ def get_entities_by_doc(data):
             })
     return grouped
 
+# Main analysis function for 3x3 performance grid
 def extract_heatmap_grid_3x3_full():
-    print("Loading data...")
     df_tokens = pd.read_csv('project/token_analysis.csv')
     token_lookup = dict(zip(df_tokens['entity_text'].str.lower().str.strip(), df_tokens['biobert_token_count']))
 
-    # =======================================================
-    # COMBINE EASY AND HARD DATASETS HERE
-    # =======================================================
+    # Merge Easy and Hard datasets for full evaluation
     gold_combined = load_json('project/test_easy.json') + load_json('project/test_hard.json')
     pred_combined = load_json('project/biobert_predictions_easy.json') + load_json('project/biobert_predictions_hard.json')
 
     gold_grouped = get_entities_by_doc(gold_combined)
     pred_grouped = get_entities_by_doc(pred_combined)
 
-    # NEW 3x3 BUCKETS
+    # Define dimensions for the 3x3 grid
     char_buckets = ["1-5 chars", "6-10 chars", "11+ chars"]
     token_buckets = ["1 Token", "2 Tokens", "3+ Tokens"]
-    
     grid = {t: {c: {"TP": 0, "FP": 0, "FN": 0} for c in char_buckets} for t in token_buckets}
 
+    # Categorization logic for tokens and character lengths
     def get_token_bucket(text):
         count = token_lookup.get(text, 1)
         if count == 1: return "1 Token"
@@ -52,25 +52,24 @@ def extract_heatmap_grid_3x3_full():
         elif length <= 10: return "6-10 chars"
         else: return "11+ chars"
 
+    # Exact match span comparison and bucket counting
     all_doc_ids = set(gold_grouped.keys()).union(set(pred_grouped.keys()))
 
     for doc_id in all_doc_ids:
         gold_ents = {(e["start"], e["end"], e["text"]) for e in gold_grouped[doc_id]}
         pred_ents = {(e["start"], e["end"], e["text"]) for e in pred_grouped[doc_id]}
 
-        # True Positives 
         gold_spans = gold_ents.intersection(pred_ents)
         for span in gold_spans:
             grid[get_token_bucket(span[2])][get_char_bucket(span[2])]["TP"] += 1
 
-        # False Positives 
         for span in pred_ents - gold_ents:
             grid[get_token_bucket(span[2])][get_char_bucket(span[2])]["FP"] += 1
 
-        # False Negatives
         for span in gold_ents - pred_ents:
             grid[get_token_bucket(span[2])][get_char_bucket(span[2])]["FN"] += 1
 
+    # Formatting and printing results as a dictionary
     print("\n=== COPY AND PASTE THIS INTO YOUR HEATMAP SCRIPT ===\n")
     print("    data = {")
     for c in char_buckets:
@@ -79,7 +78,6 @@ def extract_heatmap_grid_3x3_full():
             counts = grid[t][c]
             tp, fp, fn = counts["TP"], counts["FP"], counts["FN"]
             
-            # Increased the threshold to 5 to ensure we only plot statistically relevant squares
             if (tp + fp + fn) < 5:
                 scores.append("np.nan")
             else:
@@ -92,5 +90,6 @@ def extract_heatmap_grid_3x3_full():
         print(f'        "{c}": [{row_str}],')
     print("    }")
 
+# Execute script
 if __name__ == '__main__':
     extract_heatmap_grid_3x3_full()

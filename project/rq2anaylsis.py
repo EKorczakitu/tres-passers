@@ -2,10 +2,12 @@ import json
 import pandas as pd
 from collections import defaultdict
 
+# Data loading helper
 def load_json(filepath):
     with open(filepath, 'r', encoding='utf-8') as f:
         return json.load(f)
 
+# Entity grouping by document ID
 def get_entities_by_doc(data):
     grouped = defaultdict(list)
     for doc in data:
@@ -19,8 +21,8 @@ def get_entities_by_doc(data):
             })
     return grouped
 
+# Main analysis logic for Strict and Relaxed matching
 def analyze_fragmentation_final(gold_file, pred_file, token_csv, model_name):
-    # 1. Load the token mapping
     df_tokens = pd.read_csv(token_csv)
     token_lookup = dict(zip(df_tokens['entity_text'].str.lower().str.strip(), df_tokens['biobert_token_count']))
 
@@ -33,9 +35,8 @@ def analyze_fragmentation_final(gold_file, pred_file, token_csv, model_name):
         "3+ Tokens": {"Strict TP": 0, "Strict FP": 0, "Strict FN": 0, "Relaxed TP": 0, "Relaxed FP": 0, "Relaxed FN": 0}
     }
 
+    # Token bucket categorization logic
     def get_bucket_name(text):
-        # IMPROVED BUCKETING: If not in CSV, estimate bucket by length
-        # (Average BioBERT token is ~4 chars)
         if text in token_lookup:
             count = token_lookup[text]
         else:
@@ -51,7 +52,7 @@ def analyze_fragmentation_final(gold_file, pred_file, token_csv, model_name):
         golds = gold_grouped[doc_id]
         preds = pred_grouped[doc_id]
 
-        # --- A. STRICT MATCHING ---
+        # Strict Matching evaluation
         gold_spans = {(e["start"], e["end"], e["text"]) for e in golds}
         pred_spans = {(e["start"], e["end"], e["text"]) for e in preds}
         for span in gold_spans.intersection(pred_spans):
@@ -61,34 +62,30 @@ def analyze_fragmentation_final(gold_file, pred_file, token_csv, model_name):
         for span in gold_spans - pred_spans:
             buckets[get_bucket_name(span[2])]["Strict FN"] += 1
 
-        # --- B. ONE-TO-ONE RELAXED MATCHING ---
+        # Relaxed (Overlap) Matching evaluation
         matched_preds = [False] * len(preds)
         matched_golds = [False] * len(golds)
 
-        # 1. Find matches
         for p_idx, p in enumerate(preds):
             for g_idx, g in enumerate(golds):
                 if not matched_golds[g_idx] and max(p["start"], g["start"]) < min(p["end"], g["end"]):
-                    # We have a match!
                     bucket = get_bucket_name(g["text"])
                     buckets[bucket]["Relaxed TP"] += 1
                     matched_preds[p_idx] = True
                     matched_golds[g_idx] = True
-                    break # One prediction can only claim one gold
+                    break 
 
-        # 2. Count False Positives (Hallucinations)
         for p_idx, p in enumerate(preds):
             if not matched_preds[p_idx]:
                 bucket = get_bucket_name(p["text"])
                 buckets[bucket]["Relaxed FP"] += 1
 
-        # 3. Count False Negatives (Missed)
         for g_idx, g in enumerate(golds):
             if not matched_golds[g_idx]:
                 bucket = get_bucket_name(g["text"])
                 buckets[bucket]["Relaxed FN"] += 1
 
-    # --- C. METRICS ---
+    # F1-Score calculation and DataFrame conversion
     results = []
     for b_name, c in buckets.items():
         for m_type in ["Strict", "Relaxed"]:
@@ -102,9 +99,8 @@ def analyze_fragmentation_final(gold_file, pred_file, token_csv, model_name):
                             "Match Type": f"{m_type} Match", "F1-Score": round(f1, 4)})
     return pd.DataFrame(results)
 
-
+# Execution block for multiple models
 if __name__ == '__main__':
-    # Analyze Gemini 
     gemini_df = analyze_fragmentation_final(
         gold_file='project/test_hard.json', 
         pred_file='project/gemini_predictions_hard.json', 
@@ -112,7 +108,6 @@ if __name__ == '__main__':
         model_name='Gemini (Zero-Shot)'
     )
     
-    # Analyze BioBERT 
     biobert_df = analyze_fragmentation_final(
         gold_file='project/test_hard.json', 
         pred_file='project/biobert_predictions_hard.json', 
@@ -120,7 +115,6 @@ if __name__ == '__main__':
         model_name='BioBERT'
     )
 
-    # Analyze Standard BERT
     bert_df = analyze_fragmentation_final(
         gold_file='project/test_hard.json', 
         pred_file='project/bert_predictions_hard.json', 
@@ -128,7 +122,6 @@ if __name__ == '__main__':
         model_name='Standard BERT'
     )
 
-    # Combine dataframes for all three models
     final_df = pd.concat([bert_df, biobert_df, gemini_df])
 
     print("=== FINAL DUAL FRAGMENTATION RESULTS ===")

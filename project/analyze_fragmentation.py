@@ -4,12 +4,13 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from collections import defaultdict
 
+# Data Loading Utility
 def load_json(filepath):
     with open(filepath, 'r', encoding='utf-8') as f:
         return json.load(f)
 
+# Entity Grouping and Normalization
 def get_entities_by_doc(data):
-    """Groups entities by document ID for easier span matching."""
     grouped = defaultdict(list)
     for doc in data:
         doc_id = doc.get("doc_id")
@@ -18,22 +19,18 @@ def get_entities_by_doc(data):
             grouped[doc_id].append({
                 "start": ent.get("start"),
                 "end": ent.get("end"),
-                "text": ent.get("text").lower().strip() # Normalize text
+                "text": ent.get("text").lower().strip() 
             })
     return grouped
 
+# Fragmentation Analysis and Metric Calculation
 def analyze_fragmentation(gold_file, pred_file, token_csv, model_name):
-    # 1. Load the token mapping from your CSV
     df_tokens = pd.read_csv(token_csv)
-    
-    # We will use BioBERT's token count for the bucketing baseline
     token_lookup = dict(zip(df_tokens['entity_text'].str.lower().str.strip(), df_tokens['biobert_token_count']))
 
-    # 2. Load the predictions and gold standard
     gold_grouped = get_entities_by_doc(load_json(gold_file))
     pred_grouped = get_entities_by_doc(load_json(pred_file))
 
-    # Trackers for our buckets
     buckets = {
         "1 Token": {"TP": 0, "FP": 0, "FN": 0},
         "2 Tokens": {"TP": 0, "FP": 0, "FN": 0},
@@ -41,12 +38,12 @@ def analyze_fragmentation(gold_file, pred_file, token_csv, model_name):
     }
 
     def get_bucket_name(text):
-        count = token_lookup.get(text, 1) # Default to 1 if somehow missing
+        count = token_lookup.get(text, 1) 
         if count == 1: return "1 Token"
         elif count == 2: return "2 Tokens"
         else: return "3+ Tokens"
 
-    # 3. Calculate TP, FP, FN per token bucket (Strict Exact Match)
+    # Span Matching and Bucket Assignment
     all_doc_ids = set(gold_grouped.keys()).union(set(pred_grouped.keys()))
 
     for doc_id in all_doc_ids:
@@ -56,22 +53,19 @@ def analyze_fragmentation(gold_file, pred_file, token_csv, model_name):
         gold_spans = {(e["start"], e["end"], e["text"]) for e in gold_ents}
         pred_spans = {(e["start"], e["end"], e["text"]) for e in pred_ents}
 
-        # True Positives
         for span in gold_spans.intersection(pred_spans):
             bucket = get_bucket_name(span[2])
             buckets[bucket]["TP"] += 1
 
-        # False Positives 
         for span in pred_spans - gold_spans:
             bucket = get_bucket_name(span[2])
             buckets[bucket]["FP"] += 1
 
-        # False Negatives
         for span in gold_spans - pred_spans:
             bucket = get_bucket_name(span[2])
             buckets[bucket]["FN"] += 1
 
-    # 4. Calculate F1 for each bucket
+    # DataFrame Generation for Results
     results = []
     for bucket_name, counts in buckets.items():
         tp = counts["TP"]
@@ -93,8 +87,8 @@ def analyze_fragmentation(gold_file, pred_file, token_csv, model_name):
 
     return pd.DataFrame(results)
 
+# Main Execution Loop for Comparative Analysis
 if __name__ == '__main__':
-    # Analyze Gemini on the Hard subset
     gemini_df = analyze_fragmentation(
         gold_file='project/test_hard.json', 
         pred_file='project/gemini_predictions_hard.json', 
@@ -102,7 +96,6 @@ if __name__ == '__main__':
         model_name='Gemini (Zero-Shot)'
     )
     
-    # Analyze BioBERT on the Hard subset
     biobert_df = analyze_fragmentation(
         gold_file='project/test_hard.json', 
         pred_file='project/biobert_predictions_hard.json', 
@@ -110,7 +103,6 @@ if __name__ == '__main__':
         model_name='BioBERT'
     )
 
-    # Analyze Standard BERT on the Hard subset
     bert_df = analyze_fragmentation(
         gold_file='project/test_hard.json', 
         pred_file='project/bert_predictions_hard.json', 
@@ -118,17 +110,15 @@ if __name__ == '__main__':
         model_name='Standard BERT'
     )
 
-    # Combine dataframes for all three models
     final_df = pd.concat([gemini_df, biobert_df, bert_df])
 
     print("--- Fragmentation Analysis Results ---")
     print(final_df.to_string(index=False))
 
-    # 5. Generate the Visualization (Quick Bar Chart)
+    # Data Visualization and Export
     sns.set_theme(style="whitegrid")
     plt.figure(figsize=(12, 6))
     
-    # Plotting ALL 3 models side-by-side
     ax = sns.barplot(
         x="Token Bucket", 
         y="F1-Score", 
@@ -143,9 +133,8 @@ if __name__ == '__main__':
     plt.xlabel('BioBERT Token Count per Entity', fontsize=12)
     plt.ylim(0, 1.0)
     
-    # Add the F1 scores on top of the bars
     for p in ax.patches:
-        if p.get_height() > 0: # Only annotate if there's a bar
+        if p.get_height() > 0: 
             ax.annotate(format(p.get_height(), '.2f'), 
                        (p.get_x() + p.get_width() / 2., p.get_height()), 
                        ha = 'center', va = 'center', 
@@ -153,7 +142,6 @@ if __name__ == '__main__':
                        textcoords = 'offset points',
                        fontsize=9)
 
-    # Move legend outside the plot
     sns.move_legend(ax, "upper left", bbox_to_anchor=(1, 1))
 
     plt.tight_layout()
