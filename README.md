@@ -11,7 +11,7 @@ This repository contains a comparative analysis of **BioBERT** (a fine-tuned enc
 
 ### Installation
 Install all required libraries using the provided requirements file:
-```bash
+
 pip install -r requirements.txt
 
 
